@@ -1,0 +1,880 @@
+/**
+  * isMobile
+  * responsiveMenu  
+  * ajaxContactForm
+  * alertBox
+  * testimonialSlide
+  * flatTestimonials
+  * flatTestimonialsStyle1
+  * progressBar
+  * flatTeam
+  * flatTeamNomargin
+  * twitterFeed
+  * portfolioIsotope
+  * portfolioCarosuel
+  * progressCircle
+  * detectViewport
+  * counter
+  * tabs
+  * flatTestimonials
+  * flatClient
+  * flatClientSt1
+  * featuredPost
+  * flatServices
+  * blogMasory
+  * googleMap
+  * togglesAccordion
+  * responsiveVideo
+  * swClick
+  * goTop
+  * retinaLogos
+  * parallax
+  * removePreloader
+*/
+
+; (function ($) {
+
+    'use strict'
+
+    var eventsLoading = function () {
+        var eventsData = [{
+            'eventDate': '26 March 2017',
+            'place': 'Placepalayam & Gudiyam Tribal Villages,Thiruvallur District',
+            'Time': '6.00AM - 6.00PM',
+            'Members': '12 Volunteers',
+            'Description': 'We provided solar lamp to each family, as there is no electricity available.\nWe entertained people by singing songs, providing small gifts and chocolates and provided special lunch.\nWe also gave a brief talk on cleanliness & health, child marriage and child labour.',
+            'image': 'images/about/index-2/5.jpg'
+        },
+        {
+            'eventDate': '06 May 2017',
+            'place': 'Bharath Matha Sevai Ilam,Nandhiyambakkam,Thiruvallur District',
+            'Time': '1.00PM - 6.00PM',
+            'Members': '9 Volunteers',
+            'Description': 'We provided special and gave stationary items to the special people. We thank Mourya and Sumanth for doing this good cause.',
+            'image': 'images/about/index-2/5.jpg'
+        },
+        {
+            'eventDate': '13 May 2017',
+            'place': 'Zeal Trust,Thiruvallur',
+            'Time': '10.00AM - 3.00PM',
+            'Members': '6 Volunteers',
+            'Description': '"Talentron" an cultural fest for college students to raise funds to help the needy.',
+            'image': 'images/about/index-2/5.jpg'
+        },
+        {
+            'eventDate': '10 June 2017',
+            'place': 'Asirvadhu Ashram,Siruvanur,Thiruvallur District',
+            'Time': '6.00AM - 6.00PM',
+            'Members': '12 Volunteers',
+            'Description': 'According to our plan of appreciating and providing the study kit for the students of interiorvillages of Thiruvallur district namely Guidyum, Placepalayam, Manjakuppam,Narigonam,etc.\n The Event Held with Presence of Ms.Sudha(Trans-National Speaker) and some others..\n Started with prayer dances and Speeches from the guest later we provided the kit to all kids and some cultural we are planned accordingly we conducted those games and all kids had their lunch.\n And all the kids where returned to their villages and event is ended.',
+            'image': 'images/about/index-2/5.jpg'
+        },
+        {
+            'eventDate': '28 July 2017 to 29 July 2017',
+            'place': 'IIAP, Kavalur, Thiruvanamalai District',
+            'Time': '2 Days',
+            'Members': '19 Volunteers',
+            'Description': 'We organized a special tour for orphan children. We had full of thoughts and experience sharing session about the observatory telescope view and geek science facts.',
+            'image': 'images/about/index-2/5.jpg'
+        },
+        {
+            'eventDate': '02 October 2017',
+            'place': 'Irrukam Island,Andhra Pradesh',
+            'Time': '7.00AM - 8.00PM',
+            'Members': '57 Volunteers',
+            'Description': 'We had a conversation with the Children and gathered in a place and started our events.\nWe began with Games first and then few Cultural programs.\nour Trust ladies prepared a good lunch for everyone.',
+            'image': 'images/service6.jpg'
+        },
+        {
+            'eventDate': '26 November 2017',
+            'place': 'SRMC Porur, Chennai',
+            'Time': '10.00AM - 3.00PM',
+            'Members': '11 Volunteers',
+            'Description': 'An Workshop on "Students role in the Development of NGO" along with appreciating the young achievers who are all from poor background.',
+            'image': 'images/service4.jpg'
+        },
+        {
+            'eventDate': '23 December 2017',
+            'place': 'Pathiri Village,Villupuram District',
+            'Time': '6.30AM - 7.00PM',
+            'Members': '24 Volunteers',
+            'Description': 'we planned an awareness program on Usage of Plastics – Its Merits & De-merits. T-shirts were one of their need, hence’ we managed to get t-shirts based on the sizes of the children & packed it according to the size and gender along with a snack in each pack for the children to relish.',
+            'image': 'images/service7.jpg'
+        },
+		{
+            'eventDate': '09 June 2018',
+            'place': 'Asirvadhu Ashram,Siruvanur,Thiruvallur District',
+            'Time': '10.00AM - 4.00PM',
+            'Members': '8 Volunteers',
+            'Description': 'We organized this event at Aashirvadh Aashram, Siruvanur in association with three other Trusts namely Zeal Trust, MM foundation and Mithuran Foundation.\nThe event started off with a prayer.\n After the prayer the students we had invited were given a platform to showcase their talents. Many of themsang beautiful songs and some even danced to their favourite music.\n Later Chief guest’s Thiruvallur District Head,Chief Judge and Other Resource people, delivered an inspiring speech in front of the gathering on the topic- "How to reach your goals".\n After the speech students were given the study kits and following that we had lunch with them.',
+            'image': 'images/service7.jpg'
+        },
+		{
+            'eventDate': '21 June 2018 to 24 June 2018',
+            'place': 'Community Seva School,Thalvenniyur, Kalvarayan Hills,Kallakurichi Taluk,Villupuram District',
+            'Time': '2 Days',
+            'Members': '24 Volunteers',
+            'Description': 'This events aim was to interact with Tribal Village children studying in Community Seva Primary School located in Thalaveniyur Village, Kalvarayan Hills \n and to visit the surrounding villagesto get a sneak peak into their daily lives.\n This event involved a lot of travel.\n From bus journeys to longwalks it had it all.\n And since there were no proper road facilities available, we had to hike 7km to reach the school premises.\n The school students greeted us in an enthusiastic manner. After refreshing, we started off with pasting charts in the classrooms.\n The charts were focussed on creating awareness about cleanliness, education and other topics.\n Once that was done, we split ourselves into small teams and engaged the students by organizing fun activities and educational sessions.\n In the meantime, members from our team themselves prepared a special lunch( chicken Briyani) for the kids and once the fun activities session came to a close they were served lunch.\n After lunch, we distributed the goodies we had bought for them.\n The goodies included innerwear and chocolates for the kids.\n Also we presented a cheque to the school management that enabled them to buy a 1 year Subscription plan for the Sun Direct DTH services. They needed this for the hostel students.\n Though the school management had asked us for a lot of things, we managed to fulfill those that were within our reach. All in all we enjoyed our time at school and learnt a lot.',
+            'image': 'images/service7.jpg'
+        },
+		{
+            'eventDate': '15 September 2018',
+            'place': 'Panchayat Union Primary School, Manalmedu village,Thiruveniyanallur Block,Arasur Taluk,Villupuram District',
+            'Time': '11.00am to 4.00pm',
+            'Members': '15 Volunteers',
+            'Description': 'This events aim was to meet an inspiring soul- a teacher and her 25 students.\n Inspiring because despite her bad health condition she made sure she reached school everyday so that she could take classes for her students.\n The families of these students consider their schooling as a waste of time but it is she who makes sure the students didnt discontinue their education no matter what. We reached Manalmedu at around 9 am.\n We started off by decorating the school premises and then later organized a small meeting with the students to interact with them.\n After the interaction we presented to them the benches we had bought for them. The students were elated. After that we distributed the chocolates and water bottles we had bought for them.\n We even presented a memento to the HeadMistress of the school to honor her efforts that made sure these children didnt drop of out school.\n Once the distribution ceremony came to a close the students were given a platform to showcase their talents.\n Many of them sang songs and a couple of them put up dance performances.',
+            'image': 'images/service7.jpg'
+        },
+		{
+            'eventDate': '02 October 2018',
+            'place': 'Bharath Matha Sevai Ilam,Nandhiyambakkam,Thiruvallur District',
+            'Time': '10.00am to 02.00pm',
+            'Members': '17 Volunteers',
+            'Description': 'The agenda for this event was to meet the kids of Bharath Mala Sevai Illam and spend some quality time with them. \n Also this was a special event because it fell on the day of Gandhi Jayanthi which is also the called 8th Trust Achievement Day as we are doing some good cause on this date for Past years. \n We had made arrangements for providing them Provisions and Stationers on the day of the visit. \n The kids were elated to see us and interacted with us enthusiastically. From their favorite food to daily routines they shared with us their way of life. \n Also a lot students showcased their talents such as singing, dancing and so on., We gave an  awareness about the Good touch and bad touch.,\n We were astounded by their energy levels. After the discussions, we had lunch with them.\n We finally distributed the stationery items we had bought for them and end them goodbye.', 
+            'image': 'images/service7.jpg'
+        },
+		{
+            'eventDate': '06 December 2018 – 09 December 2018',
+            'place': 'Government Tribal Higher Secondary School, Top Sengattupati,Thuriayur taluk,Thirchy District',
+            'Time': '2 Days',
+            'Members': '16 Volunteers',
+            'Description': 'This events aim was to offer career guidance and the Schools Basic need to the senior secondary students of Govt.Tribal School, Top Sengattupatti located in Pachimalai hills.\n We consider this event asone of the milestone events of Hope Trust as this was one of the most dangerous and trickiest 2nd event after Kalvarayan Hills we have organized till date. \n The odds were stacked against us hostile village people, destitute road conditions and many more. But our good planning ensured that the event was asuccess.\n From Thuriayur we managed to catch one of the only 4 buses plying to Top Sengatupatti. From there we walked for half an hour and finally reached the Govt.Tribal School. We briefed the Principal about our plan for the day.\n As already planned we split ourselves into 3 teams of 5 members each and started engaging the students. Simultaneous sessions were conducted. While fun games and activities were being organized for students of class 10, career guidance were being organized for the students of class 11.\n A discussion on the latest technological innovations was being held with the students of class 12. In the meantime, another team handed over a projector the school management had asked us during the pre visit for teaching students practical concepts that involved more visualization. After each team completed their respective task, they moved on to the next class.\n Thus this way we ensured all 3 classes-10th, 11th, and 12th were part of all 3 sessions namely games and activities, career guidance and technological innovation discussion.\n The teammembers shared their experiences and gave valuableadvice to the students.\nOnce this session came to a close we disturbed a feedback form to the students.\n The results revealed they thoroughly enjoyed all 3 sessions and the career guidance session in particular was a standout. During the discussions \n we made sure students participated actively in various events and we awarded them gifts for the same in the form of Thirukurral books and dictionaries. Additionally, we fitted wall clocks we had bought for the classes during the course of the sessions.\n The school management were impressed by our effective time management skills and also thanked us for the valuable contributions we made towards the school.\n With this, event-13 came to an end.', 
+            'image': 'images/service7.jpg'
+        }]
+
+        var events = document.getElementsByClassName("events-story")[0];
+
+        if (events) {
+            var html = eventsData.map((event, index) => {
+                let className = "";
+                if (index % 2 !== 0) {
+                    className = "entry-style1";
+                }
+
+                return `<article class="entry clearfix ${className}">
+            <div class="events-post">
+                <a href="javascript:;">
+                    <img src=${event.image} alt="image">
+                </a>
+            </div>
+            <div class="content-post">
+                <p class="date">${event.eventDate}</p>
+                <h2 class="title-post">
+                    <a href="javascript:;">${event.place}</a>
+                </h2>
+                <div class="meta-post clearfix">
+                    <ul>
+                        <li class="time">${event.Time}</li>
+                        <li class="address">
+                            <a href="javascript:;">${event.Members}</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="entry-post">
+                    <p>${event.Description}</p>
+                    <div class="more">
+                        <a href="javascript:;">Learn More</a>
+                    </div>
+                </div>
+            </div>
+        </article>`
+            }).join('');
+
+            events.innerHTML = html;
+        }
+
+    }
+
+    var isMobile = {
+        Android: function () {
+            return navigator.userAgent.match(/Android/i);
+        },
+        BlackBerry: function () {
+            return navigator.userAgent.match(/BlackBerry/i);
+        },
+        iOS: function () {
+            return navigator.userAgent.match(/iPhone|iPad|iPod/i);
+        },
+        Opera: function () {
+            return navigator.userAgent.match(/Opera Mini/i);
+        },
+        Windows: function () {
+            return navigator.userAgent.match(/IEMobile/i);
+        },
+        any: function () {
+            return (isMobile.Android() || isMobile.BlackBerry() || isMobile.iOS() || isMobile.Opera() || isMobile.Windows());
+        }
+    };
+
+    var responsiveMenu = function () {
+        var menuType = 'desktop';
+
+        $(window).on('load resize', function () {
+            var currMenuType = 'desktop';
+
+            if (matchMedia('only screen and (max-width: 991px)').matches) {
+                currMenuType = 'mobile';
+            }
+
+            if (currMenuType !== menuType) {
+                menuType = currMenuType;
+
+                if (currMenuType === 'mobile') {
+                    var $mobileMenu = $('#mainnav').attr('id', 'mainnav-mobi').hide();
+                    var hasChildMenu = $('#mainnav-mobi').find('li:has(ul)');
+
+                    $('#header').after($mobileMenu);
+                    hasChildMenu.children('ul').hide();
+                    hasChildMenu.children('a').after('<span class="btn-submenu"></span>');
+                    $('.btn-menu').removeClass('active');
+                } else {
+                    var $desktopMenu = $('#mainnav-mobi').attr('id', 'mainnav').removeAttr('style');
+
+                    $desktopMenu.find('.submenu').removeAttr('style');
+                    $('#header').find('.nav-wrap').append($desktopMenu);
+                    $('.btn-submenu').remove();
+                }
+            }
+            $('#mainnav-mobi ul li a').on('click', function () {
+                $(this).parents('#mainnav-mobi').slideUp(300);
+                $('.btn-menu').removeClass('active');
+            });
+        });
+
+        $('.btn-menu').on('click', function () {
+            $('#mainnav-mobi').slideToggle(300);
+            $(this).toggleClass('active');
+        });
+        $(document).on('click', '#mainnav-mobi li .btn-submenu', function (e) {
+            $(this).toggleClass('active').next('ul').slideToggle(300);
+            e.stopImmediatePropagation()
+        });
+    }
+
+    var headerFixed = function () {
+        if ($('body').hasClass('header-sticky')) {
+            $('#header').sticky();
+        }
+
+        if ($('body').hasClass('header-sticky-v2')) {
+            $('#flat-site-navigator').sticky().css({ "z-index": 9999999 });
+        }
+    }
+
+    var progressBar = function () {
+        $('.progress-bar').on('on-appear', function () {
+            $(this).each(function () {
+                var percent = $(this).data('percent');
+
+                $(this).find('.progress-animate').animate({
+                    "width": percent + '%'
+                }, 3000);
+
+                $(this).parent('.flat-progress').find('.perc').addClass('show').animate({
+                    "width": percent + '%'
+                }, 3000);
+            });
+        });
+    };
+
+    var ajaxContactForm = function () {
+        $('#contactform').each(function () {
+            $(this).validate({
+                submitHandler: function (form) {
+                    var $form = $(form),
+                        str = $form.serialize(),
+                        loading = $('<div />', { 'class': 'loading' });
+
+                    $.ajax({
+                        type: "POST",
+                        url: $form.attr('action'),
+                        data: str,
+                        beforeSend: function () {
+                            $form.find('.submit-wrap').append(loading);
+                        },
+                        success: function (msg) {
+                            var result, cls;
+                            if (msg == 'Success') {
+                                result = 'Message Sent Successfully To Email Administrator. ( You can change the email management a very easy way to get the message of customers in the user manual )';
+                                cls = 'msg-success';
+                            } else {
+                                result = 'Error sending email.';
+                                cls = 'msg-error';
+                            }
+
+                            $form.prepend(
+                                $('<div />', {
+                                    'class': 'flat-alert ' + cls,
+                                    'text': result
+                                }).append(
+                                    $('<a class="close" href="javascript:;"><i class="fa fa-close"></i></a>')
+                                )
+                            );
+
+                            $form.find(':input').not('.submit').val('');
+                        },
+                        complete: function (xhr, status, error_thrown) {
+                            $form.find('.loading').remove();
+                        }
+                    });
+                }
+            });
+        }); // each contactform
+    };
+
+    var counter = function () {
+        $('.flat-counter').on('on-appear', function () {
+            $(this).find('.numb-count').each(function () {
+                var to = parseInt($(this).attr('data-to')), speed = parseInt($(this).attr('data-speed'));
+                if ($().countTo) {
+                    $(this).countTo({
+                        to: to,
+                        speen: speed
+                    });
+                }
+            });
+        }); //counter
+    };
+
+
+
+
+    var detectViewport = function () {
+        $('[data-waypoint-active="yes"]').waypoint(function () {
+            $(this).trigger('on-appear');
+        }, { offset: '90%', triggerOnce: true });
+    };
+
+    var flatmember = function () {
+        $('.flat-row').each(function () {
+            if ($().owlCarousel) {
+                $(this).find('.flat-member-carousel').owlCarousel({
+                    loop: true,
+                    nav: false,
+                    margin: 30,
+                    dots: true,
+                    auto: true,
+                    autoplay: true,
+                    autoplayTimeout: 3000,
+                    autoplayHoverPause: true,
+                    responsive: {
+                        0: {
+                            items: 1
+                        },
+                        480: {
+                            items: 2
+                        },
+                        767: {
+                            items: 2
+                        },
+                        991: {
+                            items: 3
+                        },
+                        1200: {
+                            items: 4
+                        }
+                    }
+                });
+            }
+        });
+    };
+
+    var testimonialflexslider = function () {
+        if ($().flexslider) {
+            $('.flat-testimonial').flexslider({
+                animation: "slide",
+                direction: "history",
+
+                controlNav: false,
+                directionNav: true,
+                slideshow: true,
+                mousewheel: false,
+                prevText: '<i class="fa fa-chevron-left"></i>',
+                nextText: '<i class="fa fa-chevron-right"></i>'
+            });
+        };
+    };
+
+    var flatcauses = function () {
+        $('.flat-row').each(function () {
+            if ($().owlCarousel) {
+                $(this).find('.featured-causes').owlCarousel({
+                    loop: true,
+                    nav: false,
+                    dots: true,
+                    margin: 20,
+                    autoplay: true,
+                    responsive: {
+                        0: {
+                            items: 1
+                        },
+                        480: {
+                            items: 2
+                        },
+                        767: {
+                            items: 2
+                        },
+                        991: {
+                            items: 3
+                        },
+                        1200: {
+                            items: 3
+                        }
+                    }
+                });
+            }
+        });
+    };
+    var flatEventstyle = function () {
+        $('.flat-row').each(function () {
+            if ($().owlCarousel) {
+                $(this).find('.flat-event-style1').owlCarousel({
+                    loop: false,
+                    nav: false,
+                    dots: false,
+                    margin: 20,
+                    autoplay: false,
+                    responsive: {
+                        0: {
+                            items: 1
+                        },
+                        480: {
+                            items: 2
+                        },
+                        767: {
+                            items: 2
+                        },
+                        991: {
+                            items: 3
+                        },
+                        1200: {
+                            items: 3
+                        }
+                    }
+                });
+            }
+        });
+    };
+
+    var flatrecentcauses = function () {
+        $('.flat-row').each(function () {
+            if ($().owlCarousel) {
+                $(this).find('.recent-causes.style-v1').owlCarousel({
+                    loop: true,
+                    nav: false,
+                    dots: true,
+                    margin: 0,
+                    autoplay: true,
+                    responsive: {
+                        0: {
+                            items: 1
+                        },
+                        480: {
+                            items: 2
+                        },
+                        767: {
+                            items: 2
+                        },
+                        991: {
+                            items: 3
+                        },
+                        1200: {
+                            items: 3
+                        }
+                    }
+                });
+            }
+        });
+    };
+
+    var portfolioIsotope = function () {
+        if ($().isotope) {
+            var $container = $('.portfolio-wrap');
+            $container.imagesLoaded(function () {
+                $container.isotope({
+                    itemSelector: '.item',
+                    transitionDuration: '1s'
+                });
+            });
+
+            $('.portfolio-filter li').on('click', function () {
+                var selector = $(this).find("a").attr('data-filter');
+                $('.portfolio-filter li').removeClass('active');
+                $(this).addClass('active');
+                $container.isotope({ filter: selector });
+                return false;
+            });
+        };
+    };
+
+    var parallax = function () {
+        if ($().parallax && isMobile.any() == null) {
+            $('.parallax1').parallax("50%", 0.2);
+            $('.parallax2').parallax("50%", 0.4);
+            $('.parallax3').parallax("50%", 0.5);
+            $('.parallax4').parallax("50%", 0.5);
+            $('.parallax5').parallax("50%", 0.5);
+            $('.parallax6').parallax("50%", 0.5);
+            $('.parallax7').parallax("50%", 0.5);
+            $('.parallax11').parallax("50%", -1.5);
+        }
+    };
+
+    var flatCountdown = function () {
+        var anycar_style = function (data) {
+            $(this.el).html(
+                "<div class='square days'>" +
+                "<div class='numb'>" + this.leadingZeros(data.days, 2) + "</div>" +
+                "<div class='text'>Days</div>" +
+                "</div>" +
+                "<div class='square hours'>" +
+                "<div class='numb'>" + this.leadingZeros(data.hours, 2) + "</div>" +
+                "<div class='text'>Hours</div>" +
+                "</div>" +
+                "<div class='square mins'>" +
+                "<div class='numb'>" + this.leadingZeros(data.min, 2) + "</div>" +
+                "<div class='text'>Minutes</div>" +
+                "</div>" +
+                "<div class='square secs'>" +
+                "<div class='numb'>" + this.leadingZeros(data.sec, 2) + "</div>" +
+                "<div class='text'>Seconds</div>" +
+                "</div>");
+        }
+
+        $('.countdown').each(function () {
+            $(this).countdown({
+                date: $(this).attr('data-date'),
+                render: anycar_style
+            });
+        });
+    };
+
+    var goTop = function () {
+        $(window).scroll(function () {
+            if ($(this).scrollTop() > 800) {
+                $('.go-top').addClass('show');
+            } else {
+                $('.go-top').removeClass('show');
+            }
+        });
+
+        $('.go-top').on('click', function () {
+            $("html, body").animate({ scrollTop: 0 }, 1000, 'easeInOutExpo');
+            return false;
+        });
+    };
+
+    var googleMap = function () {
+        if ($().gmap3) {
+            $("#flat-map").gmap3({
+                map: {
+                    options: {
+                        zoom: 4,
+                        mapTypeId: 'charry_style',
+                        mapTypeControlOptions: {
+                            mapTypeIds: ['charry_style', google.maps.MapTypeId.SATELLITE, google.maps.MapTypeId.HYBRID]
+                        },
+                        scrollwheel: false
+                    }
+                },
+                getlatlng: {
+                    address: "22, Bardeshi Amin Bazar Dhaka, Bangladesh",
+                    callback: function (results) {
+                        if (!results) return;
+                        $(this).gmap3('get').setCenter(new google.maps.LatLng(results[0].geometry.location.lat(), results[0].geometry.location.lng()));
+                        $(this).gmap3({
+                            marker: {
+                                latLng: results[0].geometry.location,
+                                options: {
+                                    icon: 'http://themesflat.com/html/charry/images/icon/marker.png'
+                                }
+                            }
+                        });
+                    }
+                },
+                styledmaptype: {
+                    id: "charry_style",
+                    options: {
+                        name: "Charry Map"
+                    },
+                    styles: [
+                        {
+                            featureType: "water",
+                            elementType: "geometry",
+                            stylers: [
+                                {
+                                    "color": "#edf0f4"
+                                },
+                                {
+                                    "lightness": 17
+                                }
+                            ]
+                        },
+
+                        {
+                            "featureType": "landscape",
+                            "elementType": "geometry",
+                            "stylers": [
+                                {
+                                    "color": "#ffffff"
+                                },
+                                {
+                                    "lightness": 20
+                                }
+                            ]
+                        },
+
+                        {
+                            "featureType": "road.highway",
+                            "elementType": "geometry.fill",
+                            "stylers": [
+                                {
+                                    "color": "#f7f7f7"
+                                },
+                                {
+                                    "lightness": 17
+                                }
+                            ]
+                        },
+
+                        {
+                            "featureType": "road.highway",
+                            "elementType": "geometry.stroke",
+                            "stylers": [
+                                {
+                                    "color": "#f7f7f7"
+                                },
+                                {
+                                    "lightness": 29
+                                },
+                                {
+                                    "weight": 0.2
+                                }
+                            ]
+                        },
+
+                        {
+                            "featureType": "road.arterial",
+                            "elementType": "geometry",
+                            "stylers": [
+                                {
+                                    "color": "#f7f7f7"
+                                },
+                                {
+                                    "lightness": 18
+                                }
+                            ]
+                        },
+
+                        {
+                            "featureType": "road.local",
+                            "elementType": "geometry",
+                            "stylers": [
+                                {
+                                    "color": "#f7f7f7"
+                                },
+                                {
+                                    "lightness": 16
+                                }
+                            ]
+                        },
+
+                        {
+                            "featureType": "poi",
+                            "elementType": "geometry",
+                            "stylers": [
+                                {
+                                    "color": "#ffffff"
+                                },
+                                {
+                                    "lightness": 21
+                                }
+                            ]
+                        },
+
+                        {
+                            "featureType": "poi.park",
+                            "elementType": "geometry",
+                            "stylers": [
+                                {
+                                    "color": "#ffffff"
+                                },
+                                {
+                                    "lightness": 21
+                                }
+                            ]
+                        },
+
+                        {
+                            "elementType": "labels.text.stroke",
+                            "stylers": [
+                                {
+                                    "visibility": "on"
+                                },
+                                {
+                                    "color": "#ffffff"
+                                },
+                                {
+                                    "lightness": 20
+                                }
+                            ]
+                        },
+
+                        {
+                            "elementType": "labels.text.fill",
+                            "stylers": [
+                                {
+                                    "saturation": 46
+                                },
+                                {
+                                    "color": "#000000"
+                                },
+                                {
+                                    "lightness": 17
+                                }
+                            ]
+                        },
+
+                        {
+                            "elementType": "labels.icon",
+                            "stylers": [
+                                {
+                                    "visibility": "off"
+                                }
+                            ]
+                        },
+
+                        {
+                            "featureType": "transit",
+                            "elementType": "geometry",
+                            "stylers": [
+                                {
+                                    "color": "#ffffff"
+                                },
+                                {
+                                    "lightness": 45
+                                }
+                            ]
+                        },
+
+                        {
+                            "featureType": "administrative",
+                            "elementType": "geometry.fill",
+                            "stylers": [
+                                {
+                                    "color": "#ffffff"
+                                },
+                                {
+                                    "lightness": 35
+                                }
+                            ]
+                        },
+
+                        {
+                            "featureType": "administrative",
+                            "elementType": "geometry.stroke",
+                            "stylers": [
+                                {
+                                    "color": "#000000"
+                                },
+                                {
+                                    "lightness": 65
+                                },
+                                {
+                                    "weight": 1.2
+                                }
+                            ]
+                        }
+                    ]
+                },
+            });
+        }
+    };
+
+    var swClick = function () {
+        function activeLayout() {
+            $(".switcher-container").on("click", "a.sw-light", function () {
+                $(this).toggleClass("active");
+                $('body').addClass('home-boxed');
+                $('body').css({ 'background': '#f6f6f6' });
+                $('.sw-pattern.pattern').css({ "top": "100%", "opacity": 1, "z-index": "10" });
+            }).on("click", "a.sw-dark", function () {
+                $('.sw-pattern.pattern').css({ "top": "98%", "opacity": 0, "z-index": "-1" });
+                $(this).removeClass('active').addClass('active');
+                $('body').removeClass('home-boxed');
+                $('body').css({ 'background': '#fff' });
+                return false;
+            })
+        }
+
+
+        function activePattern() {
+            $('.sw-pattern').on('click', function () {
+                $('.sw-pattern.pattern a').removeClass('current');
+                $(this).addClass('current');
+                $('body').css({ 'background': 'url("' + $(this).data('image') + '")', 'background-size': '30px 30px', 'background-repeat': 'repeat' });
+                return false
+            })
+        }
+
+        activeLayout();
+        activePattern();
+    }
+
+    var flatSearch = function () {
+        $(document).on('click', function (e) {
+            var clickID = e.target.id;
+            if ((clickID != 's')) {
+                $('.top-search').removeClass('show');
+            }
+        });
+
+        $('.search-box').on('click', function (event) {
+            event.stopPropagation();
+        });
+
+        $('.search-form').on('click', function (event) {
+            event.stopPropagation();
+        });
+
+        $('.search-box').on('click', function () {
+            if (!$('.top-search').hasClass("show"))
+                $('.top-search').addClass('show');
+            else
+                $('.top-search').removeClass('show');
+        });
+    }
+
+    var removePreloader = function () {
+        $('.loader').fadeOut('slow', function () {
+            $(this).remove();
+        });
+    };
+
+    // Dom Ready
+    $(function () {
+        if (matchMedia('only screen and (min-width: 991px)').matches) {
+            headerFixed();
+        }
+        responsiveMenu();
+        progressBar();
+        counter();
+        swClick();
+        goTop();
+        ajaxContactForm();
+        googleMap();
+        flatSearch();
+        flatCountdown();
+        detectViewport();
+        flatmember();
+        flatEventstyle();
+        testimonialflexslider();
+        flatcauses();
+        parallax();
+        flatrecentcauses();
+        portfolioIsotope();
+        removePreloader();
+        eventsLoading();
+    });
+
+})(jQuery);

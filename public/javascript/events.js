@@ -1,0 +1,161 @@
+/**
+  * eventsLoading
+*/
+
+; (function ($) {
+
+    'use strict'
+
+    var eventsLoading = function () {
+        var eventsData = [{
+            'eventDate': '26 March 2017',
+            'place': 'Placepalayam & Gudiyam Tribal Villages,Thiruvallur District',
+            'Time': '6.00AM - 6.00PM',
+            'Members': '12 Volunteers',
+            'Description': 'We provided solar lamp to each family, as there is no electricity available.\nWe entertained people by singing songs, providing small gifts and chocolates and provided special lunch.\nWe also gave a brief talk on cleanliness & health, child marriage and child labour.',
+            'image': '../images/about/index-2/5.jpg'
+        },
+        {
+            'eventDate': '06 May 2017',
+            'place': 'Bharath Matha Sevai Ilam,Nandhiyambakkam,Thiruvallur District',
+            'Time': '1.00PM - 6.00PM',
+            'Members': '9 Volunteers',
+            'Description': 'We provided special and gave stationary items to the special people. We thank Mourya and Sumanth for doing this good cause.',
+            'image': '../images/about/service1.jpg'
+        },
+        {
+            'eventDate': '13 May 2017',
+            'place': 'Zeal Trust,Thiruvallur',
+            'Time': '10.00AM - 3.00PM',
+            'Members': '6 Volunteers',
+            'Description': '"Talentron" an cultural fest for college students to raise funds to help the needy.',
+            'image': '../images/about/service2.jpg'
+        },
+        {
+            'eventDate': '10 June 2017',
+            'place': 'Asirvadhu Ashram,Siruvanur,Thiruvallur District',
+            'Time': '6.00AM - 6.00PM',
+            'Members': '12 Volunteers',
+            'Description': 'According to our plan of appreciating and providing the study kit for the students of interiorvillages of Thiruvallur district namely Guidyum, Placepalayam, Manjakuppam,Narigonam,etc.\n The Event Held with Presence of Ms.Sudha(Trans-National Speaker) and some others..\n Started with prayer dances and Speeches from the guest later we provided the kit to all kids and some cultural we are planned accordingly we conducted those games and all kids had their lunch.\n And all the kids where returned to their villages and event is ended.',
+            'image': '../images/about/service3.jpg'
+        },
+        {
+            'eventDate': '28 July 2017 to 29 July 2017',
+            'place': 'IIAP, Kavalur, Thiruvanamalai District',
+            'Time': '2 Days',
+            'Members': '19 Volunteers',
+            'Description': 'We organized a special tour for orphan children. We had full of thoughts and experience sharing session about the observatory telescope view and geek science facts.',
+            'image': '../images/about/service5.jpg'
+        },
+        {
+            'eventDate': '02 October 2017',
+            'place': 'Irrukam Island,Andhra Pradesh',
+            'Time': '7.00AM - 8.00PM',
+            'Members': '57 Volunteers',
+            'Description': 'We had a conversation with the Children and gathered in a place and started our events.\nWe began with Games first and then few Cultural programs.\nour Trust ladies prepared a good lunch for everyone.',
+            'image': '../images/service6.jpg'
+        },
+        {
+            'eventDate': '26 November 2017',
+            'place': 'SRMC Porur, Chennai',
+            'Time': '10.00AM - 3.00PM',
+            'Members': '11 Volunteers',
+            'Description': 'An Workshop on "Students role in the Development of NGO" along with appreciating the young achievers who are all from poor background.',
+            'image': '../images/service4.jpg'
+        },
+        {
+            'eventDate': '23 December 2017',
+            'place': 'Pathiri Village,Villupuram District',
+            'Time': '6.30AM - 7.00PM',
+            'Members': '24 Volunteers',
+            'Description': 'we planned an awareness program on Usage of Plastics – Its Merits & De-merits. T-shirts were one of their need, hence’ we managed to get t-shirts based on the sizes of the children & packed it according to the size and gender along with a snack in each pack for the children to relish.',
+            'image': '../images/service7.jpg'
+        },
+		{
+            'eventDate': '09 June 2018',
+            'place': 'Asirvadhu Ashram,Siruvanur,Thiruvallur District',
+            'Time': '10.00AM - 4.00PM',
+            'Members': '8 Volunteers',
+            'Description': 'We organized this event at Aashirvadh Aashram, Siruvanur in association with three other Trusts namely Zeal Trust, MM foundation and Mithuran Foundation.\nThe event started off with a prayer.\n After the prayer the students we had invited were given a platform to showcase their talents. Many of themsang beautiful songs and some even danced to their favourite music.\n Later Chief guest’s Thiruvallur District Head,Chief Judge and Other Resource people, delivered an inspiring speech in front of the gathering on the topic- "How to reach your goals".\n After the speech students were given the study kits and following that we had lunch with them.',
+            'image': '../images/service7.jpg'
+        },
+		{
+            'eventDate': '21 June 2018 to 24 June 2018',
+            'place': 'Community Seva School,Thalvenniyur, Kalvarayan Hills,Kallakurichi Taluk,Villupuram District',
+            'Time': '2 Days',
+            'Members': '24 Volunteers',
+            'Description': 'This events aim was to interact with Tribal Village children studying in Community Seva Primary School located in Thalaveniyur Village, Kalvarayan Hills \n and to visit the surrounding villagesto get a sneak peak into their daily lives.\n This event involved a lot of travel.\n From bus journeys to longwalks it had it all.\n And since there were no proper road facilities available, we had to hike 7km to reach the school premises.\n The school students greeted us in an enthusiastic manner. After refreshing, we started off with pasting charts in the classrooms.\n The charts were focussed on creating awareness about cleanliness, education and other topics.\n Once that was done, we split ourselves into small teams and engaged the students by organizing fun activities and educational sessions.\n In the meantime, members from our team themselves prepared a special lunch( chicken Briyani) for the kids and once the fun activities session came to a close they were served lunch.\n After lunch, we distributed the goodies we had bought for them.\n The goodies included innerwear and chocolates for the kids.\n Also we presented a cheque to the school management that enabled them to buy a 1 year Subscription plan for the Sun Direct DTH services. They needed this for the hostel students.\n Though the school management had asked us for a lot of things, we managed to fulfill those that were within our reach. All in all we enjoyed our time at school and learnt a lot.',
+            'image': '../images/service7.jpg'
+        },
+		{
+            'eventDate': '15 September 2018',
+            'place': 'Panchayat Union Primary School, Manalmedu village,Thiruveniyanallur Block,Arasur Taluk,Villupuram District',
+            'Time': '11.00am to 4.00pm',
+            'Members': '15 Volunteers',
+            'Description': 'This events aim was to meet an inspiring soul- a teacher and her 25 students.\n Inspiring because despite her bad health condition she made sure she reached school everyday so that she could take classes for her students.\n The families of these students consider their schooling as a waste of time but it is she who makes sure the students didnt discontinue their education no matter what. We reached Manalmedu at around 9 am.\n We started off by decorating the school premises and then later organized a small meeting with the students to interact with them.\n After the interaction we presented to them the benches we had bought for them. The students were elated. After that we distributed the chocolates and water bottles we had bought for them.\n We even presented a memento to the HeadMistress of the school to honor her efforts that made sure these children didnt drop of out school.\n Once the distribution ceremony came to a close the students were given a platform to showcase their talents.\n Many of them sang songs and a couple of them put up dance performances.',
+            'image': '../images/service7.jpg'
+        },
+		{
+            'eventDate': '02 October 2018',
+            'place': 'Bharath Matha Sevai Ilam,Nandhiyambakkam,Thiruvallur District',
+            'Time': '10.00am to 02.00pm',
+            'Members': '17 Volunteers',
+            'Description': 'The agenda for this event was to meet the kids of Bharath Mala Sevai Illam and spend some quality time with them. \n Also this was a special event because it fell on the day of Gandhi Jayanthi which is also the called 8th Trust Achievement Day as we are doing some good cause on this date for Past years. \n We had made arrangements for providing them Provisions and Stationers on the day of the visit. \n The kids were elated to see us and interacted with us enthusiastically. From their favorite food to daily routines they shared with us their way of life. \n Also a lot students showcased their talents such as singing, dancing and so on., We gave an  awareness about the Good touch and bad touch.,\n We were astounded by their energy levels. After the discussions, we had lunch with them.\n We finally distributed the stationery items we had bought for them and end them goodbye.', 
+            'image': '../images/service7.jpg'
+        },
+		{
+            'eventDate': '06 December 2018 – 09 December 2018',
+            'place': 'Government Tribal Higher Secondary School, Top Sengattupati,Thuriayur taluk,Thirchy District',
+            'Time': '2 Days',
+            'Members': '16 Volunteers',
+            'Description': 'This events aim was to offer career guidance and the Schools Basic need to the senior secondary students of Govt.Tribal School, Top Sengattupatti located in Pachimalai hills.\n We consider this event asone of the milestone events of Hope Trust as this was one of the most dangerous and trickiest 2nd event after Kalvarayan Hills we have organized till date. \n The odds were stacked against us hostile village people, destitute road conditions and many more. But our good planning ensured that the event was asuccess.\n From Thuriayur we managed to catch one of the only 4 buses plying to Top Sengatupatti. From there we walked for half an hour and finally reached the Govt.Tribal School. We briefed the Principal about our plan for the day.\n As already planned we split ourselves into 3 teams of 5 members each and started engaging the students. Simultaneous sessions were conducted. While fun games and activities were being organized for students of class 10, career guidance were being organized for the students of class 11.\n A discussion on the latest technological innovations was being held with the students of class 12. In the meantime, another team handed over a projector the school management had asked us during the pre visit for teaching students practical concepts that involved more visualization. After each team completed their respective task, they moved on to the next class.\n Thus this way we ensured all 3 classes-10th, 11th, and 12th were part of all 3 sessions namely games and activities, career guidance and technological innovation discussion.\n The teammembers shared their experiences and gave valuableadvice to the students.\nOnce this session came to a close we disturbed a feedback form to the students.\n The results revealed they thoroughly enjoyed all 3 sessions and the career guidance session in particular was a standout. During the discussions \n we made sure students participated actively in various events and we awarded them gifts for the same in the form of Thirukurral books and dictionaries. Additionally, we fitted wall clocks we had bought for the classes during the course of the sessions.\n The school management were impressed by our effective time management skills and also thanked us for the valuable contributions we made towards the school.\n With this, event-13 came to an end.', 
+            'image': '../images/service7.jpg'
+        }]
+
+        var events = document.getElementsByClassName("events-story")[0];
+
+        var html = eventsData.map((event, index) => {
+            let className = "";
+            if (index % 2 !== 0) {
+                className = "entry-style1";
+            }
+
+            return `<article class="entry clearfix ${className}">
+            <div class="events-post">
+                <a href="#">
+                    <img src=${event.image} alt="image">
+                </a>
+            </div>
+            <div class="content-post">
+                <p class="date">${event.eventDate}</p>
+                <h2 class="title-post">
+                    <a href="#">${event.place}</a>
+                </h2>
+                <div class="meta-post clearfix">
+                    <ul>
+                        <li class="time">${event.Time}</li>
+                        <li class="address">
+                            <a href="#">${event.Members}</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="entry-post">
+                    <p>${event.Description}</p>
+                    <div class="more">
+                        <a href="#">Learn More</a>
+                    </div>
+                </div>
+            </div>
+        </article>`
+        }).join('');
+
+        events.innerHTML = html;
+
+    }
+
+    // Dom Ready
+    $(function () {
+        eventsLoading();
+    });
+
+})(jQuery);
