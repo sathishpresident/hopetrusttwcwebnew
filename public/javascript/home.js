@@ -10,22 +10,22 @@
         var membersData = [{
             'name': 'Sathish Kumar',
             'designation': 'Founder/President',
-            'image': 'images/member/founder.jpg'
+            'image': 'images/member/Founder.jpg'
         },
         {
-            'name': 'Kuthbudin',
+            'name': 'Khuthbudin',
             'designation': 'Vice President',
-            'image': 'images/member/Khuthbudin.jpg'
+            'image': 'images/member/Vicepresident.jpg'
         },
         {
             'name': 'Rekha',
             'designation': 'Secretary',
-            'image': 'images/member/Rekha.jpg'
+            'image': 'images/member/Secretary.jpg'
         },   
         {
-            'name': 'Yuvashri',
+            'name': 'Yuvashree',
             'designation': 'Joint Secretary',
-            'image': 'images/member/Yuvashree.jpg'
+            'image': 'images/member/Jointsecretary.jpg'
         }];
 
         var carousel = $('#best-members-list');
