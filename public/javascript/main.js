@@ -98,7 +98,7 @@
             'place': 'Panchayat Union Primary School, Pathiri Village,Olakkur Block,Tindinvanam Taluk,Villupuram District',
             'Time': '6.30AM - 7.00PM',
             'Members': '24 Volunteers',
-            'Description': 'we planned an awareness program on Usage of Plastics – Its Merits & De-merits. T-shirts were one of their need, hence’ we managed to get t-shirts based on the sizes of the children & packed it according to the size and gender along with a snack in each pack for the children to relish.',
+            'Description': 'We planned an awareness program on Usage of Plastics – Its Merits & De-merits. T-shirts were one of their need, hence’ we managed to get t-shirts based on the sizes of the children & packed it according to the size and gender along with a snack in each pack for the children to relish.',
             'image': 'images/Eventpics/e8.jpg'
         },
 		{
@@ -186,7 +186,7 @@
             'place': 'Elliots Beach - Beasant Nagar , Chennai',
             'Time': '04.00am - 08.30am',
             'Members': '11 Volunteers',
-            'Description': 'This time, we the members of hope trust are journeying to the westernmost part of the state ,the Nilgiri district- the first UNESCO UNESCO biosphere reserve region in India India in India India region in India India in India India. A beautiful village and a beautiful School. beautiful School. School administration requested as to conduct events at the Government Model School which is at Thuneri village. We went to the school to the school school with energy and enthusiasm. To match our energy level the students were also highly energetic. The day started with an started with an inauguration function in which our President gave an opening note about the trust and small advice to the students about the "Greatness of the teachers". Then our volunteers took the leading role in All sessions sessions sessions sessions in the classes from 10th to 12th 12th 12th. We conducted both technical and non technical activities to activities to technical activities to activities to them. Everyone participated with their whole heart and mind. Career guidance program was done by our President President our President. Few of our volunteers volunteers our volunteers volunteers gave motivational talk to enhance the confidence of the students of the students. The day ended with the closing ceremony ended with the closing ceremony closing ceremony where students teachers and their headmaster teachers and their headmaster appreciate art service and requested us to to come and visit them again. We granted them rupees 25000 in check for the transportation need of school children school children. Based on the performance the performance of the classes they where awarded rotational Shields. We also felicitated their teachers teachers their teachers teachers for their love and dedication towards the love and dedication towards the and dedication towards the children.', 
+            'Description': 'HDFC Bank Ploggathon – a run for a healthier cleaner and greener, We supported them with our Volunteering Service at the Registration desk and at the Start point,helping the Participants.', 
             'image': 'images/Eventpics/e19.jpg'
         }
     ]
