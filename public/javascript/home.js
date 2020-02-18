@@ -18,15 +18,46 @@
             'image': 'images/member/Vicepresident.jpg'
         },
         {
-            'name': 'Rekha',
+            'name': 'Rekha Moorthy',
             'designation': 'Secretary',
             'image': 'images/member/Secretary.jpg'
         },   
         {
-            'name': 'Yuvashree',
+            'name': 'Yuvashree Suresh',
             'designation': 'Joint Secretary',
             'image': 'images/member/Jointsecretary.jpg'
-        }];
+        },
+        {
+            'name': 'Abdul Khudus',
+            'designation': 'Treasurer',
+            'image': 'images/member/Treasurer.jpg'
+        },
+        {
+            'name': 'Sandeep',
+            'designation': 'Manager - Trust',
+            'image': 'images/member/Trustmanager.jpg'
+        },
+        {
+            'name': 'Albert Paul',
+            'designation': 'Manager - Fund Raising',
+            'image': 'images/member/FRmanager.jpg'
+        },
+        {
+            'name': 'Prabakaran',
+            'designation': 'Manager - Needy Hunters',
+            'image': 'images/member/NHmanager.jpg'
+        },
+        {
+            'name': 'Harish',
+            'designation': 'Manager - Events',
+            'image': 'images/member/EMmanager.jpg'
+        },
+        {
+            'name': 'Sivaprasanth',
+            'designation': 'Administrator - Trust',
+            'image': 'images/member/Adminhead.jpg'
+        }
+    ];
 
         var carousel = $('#best-members-list');
         carousel.trigger('destroy.owl.carousel');
