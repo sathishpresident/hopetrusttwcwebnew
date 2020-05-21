@@ -53,7 +53,7 @@
             'image': 'images/member/EMmanager.jpg'
         },
         {
-            'name': 'Sivaprasanth',
+            'name': 'Sivaprashanth',
             'designation': 'Administrator - Trust',
             'image': 'images/member/Adminhead.jpg'
         }
