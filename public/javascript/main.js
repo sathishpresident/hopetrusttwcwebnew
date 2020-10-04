@@ -45,7 +45,7 @@
             'Description': 'We provided solar lamp to each family, as there is no electricity available.\nWe entertained people by singing songs, providing small gifts and chocolates and provided special lunch.\nWe also gave a brief talk on cleanliness & health, child marriage and child labour.',
             'image': 'images/Eventpics/e1.jpg'
         },
-        {
+        /*{
             'eventDate': '06 May 2017',
             'place': 'Bharath Matha Sevai Ilam,Nandhiyambakkam,Thiruvallur District',
             'Time': '1.00PM - 6.00PM',
@@ -60,7 +60,7 @@
             'Members': '6 Volunteers',
             'Description': '"Talentron" an cultural fest for college students to raise funds to help the needy.',
             'image': 'images/Eventpics/e3.jpg'
-        },
+        },*/
         {
             'eventDate': '10 June 2017',
             'place': 'Asirvadhu Ashram,Siruvanur,Thiruvallur District',
@@ -85,14 +85,14 @@
             'Description': 'We had a conversation with the Children and gathered in a place and started our events.\nWe began with Games first and then few Cultural programs.\nour Trust ladies prepared a good lunch for everyone.',
             'image': 'images/Eventpics/e6.jpg'
         },
-        {
+        /*{
             'eventDate': '26 November 2017',
             'place': 'SRMC Porur, Chennai',
             'Time': '10.00AM - 3.00PM',
             'Members': '11 Volunteers',
             'Description': 'An Workshop on "Students role in the Development of NGO" along with appreciating the young achievers who are all from poor background.',
             'image': 'images/Eventpics/e7.jpg'
-        },
+        },*/
         {
             'eventDate': '23 December 2017',
             'place': 'Panchayat Union Primary School, Pathiri Village,Olakkur Block,Tindinvanam Taluk,Villupuram District',
@@ -191,7 +191,7 @@
         },
         {
             'eventDate': '27 February 2020 - 01 March 2020 ',
-            'place': 'Panchayat Union Primary School, Bakkiya Nagar , Kattabettu ,Kotagiri, The Nilgiris District',
+            'place': 'Panchayat Union Middle School, Bakkiya Nagar , Kattabettu ,Kotagiri, The Nilgiris District',
             'Time': '2 Days',
             'Members': '12 Volunteers',
             'Description': `We were warmly greeted by the teachers and students upon our arrival at the Panchayat Union Primary School, Kotagiri. We began the day with a short knowledge development session and conducted a few sports competitions for the students. Later in the day we called upon students  to showcase their talent in diverse fields such as music, dance and street play. A puppet show was conducted to create awareness about First Aid and Children Assistance Helpline (Helpline number : 1098). Rs 25000/- was donated to the school for building a toilet and the entrance gate.`, 
@@ -204,6 +204,14 @@
             'Members': '08 Volunteers',
             'Description': `We regularly visit remote tribal villages in various parts of Tamil Nadu, empowering the schools and educating the students and villagers. The pandemic has put an obstacle in our regular proceedings, but we did not let the obstacle come in between our core values; helping people in need. So, we shifted our attention towards the people in need in our city and on this Independence day, we distributed 100 food parcels and water bottles to the people in need, all the while following proper safety guidelines.`, 
             'image': 'images/Eventpics/e21.jpg'
+        },
+        {
+            'eventDate': '02 October 2020',
+            'place': 'Panchayat Union Primary School,Jamboothu Hills,Vazhapadi Zone,Salem District',
+            'Time': '01.00pm - 06.30pm',
+            'Members': '09 Volunteers',
+            'Description': `On Marking 10 years of service(Trust Achievement day) , We at hope trust are paying a visit to Panchayat union Primary school in Salem district. To increase the strength of the tribal school we are provided them with different things like Moon Table,Chairs,Staff Table,sanitation kits , Stationery Kits and Torch Lights for Tribal Families which will be very much useful for them. Special thanks to Aram Sei youth foundation and the headmaster of the school. We will continue to serve the tribal community in the future and we have been travelled with all necessary COVID 19 precautions.`, 
+            'image': 'images/Eventpics/e22.jpg'
         }
     ]
 

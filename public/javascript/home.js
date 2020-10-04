@@ -8,54 +8,144 @@
 
     var bestVolunteers = function () {
         var membersData = [{
-            'name': 'Sathish Kumar',
+            'name': 'Sathish Kumar S',
             'designation': 'Founder/President',
-            'image': 'images/member/Founder.jpg'
+            'image': 'images/member/Founder.jpg',
+            'facebook' : '',
+            'instagram' : ''
         },
         {
-            'name': 'Khuthbudin',
+            'name': 'Khuthbudin T',
             'designation': 'Vice President',
-            'image': 'images/member/Vicepresident.jpg'
+            'image': 'images/member/Vicepresident.jpg',
+            'facebook' : '',
+            'instagram' : ''
         },
         {
-            'name': 'Rekha Moorthy',
+            'name': 'Rekha M',
             'designation': 'Secretary',
-            'image': 'images/member/Secretary.jpg'
+            'image': 'images/member/Secretary.jpg',
+            'facebook' : '',
+            'instagram' : ''
         },   
         {
-            'name': 'Yuvashree Suresh',
+            'name': 'Yuvashree S ',
             'designation': 'Joint Secretary',
-            'image': 'images/member/Jointsecretary.jpg'
+            'image': 'images/member/Jointsecretary.jpg',
+            'facebook' : '',
+            'instagram' : ''
         },
         {
-            'name': 'Abdul Khudus',
+            'name': 'Abdul Khudus R M',
             'designation': 'Treasurer',
-            'image': 'images/member/Treasurer.jpg'
+            'image': 'images/member/Treasurer.jpg',
+            'facebook' : '',
+            'instagram' : ''
         },
         {
-            'name': 'Sandeep',
+            'name': 'Sandeep A',
             'designation': 'Manager - Trust',
-            'image': 'images/member/Trustmanager.jpg'
+            'image': 'images/member/Trustmanager.jpg',
+            'facebook' : '',
+            'instagram' : ''
         },
         {
-            'name': 'Albert Paul',
+            'name': 'Albert Paul R',
             'designation': 'Manager - Fund Raising',
-            'image': 'images/member/FRmanager.jpg'
+            'image': 'images/member/FRmanager.jpg',
+            'facebook' : '',
+            'instagram' : ''
         },
         {
-            'name': 'Prabakaran',
+            'name': 'Prabakaran R',
             'designation': 'Manager - Needy Hunters',
-            'image': 'images/member/NHmanager.jpg'
+            'image': 'images/member/NHmanager.jpg',
+            'facebook' : '',
+            'instagram' : ''
         },
         {
-            'name': 'Harish',
+            'name': 'Harish K R',
             'designation': 'Manager - Events',
-            'image': 'images/member/EMmanager.jpg'
+            'image': 'images/member/EMmanager.jpg',
+            'facebook' : '',
+            'instagram' : ''
         },
         {
-            'name': 'Sivaprashanth',
-            'designation': 'Administrator - Trust',
-            'image': 'images/member/Adminhead.jpg'
+            'name': 'Sivaprashanth P',
+            'designation': 'Manager - Administration',
+            'image': 'images/member/Adminhead.jpg',
+            'facebook' : '',
+            'instagram' : ''
+        },
+        {
+            'name': 'Evangelin Ruby N',
+            'designation': 'Manager - Internal Strengthening : Core',
+            'image': 'images/member/ISCoreManager.jpg',
+            'facebook' : '',
+            'instagram' : ''
+        },
+        {
+            'name': 'Ravichandhar P B',
+            'designation': 'Manager - Internal Strengthening : Tech Savvy',
+            'image': 'images/member/ISTSManager.jpg',
+            'facebook' : '',
+            'instagram' : ''
+        },
+        {
+            'name': 'Jagadeesh Y M',
+            'designation': 'Manager - Internal Strengthening : Career Emulators',
+            'image': 'images/member/ISCEManager.jpg',
+            'facebook' : '',
+            'instagram' : ''
+        },
+        {
+            'name': 'Prathebha V',
+            'designation': 'Manager - Internal Strengthening : Sign Lanuguage Intrepreters',
+            'image': 'images/member/ISSLIManager.jpg',
+            'facebook' : '',
+            'instagram' : ''
+        },
+        {
+            'name': 'Venkataraman R',
+            'designation': 'Manager - Administration Volunteer Coordinator',
+            'image': 'images/member/ADMVC.jpg',
+            'facebook' : '',
+            'instagram' : ''
+        },
+        {
+            'name': 'Arun Kumar K',
+            'designation': 'Leader - Events',
+            'image': 'images/member/EMLeader.jpg',
+            'facebook' : '',
+            'instagram' : ''
+        },
+        {
+            'name': 'Madhusudhan T',
+            'designation': 'Leader - Fund Raising',
+            'image': 'images/member/FRLeader.jpg',
+            'facebook' : '',
+            'instagram' : ''
+        },
+        {
+            'name': 'Vishali M',
+            'designation': 'Leader - Administration',
+            'image': 'images/member/Adminleader.jpg',
+            'facebook' : '',
+            'instagram' : ''
+        },
+        {
+            'name': 'Pranav Sabareesh V',
+            'designation': 'Leader - Internal Strengthening : Core',
+            'image': 'images/member/ISCoreLeader.jpg',
+            'facebook' : '',
+            'instagram' : ''
+        },
+        {
+            'name': 'Vignesh S',
+            'designation': 'Leader - Internal Strengthening : Tech Savvy',
+            'image': 'images/member/ISTSLeader.jpg',
+            'facebook' : '',
+            'instagram' : ''
         }
     ];
 
@@ -81,14 +171,11 @@
 
                             <div class="cs-post-footer">
                                 <div class="cs-footer-share">
-                                    <a href="javascript:;" target="_blank">
+                                    <a href="${member.facebook}" target="_blank">
                                         <i class="fa fa-facebook"></i>
                                     </a>
-                                    <a href="javascript:;" target="_blank">
-                                        <i class="fa fa-twitter"></i>
-                                    </a>
-                                    <a href="javascript:;" target="_blank">
-                                        <i class="fa fa-google-plus"></i>
+                                    <a href="${member.instagram}" target="_blank">
+                                        <i class="fa fa-instagram"></i>
                                     </a>
                                 </div>
                             </div>
