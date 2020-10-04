@@ -143,7 +143,7 @@
         {
             'name': 'Vignesh S',
             'designation': 'Leader - Internal Strengthening : Tech Savvy',
-            'image': 'images/member/ISTSLeader.jpg',
+            'image': 'images/member/ISTSLeader.jpeg',
             'facebook' : '',
             'instagram' : ''
         }
