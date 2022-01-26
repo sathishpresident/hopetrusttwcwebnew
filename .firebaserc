@@ -1,5 +1,5 @@
 {
   "projects": {
-    "default": "hopetrusttwc"
+    "prod": "hopetrusttwc"
   }
 }
