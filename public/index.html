@@ -1,89 +1,789 @@
 <!DOCTYPE html>
-<html>
-  <head>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+
+<head>
+    <!-- Basic Page Needs -->
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Welcome to Firebase Hosting</title>
+    <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
+    <title>Hope Trust</title>
+    <meta name="author" content="themesflat.com">
+    <!-- Mobile Specific Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <!-- Bootstrap  -->
+    <link rel="stylesheet" type="text/css" href="stylesheets/bootstrap.css">
+    <!-- Theme Style -->
+    <link rel="stylesheet" type="text/css" href="stylesheets/style.css">
+    
+    <link rel="stylesheet" type="text/css" href="stylesheets/revolution-slider.css">
+    <!-- Responsive -->
+    <link rel="stylesheet" type="text/css" href="stylesheets/responsive.css">
+    <!-- Colors -->
+    <link rel="stylesheet" type="text/css" href="stylesheets/colors/color1.css" id="colors">
+    <!-- Animation Style -->
+    <link rel="stylesheet" type="text/css" href="stylesheets/animate.css">
+    <!-- Favicon and touch icons  -->
+    <link href="icon/apple-touch-icon-48-precomposed.html" rel="apple-touch-icon-precomposed" sizes="48x48">
+    <link href="icon/apple-touch-icon-32-precomposed.html" rel="apple-touch-icon-precomposed">
+    <link href="icon/favicon.png" rel="shortcut icon">
+</head>
 
-    <!-- update the version number as needed -->
-    <script defer src="/__/firebase/9.6.4/firebase-app-compat.js"></script>
-    <!-- include only the Firebase features as you need -->
-    <script defer src="/__/firebase/9.6.4/firebase-auth-compat.js"></script>
-    <script defer src="/__/firebase/9.6.4/firebase-database-compat.js"></script>
-    <script defer src="/__/firebase/9.6.4/firebase-firestore-compat.js"></script>
-    <script defer src="/__/firebase/9.6.4/firebase-functions-compat.js"></script>
-    <script defer src="/__/firebase/9.6.4/firebase-messaging-compat.js"></script>
-    <script defer src="/__/firebase/9.6.4/firebase-storage-compat.js"></script>
-    <script defer src="/__/firebase/9.6.4/firebase-analytics-compat.js"></script>
-    <script defer src="/__/firebase/9.6.4/firebase-remote-config-compat.js"></script>
-    <script defer src="/__/firebase/9.6.4/firebase-performance-compat.js"></script>
-    <!-- 
-      initialize the SDK after all desired features are loaded, set useEmulator to false
-      to avoid connecting the SDK to running emulators.
-    -->
-    <script defer src="/__/firebase/init.js?useEmulator=true"></script>
-
-    <style media="screen">
-      body { background: #ECEFF1; color: rgba(0,0,0,0.87); font-family: Roboto, Helvetica, Arial, sans-serif; margin: 0; padding: 0; }
-      #message { background: white; max-width: 360px; margin: 100px auto 16px; padding: 32px 24px; border-radius: 3px; }
-      #message h2 { color: #ffa100; font-weight: bold; font-size: 16px; margin: 0 0 8px; }
-      #message h1 { font-size: 22px; font-weight: 300; color: rgba(0,0,0,0.6); margin: 0 0 16px;}
-      #message p { line-height: 140%; margin: 16px 0 24px; font-size: 14px; }
-      #message a { display: block; text-align: center; background: #039be5; text-transform: uppercase; text-decoration: none; color: white; padding: 16px; border-radius: 4px; }
-      #message, #message a { box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24); }
-      #load { color: rgba(0,0,0,0.4); text-align: center; font-size: 13px; }
-      @media (max-width: 600px) {
-        body, #message { margin-top: 0; background: white; box-shadow: none; }
-        body { border-top: 16px solid #ffa100; }
-      }
-    </style>
-  </head>
-  <body>
-    <div id="message">
-      <h2>Welcome</h2>
-      <h1>Firebase Hosting Setup Complete</h1>
-      <p>You're seeing this because you've successfully setup Firebase Hosting. Now it's time to go build something extraordinary!</p>
-      <a target="_blank" href="https://firebase.google.com/docs/hosting/">Open Hosting Documentation</a>
+<body class="header-sticky home-boxed">
+    <div class="loader">
+        <span class="loader1 block-loader"></span>
+        <span class="loader2 block-loader"></span>
+        <span class="loader3 block-loader"></span>
     </div>
-    <p id="load">Firebase SDK Loading&hellip;</p>
 
-    <script>
-      document.addEventListener('DOMContentLoaded', function() {
-        const loadEl = document.querySelector('#load');
-        // // 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
-        // // The Firebase SDK is initialized and available here!
-        //
-        // firebase.auth().onAuthStateChanged(user => { });
-        // firebase.database().ref('/path/to/ref').on('value', snapshot => { });
-        // firebase.firestore().doc('/foo/bar').get().then(() => { });
-        // firebase.functions().httpsCallable('yourFunction')().then(() => { });
-        // firebase.messaging().requestPermission().then(() => { });
-        // firebase.storage().ref('/path/to/ref').getDownloadURL().then(() => { });
-        // firebase.analytics(); // call to activate
-        // firebase.analytics().logEvent('tutorial_completed');
-        // firebase.performance(); // call to activate
-        //
-        // // 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
+    <header id="header" class="header clearfix">
+        <div class="header-wrap clearfix">
+            <a href="hopetrusttwc.org" id="logo" class="logo">
+                <img src="images/logo.png" alt="image">
+            </a>
+            <div class="nav-wrap">
+                <div class="btn-menu">
+                    <span></span>
+                </div>
+                <nav id="mainnav" class="mainnav">
+                    <ul class="menu">
+                        <li class="home">
+                            <a href="#home">Home</a>
+                        </li>
+                        <li>
+                            <a href="#home1">What We Do ?</a>
+                        </li>
+                        <li>
+                            <a href="#home3">Mission & Vision</a>
+                        </li>
+                        <li>
+                            <a href="#home6">Our Team</a>
+                        </li>
+                        <li>
+                            <a href="#events">Events</a>
+                        </li>
+                        <!-- <li>
+                            <a href="#home7">Latest Events</a> -->
+                            <!-- <ul class="submenu">
+                                <li>
+                                    <a href="#home1">What We Do ?</a>
+                                </li>
+                                <!-- <li>
+                                    <a href="#home2">How We Do ?</a>
+                                </li> 
+                                <li>
+                                    <a href="#home3">Mission & Vision</a>
+                                </li>
+                                <!-- <li>
+                                    <a href="#home4">Recent Causes</a>
+                                </li> -->
+                                <!-- <li>
+                                    <a href="#home5">Programs</a>
+                                </li> 
+                                <li>
+                                    <a href="#home6">Best Volunteers</a>
+                                </li>
+                                <li>
+                                    <a href="#home7">Latest Events</a>
+                                </li>
+                            </ul> 
+                        </li>-->
+                        <!-- <li class="has-sub">
+                            <a href="events.html">Events</a>
+                        </li>
+                        <li>
+                            <a href="team.html">Team</a>
+                            <ul class="submenu">
+                                <li>
+                                    <a href="team.html#members">Member Tree</a>
+                                </li>
+                                <li>
+                                    <a href="team.html#boardmembers">Board Members</a>
+                                </li>
+                                <li>
+                                    <a href="team.html#administrators">Administration</a>
+                                </li>
+                                <li>
+                                    <a href="team.html#fundraisers">Fund Raisers</a>
+                                </li>
+                                <li>
+                                    <a href="team.html#needyhunters">Needy Hunters</a>
+                                </li>
+                                <li>
+                                    <a href="team.html#eventizers">Event Management</a>
+                                </li>
+                            </ul>
+                        </li> -->
+                        <!-- <li class="has-sub">
+                            <a href="gallery.html">About us</a>
+                            <ul class="submenu">
+                                <li>
+                                    <a href="index-2.html">History of our trust</a>
+                                </li>
+                                <li>
+                                    <a href="index-v2.html">Objectives</a>
+                                </li>
+                                <li>
+                                    <a href="index-v3.html">Gallery</a>
+                                </li>
+                                <li>
+                                    <a href="index-v4.html">Reports</a>
+                                </li>
+                            </ul>
+                        </li> -->
+                        <!-- <li class="has-sub">
+                            <a href="gallery.html">Login</a>
+                        </li> -->
+                        <li><a href="#home8">Contact</a>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+            <div class="flat-information">
+                <ul class="flat-socials">
+                    <li class="facebook">
+                        <a href="https://www.facebook.com/hopetrustTWC/" target="_blank">
+                            <i class="fa fa-facebook"></i>
+                        </a>
+                    </li>
+                    <li class="twitter">
+                        <a href="https://twitter.com/HopeTrust_TwC/" target="_blank">
+                            <i class="fa fa-twitter"></i>
+                        </a>
+                    </li>
+                    <li class="instagram">
+                        <a href="https://www.instagram.com/hopetrust_twc/" target="_blank">
+                            <i class="fa fa-instagram"></i>
+                            
+                        </a>
+                    </li>
+                    <li class="linkedin">
+                        <a href="https://www.linkedin.com/in/hopetrust-twc/" target="_blank">
+                            <i class="fa fa-linkedin"></i>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </header>
 
-        try {
-          let app = firebase.app();
-          let features = [
-            'auth', 
-            'database', 
-            'firestore',
-            'functions',
-            'messaging', 
-            'storage', 
-            'analytics', 
-            'remoteConfig',
-            'performance',
-          ].filter(feature => typeof app[feature] === 'function');
-          loadEl.textContent = `Firebase SDK loaded with ${features.join(', ')}`;
-        } catch (e: any) {
-          console.error(e);
-          loadEl.textContent = 'Error loading the Firebase SDK, check the console.';
-        }
-      });
-    </script>
-  </body>
+    <div id="home" class="tp-banner-container">
+        <div class="tp-banner">
+            <ul>
+                <li data-transition="random-static" data-slotamount="7" data-masterspeed="1000" data-saveperformance="on">
+                    <img src="images/slides/2.jpg" alt="slider-image" />
+                    <div class="overlay"></div>
+
+                    <div class="tp-caption sfb title-slide box center color-white large style2" data-x="112" data-y="100" data-speed="1500" data-start="1500"
+                        data-easing="Power3.easeInOut">
+                        <div class="w30">
+                        <span>Dream is not that you see in sleep,</span>
+                        <br><span class="_yellow">DREAM IS SOMETHING...</span>
+                        <br><span>that does not let you sleep -A.P.J.Adul Kalam</span>
+                        </div>  
+                    </div>
+                </li>
+                <li data-transition="random-static" data-slotamount="7" data-masterspeed="1000" data-saveperformance="on">
+                    <img src="images/slides/1.jpg" alt="slider-image" />
+                    <div class="overlay"></div>
+                    <div class="tp-caption sfr title-slide box center color-white large style1" data-x="112" data-y="100" data-speed="1500" data-start="1500"
+                        data-easing="Sine.easeInOut">
+                        <div class="w30">
+                        <span>Not all of us!</span>
+                        <br><span class="_yellow">CAN DO GREAT THINGS..</span>
+                        <br><span>But we can do small things with great love -Mother Tersa.</span>
+                        </div>
+                    </div>
+                </li>
+                <li data-transition="slidedown" data-slotamount="7" data-masterspeed="1000" data-saveperformance="on">
+                    <img src="images/slides/3.jpg" alt="slider-image" />
+                    <div class="overlay"></div>
+
+                    <div class="tp-caption sfb title-slide box center color-white large style4" data-x="332" data-y="100" data-speed="1500" data-start="1500"
+                        data-easing="Power3.easeInOut">
+                        <div class="w30">
+                        <span>The purpose of life is not to be happy.</span>
+                        <br><span class="_yellow">It is to be useful</span>
+                        <br><span>to be honorable, to be compassionate,<br/>to have it make some difference that you have lived and lived well.</span>
+                        </div>
+                </li>
+                <li data-transition="slidedown" data-slotamount="7" data-masterspeed="1000" data-saveperformance="on">
+                    <img src="images/slides/5.jpg" alt="slider-image" />
+                    <div class="overlay"></div>
+
+                    <div class="tp-caption sfb title-slide box center color-white large style4" data-x="332" data-y="100" data-speed="1500" data-start="1500"
+                        data-easing="Power3.easeInOut">
+                        <div class="w30">
+                        <span>Education is the key to unlock .</span>
+                        <br><span class="_yellow">THE GOLDEN DOOR OF FREEDOMs</span>
+                        <br><span>That we induce to established,together we can.</span>
+                        </div>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+    <section id="home1" class="flat-row flat-about-charry flat-row-last">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2">
+                    <div class="title-section">
+                        <h4>a little bit more</h4>
+                        <h2>
+                            <span>HOPE</span> TRUST</h2>
+                    </div>
+                </div>
+            </div>
+            <div id="home1" class="about-charry">
+                <div class="row">
+                    <div class="col-md-6">
+                        <img src="images/about/index-1/08.jpg" class="_imgResponsive" alt="image" style="margin-top:50px;margin-bottom:30px">
+                        <!-- <img src="images/about/index-1/08.jpg" alt="image" style="margin-top:50px"> -->
+                    </div>
+                    <div class="col-md-6">
+                        <div class="about-charry-post">
+                            <h4 class="title-post">
+                                <a href="javascript:;">What We Do?</a>
+                            </h4>
+                            <p class="style-v1">To promote/render service in the field of Education, Health, Women
+                            Development, Public Awareness, Human Rights and Youth Development to
+                            the underprivileged irrespective of caste, creed, race, religion or language.</p>
+                            <p class="style-v1">To lift the public from the curses of poverty, hunger, illiteracy & disease by
+                            starting and carrying out concentrated and intensive programs.</p>
+                            <p class="style-v1">To help the poor, downtrodden & underprivileged for their integrated
+                            development &upliftment in the society.</p>
+                            <p class="style-v1">To promote & instill value based education for all.</p>
+                            <p class="style-v1">To organize and take up Health, Educational and Welfare programs for the
+                            deprived women and children on priority basis and extra</p>
+                            <p class="style-v1">To ensure gender equality and freedom from discrimination</p>
+                            <p class="style-v1">To do all such things as the Trustees may decide from time to time for the
+                            welfare of the society & in pursuance of the objective of the Hope Trust.</p>
+                            <p class="style-v1">To raise the “fine fettle” status of vulnerable groups, poor and needy by
+                            organizing various health and awareness camps like Immunization, Eye
+                            Care, Motherhood, Child Care, first aid and Communicable Diseases.</p>
+                            <p class="style-v1">To do all such things as the Trustees may decide from time to time for the
+                            welfare of the society & in pursuance of the objects of the Hope Trust</p>
+                            <p class="style-v1">To create a sense of brotherhood, love, humanity, affection, cooperation and
+                            friendship amongst the members of the Trust and the beneficiaries</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- <div id="home2" class="about-charry space-top">
+                <div class="row">
+                    <div class="col-md-6">
+                        <img src="images/about/index-1/2.jpg" alt="image">
+                    </div>
+                    <div class="col-md-6">
+                        <div class="about-charry-post">
+                            <h4 class="title-post">
+                                <a href="javascript:;">How We Do?</a>
+                            </h4>
+                            <p class="style-v1">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
+                                labore et dolore</p>
+                            <p>magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
+                                ex ea commodo consequat. Duis aute irure</p>
+                            <p>ugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+                                deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit
+                                voluptatem accusantium dolore</p>
+                        </div>
+                    </div>
+                </div>
+            </div> -->
+        </div>
+    </section>
+
+    <section id="home3" class="flat-row icon-left-square flat-row-last">
+        <div class="container">
+            <div class=" flat-icon">
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="icon">
+                            <div class="icon-square">
+                                <i class="icon-rocket"></i>
+                            </div>
+                            <div class="icon-post">
+                                <h6 class="title-post">
+                                    <a href="javascript:;">Our Mission</a>
+                                </h6>
+                                <p>“To impart values in young minds and work for the welfare of an erudite confraternity”</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="icon">
+                            <div class="icon-square">
+                                <i class="icon-briefcase"></i>
+                            </div>
+                            <div class="icon-post">
+                                <h6>
+                                    <a href="javascript:;">Our Vision</a>
+                                </h6>
+                                <p>“To Provide the deprived special consideration and upgrade educational needs and ethical values for a dignified society”</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-12"><p style=" text-align: center; padding: 30px 10px 0px; font-weight: 600; ">“You see things; you say, 'Why?' But I dream things that never were; and I say 'Why not?” ― George Bernard Shaw</p></div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="home4" class="flat-row flat-recent-causes">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2">
+                    <!-- <div class="title-section">
+                        <h4>We Are Fighting For</h4>
+                        <h2>
+                            <span>Recent</span> Causes</h2>
+                    </div> -->
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <div id="recent-problem-causes" class="recent-causes">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- <section id="home5" class="flat-row flat-icon icon-left">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2">
+                    <div class="title-section">
+                        <h4>You can join Us</h4>
+                        <h2>
+                            <span>Our</span> Programs</h2>
+                    </div>
+                </div>
+            </div>
+            <div class="flat-icon-left">
+                <div class="row">
+                    <div class="col-md-4 col-sm-6">
+                        <div class="iconbox">
+                            <div class="icon">
+                                <i class="icon-handbag"></i>
+                                <h6 class="title-post">
+                                    <a href="javascript:;">Food & Drinks</a>
+                                </h6>
+                            </div>
+                            <div class="icon-post-v1">
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do eiusmod tempor incididunt
+                                    ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6">
+                        <div class="iconbox">
+                            <div class="icon">
+                                <i class="icon-book-open"></i>
+                                <h6 class="title-post">
+                                    <a href="javascript:;">Education</a>
+                                </h6>
+                            </div>
+                            <div class="icon-post-v1">
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do eiusmod tempor incididunt
+                                    ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6">
+                        <div class="iconbox">
+                            <div class="icon">
+                                <i class="icon-home"></i>
+                                <h6 class="title-post">
+                                    <a href="javascript:;">House & Shelter</a>
+                                </h6>
+                            </div>
+                            <div class="icon-post-v1">
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do eiusmod tempor incididunt
+                                    ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="flat-divider d45px"></div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-4 col-sm-6">
+                        <div class="iconbox">
+                            <div class="icon">
+                                <i class="icon-shield"></i>
+                                <h6 class="title-post">
+                                    <a href="javascript:;">Health & Medicine</a>
+                                </h6>
+                            </div>
+                            <div class="icon-post-v1">
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do eiusmod tempor incididunt
+                                    ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6">
+                        <div class="iconbox">
+                            <div class="icon">
+                                <i class="icon-badge"></i>
+                                <h6 class="title-post">
+                                    <a href="javascript:;">Legal Rights</a>
+                                </h6>
+                            </div>
+                            <div class="icon-post-v1">
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do eiusmod tempor incididunt
+                                    ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6">
+                        <div class="iconbox">
+                            <div class="icon">
+                                <i class="icon-volume-2"></i>
+                                <h6 class="title-post">
+                                    <a href="javascript:;">Political Awarness</a>
+                                </h6>
+                            </div>
+                            <div class="icon-post-v1">
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do eiusmod tempor incididunt
+                                    ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section> -->
+
+    <section class="flat-row flat-member" style=" padding-top: 0;">
+        <div class="page-title parallax parallax2">
+            <div class="overlay v1"></div>
+            <div class="container">
+                <div id="count-data-list" class="row">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="home6" class="flat-row flat-member icon-left-square" style=" padding-bottom: 50px;">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2">
+                    <div class="title-section">
+                        <h4>Working to save world</h4>
+                        <h2>
+                            <span>OUR</span> TEAM</h2>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div id="best-members-list" class="flat-member-carousel" data-item="3" data-nav="true" data-dots="false"
+                    data-auto="false">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- <div class="page-title parallax parallax3">
+        <div class="overlay v2"></div>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="flat-testimonial">
+                        <ul class="slides testimonial clearfix">
+                            <li>
+                                <div class="member-v1">
+                                    <div class="thumb">
+                                        <img src="images/member/5.png" alt="images">
+                                    </div>
+                                    <div class="text">
+                                        <blockquote>
+                                            <div class="blockqoute-text">
+                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                                                    tempor incid idunt ut labore et dolore magna aliqua. Ut enim ad minim
+                                                    veniam, quis no strud exe rcita ut aliquip ex ea commodo consequat.</p>
+                                            </div>
+                                        </blockquote>
+                                        <div class="title-testimonial">
+                                            <h6 class="title-post">
+                                                <a href="javascript:;">Hasan & Masum</a>
+                                            </h6>
+                                            <p>Orphan Boys</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="member-v1">
+                                    <div class="thumb">
+                                        <img src="images/member/5.png" alt="images">
+                                    </div>
+                                    <div class="text">
+                                        <blockquote>
+                                            <div class="blockqoute-text">
+                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                                                    tempor incid idunt ut labore et dolore magna aliqua. Ut enim ad minim
+                                                    veniam, quis no strud exe rcita ut aliquip ex ea commodo consequat.</p>
+                                            </div>
+                                        </blockquote>
+                                    </div>
+                                    <div class="title-testimonial">
+                                        <h6 class="title-post">
+                                            <a href="javascript:;">Hasan & Masum</a>
+                                        </h6>
+                                        <p>Orphan Boys</p>
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="member-v1">
+                                    <div class="thumb">
+                                        <img src="images/member/5.png" alt="images">
+                                    </div>
+                                    <div class="text">
+                                        <blockquote>
+                                            <div class="blockqoute-text">
+                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                                                    tempor incid idunt ut labore et dolore magna aliqua. Ut enim ad minim
+                                                    veniam, quis no strud exe rcita ut aliquip ex ea commodo consequat.</p>
+                                            </div>
+                                        </blockquote>
+                                    </div>
+                                    <div class="title-testimonial">
+                                        <h6 class="title-post">
+                                            <a href="javascript:;">Hasan & Masum</a>
+                                        </h6>
+                                        <p>Orphan Boys</p>
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="member-v1">
+                                    <div class="thumb">
+                                        <img src="images/member/5.png" alt="images">
+                                    </div>
+                                    <div class="text">
+                                        <blockquote>
+                                            <div class="blockqoute-text">
+                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                                                    tempor incid idunt ut labore et dolore magna aliqua. Ut enim ad minim
+                                                    veniam, quis no strud exe rcita ut aliquip ex ea commodo consequat.</p>
+                                            </div>
+                                        </blockquote>
+                                    </div>
+                                    <div class="title-testimonial">
+                                        <h6 class="title-post">
+                                            <a href="javascript:;">Hasan & Masum</a>
+                                        </h6>
+                                        <p>Orphan Boys</p>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div> -->
+    <section id="events" class="flat-row flat-our-events">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2">
+                    <div class="title-section">
+                        <h2>
+                            <span>Our</span> Events</h2>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="flat-events events-story">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- <section id="home7" class="flat-row flat-later-new">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2">
+                    <div class="title-section">
+                        <h4>Everything Changes</h4>
+                        <h2>
+                            <span>Latest</span> Events</h2>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="">
+                    <div class="later-new">
+                        <div class="post">
+                            <div class="img style1">
+                                <a href="javascript:;">
+                                    <img src="images/service1.jpg" alt="image">
+                                </a>
+                                <span></span>
+                            </div>
+
+                            <div class="post-later-new">
+                                <div class="title-later-new">
+                                    <p>Social</p>
+                                </div>
+                                <h4 class="title-post">
+                                    <a href="javascript:;">When you got your time </a>
+                                </h4>
+                                <div class="entry-content">
+                                    <p>Lorem ipsum dolor sit amet, consectetur adip isicing elit, sed do eiusmod tempor incididunt
+                                        ut labore et dolore magna aliqua</p>
+                                    <div class="more">
+                                        <a href="javascript:;">Read More</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="post">
+                            <div class="post-later-new">
+                                <div class="title-later-new">
+                                    <p>Education</p>
+                                </div>
+                                <h4 class="title-post">
+                                    <a href="javascript:;">Sed teugiat eros at con vallis</a>
+                                </h4>
+                                <div class="entry-content">
+                                    <p>Lorem ipsum dolor sit amet, consectetur adip isicing elit, sed do eiusmod tempor incididunt
+                                        ut labore et dolore magna aliqua</p>
+                                    <div class="more">
+                                        <a href="javascript:;">Read More</a>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="img style2">
+                                <a href="javascript:;">
+                                    <img src="images/service2.jpg" alt="image">
+                                </a>
+                                <span></span>
+                            </div>
+                        </div>
+                        <div class="post style1">
+                            <div class="img style1">
+                                <a href="javascript:;">
+                                    <img src="images/service3.jpg" alt="image">
+                                </a>
+                                <span></span>
+                            </div>
+
+                            <div class="post-later-new">
+                                <div class="title-later-new">
+                                    <p>Lifestyle</p>
+                                </div>
+                                <h4 class="title-post">
+                                    <a href="javascript:;">Bempor feugiat eros aonvaise</a>
+                                </h4>
+                                <div class="entry-content">
+                                    <p>Lorem ipsum dolor sit amet, consectetur adip isicing elit, sed do eiusmod tempor incididunt
+                                        ut labore et dolore magna aliqua</p>
+                                    <div class="more">
+                                        <a href="javascript:;">Read More</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section> -->
+
+    <footer id="home8" class="footer padding-top120px">
+        <div class="footer-widgets">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-8">
+                        <div class="widget widget-text">
+                            <h4 class="widget-title">About Hope Trust</h4>
+                            <div class="text">
+                                <p>We are running a charitable and educational trust to help the pupil and people of different
+                                    under privilaged and downtroden.</p>
+                            </div>
+                            <ul class="flat-socials">
+                                <li class="facebook">
+                                    <a href="https://www.facebook.com/hopetrustTWC/" target="_blank">
+                                        <i class="fa fa-facebook"></i>
+                                    </a>
+                                </li>
+                                <li class="twitter">
+                                    <a href="javascript:;">
+                                        <i class="fa fa-twitter"></i>
+                                    </a>
+                                </li>
+                                <li class="google">
+                                    <a href="javascript:;">
+                                        <i class="fa fa-instagram"></i>
+                                    </a>
+                                </li>
+                                <li class="linkedin">
+                                    <a href="javascript:;">
+                                        <i class="fa fa-linkedin"></i>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="widget contact-info">
+                            <h4 class="widget-title">Address</h4>
+                            <ul>
+                                <li class="address"><a href="javascript:;">#66, First Main Road,</a></li>
+                                <li class="address1"><a href="javascript:;">Senthil Nagar,Kolathur, Chennai-600 099</a></li>
+                                <li class="phone"><a href="tel:+044 - 4851 7014">+044 - 4851 7014</a></li>
+                                <li class="email"><a href="mailto:hopetrust0217@gmail.com">hopetrust0217@gmail.com</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                <div class="col-md-12 space-top">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d519.4268700485226!2d80.28995581150059!3d13.102534048021866!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a526f431b483abd%3A0xd0362a2e395d13fd!2sHopetrust-Together+we+can!5e0!3m2!1sen!2sin!4v1537102871814&z=20"
+                        width="100%" height="100%" frameborder="0" style="border:0"></iframe>
+                </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Go Top -->
+    <a class="go-top">
+        <i class="fa fa-chevron-up"></i>
+    </a>
+
+    <!-- Javascript -->
+    <script type="text/javascript" src="javascript/jquery.min.js"></script>
+    <script type="text/javascript" src="javascript/bootstrap.min.js"></script>
+    <script type="text/javascript" src="javascript/jquery.easing.js"></script>
+    <script type="text/javascript" src="javascript/owl.carousel.js"></script>
+    <script type="text/javascript" src="javascript/jquery.flexslider.js"></script>
+
+    <script type="text/javascript" src="javascript/jquery.sticky.js"></script>
+
+    <script type="text/javascript" src="javascript/imagesloaded.min.js"></script>
+    <script type="text/javascript" src="javascript/jquery.isotope.min.js"></script>
+
+    <script type="text/javascript" src="javascript/jquery-countTo.js"></script>
+
+    <script type="text/javascript" src="javascript/jquery-waypoints.js"></script>
+
+    <script type="text/javascript" src="javascript/smoothscroll.js"></script>
+    <script type="text/javascript" src="javascript/jquery.cookie.js"></script>
+    <script type="text/javascript" src="javascript/switcher.js"></script>
+
+    <script type="text/javascript" src="javascript/main.js"></script>
+    <script type="text/javascript" src="javascript/home.js"></script>
+
+    <!-- Revolution Slider -->
+    <script type="text/javascript" src="javascript/jquery.themepunch.tools.min.js"></script>
+    <script type="text/javascript" src="javascript/jquery.themepunch.revolution.min.js"></script>
+    <script type="text/javascript" src="javascript/slider.js"></script>
+
+</body>
 </html>
