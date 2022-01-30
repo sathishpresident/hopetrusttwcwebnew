@@ -2,6 +2,8 @@
  * bestVolunteers
  */
 
+/** Example */
+
 (function ($) {
   "use strict";
 
