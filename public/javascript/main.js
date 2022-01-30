@@ -40,7 +40,7 @@
       {
         eventDate: "26 March 2017",
         place: "Placepalayam & Gudiyam Tribal Villages,Thiruvallur District",
-        Time: "6.00AM - 6.00PM",
+        // Time: "6.00AM - 6.00PM",
         Members: "12 Volunteers",
         Description:
           "We provided solar lamp to each family, as there is no electricity available.\nWe entertained people by singing songs, providing small gifts and chocolates and provided special lunch.\nWe also gave a brief talk on cleanliness & health, child marriage and child labour.",
@@ -65,7 +65,7 @@
       {
         eventDate: "10 June 2017",
         place: "Asirvadhu Ashram,Siruvanur,Thiruvallur District",
-        Time: "6.00AM - 6.00PM",
+        // Time: "6.00AM - 6.00PM",
         Members: "12 Volunteers",
         Description:
           "According to our plan of appreciating and providing the study kit for the students of interiorvillages of Thiruvallur district namely Guidyum, Placepalayam, Manjakuppam,Narigonam,etc.\n The Event Held with Presence of Ms.Sudha(Trans-National Speaker) and some others..\n Started with prayer dances and Speeches from the guest later we provided the kit to all kids and some cultural we are planned accordingly we conducted those games and all kids had their lunch.\n And all the kids where returned to their villages and event is ended.",
@@ -228,6 +228,86 @@
         Description: `On Marking 10 years of service(Trust Achievement day) , We at hope trust are paying a visit to Panchayat union Primary school in Salem district. To increase the strength of the tribal school we are provided them with different things like Moon Table,Chairs,Staff Table,sanitation kits , Stationery Kits and Torch Lights for Tribal Families which will be very much useful for them. Special thanks to Aram Sei youth foundation and the headmaster of the school. We will continue to serve the tribal community in the future and we have been travelled with all necessary COVID 19 precautions.`,
         image: "images/Eventpics/e22.jpg",
       },
+      {
+        eventDate: "07 February 2021",
+        place: "Gudiyam village - Thiruvallur",
+        Time: "01.00pm - 06.30pm",
+        Members: "15 Volunteers",
+        Description: `Following this we went to Gudiyam village where we first started our service. We have started our 5th year chapter! It is a beautiful village located on the Tamil Nadu-Andhra border. We traveled through about 3km of rough roads and reached the settlement. 5 years but, glad the people who live there welcomed us unforgettably !! Provided. In the settlement where about 35-40 families live. They need We donated groceries and on behalf of another charity work is underway to show there a free evening course road building. Thinking that we should have a role in laying the groundwork for it, they had to pour us gravel and start the work.`,
+        image: "images/Eventpics/e23.jpg",
+      },
+      {
+        eventDate: "12 March 2021",
+        place:
+          "Panachayat Union Middle School,Bakkiya Nagar & Government Model Higher Secondary School,Thuneri",
+        Time: "01.00pm - 06.30pm",
+        Members: "10 Volunteers",
+        Description: `As the first part of the event, we accepted the invitation to attend the "Gateway Opening Ceremony" held at the Bakkiyanagar Panchayat School in the heart of the
+        Kotagiri Province in the Nilgiris District, which is surrounded by the rains of the Western Ghats.In the second part, we went to Government Model High School,
+        Thuneri.The headmaster invited us to come this (all) year as well. This event was also performed in the best possible manner with full human observance of the
+        individual human interval.`,
+        image: "images/Eventpics/e24.jpg",
+      },
+      {
+        eventDate: "14 August 2021",
+        place: "Puravelai and Kothaiyar Tribal Villages , Kanyakumari District",
+        Time: "01.00pm - 06.30pm",
+        Members: "08 Volunteers",
+        Description: `From Hope Trust we have been providing all possible assistance and guidance to rural and hill tribe students and people. Especially our projects "Reached an
+        unattainable tribal community". Following this, it is necessary to reach out to 110 families from Kanyakumari district, Puravelai hill village and Kothaiyar village
+        in such dire situations. Our team planned and raised the necessary funds for the event.Following this we (14/08/2021) went to Puravilai village and met the people. We
+        gave each family a 'kit' containing various groceries worth about Rs.300 / - and gave them some comfort and reassurance.`,
+        image: "images/Eventpics/e25.jpg",
+      },
+      {
+        eventDate: "18 September 2021",
+        place:
+          "Government Tribal Residential Higher Secondary School, Perumparai , Dindigul District",
+        Time: "01.00pm - 06.30pm",
+        Members: "07 Volunteers",
+        Description: `It was decided to provide the school with 6 pairs of bench desks and a set of speakers & a microphone (Bluetooth Speaker with wireless Mic) in order to facilitate
+        seating while the students were at the school. Accordingly, Event-26 was well planned and well organized as an event to provide bench, desk, loudspeaker set and
+        writing equipment to the students.It was decided to provide the school with 6 pairs of bench desks and a set of speakers & a microphone (Bluetooth Speaker with
+        wireless Mic) in order to facilitate seating while the students were at the school. Accordingly, Event-26 was well planned and well organized as an event to provide
+        bench, desk, loudspeaker set and writing equipment to the students.`,
+        image: "images/Eventpics/e26.jpg",
+      },
+      {
+        eventDate: "02 October 2021",
+        place: "All Over Tamilnadu",
+        Time: "01.00pm - 06.30pm",
+        Members: "45 Volunteers",
+        Description: `As the members of the Trust study and work in various cities and towns, they take this as a challenge and stay where they are That is, more than 40 members split into
+        small groups and went to more than 20 Orphanages near their location, volunteering as much as they could to help and feed the roadside people. At a total cost of 14
+        thousand rupees, they completed the event by covering an area of about 150 km in 18 hours.It is gratifying to once again express unity in isolation.`,
+        image: "images/Eventpics/e27.jpg",
+      },
+      {
+        eventDate: "09 October 2021",
+        place:
+          "Government Tribal Residential Higher Secondary School, Hasanur, Erode District",
+        Time: "01.00pm - 06.30pm",
+        Members: "09 Volunteers",
+        Description: `Great pleasure to meet the students after the corona extraordinary situation !! That the drinking water used by school children before was unsafe.It was brought to our
+        attention through the headmaster, assistant headmaster and fellow teachers of the school. For this, we have provided a Water Purifier for the benefit of the students
+        of that school. We hope you enjoy the extension. We also heard that the water storage tank was not clean. So two Syntax Tanks with a capacity of 1000 Liters were
+        donated on behalf of our Trust.`,
+        image: "images/Eventpics/e28.jpg",
+      },
+      {
+        eventDate: "07 December 2021",
+        place:
+          "Government Tribal Residential Higher Secondary School, Manniyarapalayam, Kallakurchi District",
+        Time: "01.00pm - 06.30pm",
+        Members: "10 Volunteers",
+        Description: `We started the event as planned. The school teachers and students gave a warm welcome. Earlier it was brought to our notice through the headmaster of the school that
+        the drinking water used by the school students is unsafe. For this, we have provided a Water Purifier for the benefit of the students of that school. We hope you enjoy
+        the extension.Also, students staying in hostels face great inconvenience as electricity is provided only for 2 hours per day. We provided an Electric Generator to deal
+        with it to some extent.Career Guidance, Psychological, motivational classes for 9, 10, +1 and +2 students were conducted by our trust volunteers at this event which
+        was conducted with Corona awareness in keeping with the social gap. There was also a conversation about biology.
+        `,
+        image: "images/Eventpics/e29.jpg",
+      },
     ];
 
     var events = document.getElementsByClassName("events-story")[0];
@@ -254,7 +334,7 @@
                 </h2>
                 <div class="meta-post clearfix">
                     <ul>
-                        <li class="time">${event.Time}</li>
+                    <!--<li class="time">${event.Time}</li>-->
                         <li class="address">
                             <a href="javascript:;">${event.Members}</a>
                         </li>
