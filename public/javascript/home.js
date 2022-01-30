@@ -75,7 +75,7 @@
       {
         name: "Madhusudhan T",
         designation: "Manager - Fund Raising",
-        image: "images/member/FRmanager1.jpg",
+        image: "images/member/FRManager1.jpg",
         facebook: "",
         instagram: "",
       },
