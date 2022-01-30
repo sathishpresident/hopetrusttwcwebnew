@@ -187,7 +187,7 @@
       },
       {
         name: "Govindarajulu S",
-        designation: "Leader - Internal Strengthening : Tech Savvy",
+        designation: "Leader - Internal Strengthening : Tech Savvy & Administration ",
         image: "images/member/ISTSLeader1.jpg",
         facebook: "",
         instagram: "",
