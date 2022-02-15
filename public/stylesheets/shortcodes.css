@@ -735,22 +735,8 @@
 
 .flat-events .entry .meta-post ul li {
     position: relative;
-    padding-left: 24px;
     margin-right: 26px;
     display: inline-block;
-}
-
-.entry .meta-post ul li:before {
-    position: absolute;
-    left: 0;
-    top: 0;
-    color: #c7b250;
-    font-family: 'FontAwesome';
-    content: "\f017";
-}
-
-.entry .meta-post ul li.address:before {
-    content: "\f041";
 }
 
 .entry .meta-post ul li.time {
