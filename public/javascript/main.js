@@ -43,7 +43,7 @@
         // Time: "6.00AM - 6.00PM",
         Members: "12 Volunteers",
         Description:
-          "We provided solar lamp to each family, as there is no electricity available.\nWe entertained people by singing songs, providing small gifts and chocolates and provided special lunch.\nWe also gave a brief talk on cleanliness & health, child marriage and child labour.",
+          "We provided solar lamps to each family, as there is no electricity available. We entertained people by singing songs, providing small gifts and chocolates and provided special lunch. We also gave a brief talk on cleanliness & health, child marriage and child labour.",
         image: "images/Eventpics/e1.jpg",
       },
       /*{
@@ -68,7 +68,7 @@
         // Time: "6.00AM - 6.00PM",
         Members: "12 Volunteers",
         Description:
-          "According to our plan of appreciating and providing the study kit for the students of interiorvillages of Thiruvallur district namely Guidyum, Placepalayam, Manjakuppam,Narigonam,etc.\n The Event Held with Presence of Ms.Sudha(Trans-National Speaker) and some others..\n Started with prayer dances and Speeches from the guest later we provided the kit to all kids and some cultural we are planned accordingly we conducted those games and all kids had their lunch.\n And all the kids where returned to their villages and event is ended.",
+          "According to our plan of appreciating and providing the study kit for the students of interior villages of Thiruvallur district namely Guidyum, Placepalayam, Manjakuppam,Narigonam,etc. The Event Held with Presence of Ms.Sudha(Trans-National Speaker) and some others.. Starting with prayer dances and Speeches from the guests later we provided the kit to all kids and some cultural activities we planned accordingly. We conducted those games and all kids had their lunch. And all the kids were returned to their villages and the event ended.",
         image: "images/Eventpics/e4.jpg",
       },
       {
@@ -77,7 +77,7 @@
         Time: "2 Days",
         Members: "19 Volunteers",
         Description:
-          "We organized a special tour for orphan children. We had full of thoughts and experience sharing session about the observatory telescope view and geek science facts.",
+          "We organized a special tour for orphan children. We had full thoughts and experience sharing sessions about the observatory telescope view and geek science facts.",
         image: "images/Eventpics/e5.jpg",
       },
       {
@@ -86,7 +86,7 @@
         Time: "7.00AM - 8.00PM",
         Members: "57 Volunteers",
         Description:
-          "We had a conversation with the Children and gathered in a place and started our events.\nWe began with Games first and then few Cultural programs.\nour Trust ladies prepared a good lunch for everyone.",
+          "We had a conversation with the Children and gathered in a place and started our events. We began with Games first and then a few Cultural programs. Our Trust ladies prepared a good lunch for everyone.",
         image: "images/Eventpics/e6.jpg",
       },
       /*{
@@ -104,7 +104,7 @@
         Time: "6.30AM - 7.00PM",
         Members: "24 Volunteers",
         Description:
-          "We planned an awareness program on Usage of Plastics – Its Merits & De-merits. T-shirts were one of their need, hence’ we managed to get t-shirts based on the sizes of the children & packed it according to the size and gender along with a snack in each pack for the children to relish.",
+          "We planned an awareness program on Usage of Plastics – Its Merits & Demerits. T-shirts were one of their needs, hence’ we managed to get t-shirts based on the sizes of the children & packed it according to the size and gender along with a snack in each pack for the children to relish.",
         image: "images/Eventpics/e8.jpg",
       },
       {
@@ -112,7 +112,7 @@
         place: "Asirvadhu Ashram,Siruvanur,Thiruvallur District",
         Time: "10.00AM - 4.00PM",
         Members: "8 Volunteers",
-        Description: `We organized this event at Aashirvadh Aashram, Siruvanur in association with three other Trusts namely Zeal Trust, MM foundation and Mithuran Foundation. The event kicked off with a prayer. After the prayer the students we had invited were given a platform to showcase their talents. The chief guest, Thiruvallur district head delivered an inspiring speech on the topic "How to reach your goals". students were given study kits which would assist them in their learning.`,
+        Description: `We organized the event at the Asirvadhu Ashram in Siruvanur in association with three other foundations, the Zeal Trust, the MM Foundation and the Mithuran Foundation. The event began with prayer. The students we invited after the prayer were given a platform to showcase their talents.As the Chief Guest, the Tiruvallur District Chairman delivered an inspiring speech on "How to Achieve Your Goal". Students were provided with study materials to aid their learning.`,
         image: "images/Eventpics/e9.jpg",
       },
       {
@@ -121,7 +121,7 @@
           "Community Seva School, Thalvenniyur, Kalvarayan Hills, Kallakurichi District",
         Time: "2 Days",
         Members: "24 Volunteers",
-        Description: `Reaching this school was an arduous journey as there were no proper transportation facilities available, we had to hike 7km to reach the school premises. We were warmly greeted by the students and teachers. charts focused on creating awareness about cleanliness, education and other relevant topics were pasted in the classroom walls. Fun activities and events were conducted to educate the students After lunch, we distributed the goodies we had bought for them. A cheque was presented to the school management that enabled them to buy a 1 year Subscription plan for the Sun Direct DTH services. They needed this for the hostel students.`,
+        Description: `Reaching this school was an arduous journey as there were no proper transportation facilities available, we had to hike 7km to reach the school premises. We were warmly greeted by the students and teachers. Charts focused on creating awareness about cleanliness, education and other relevant topics were pasted in the classroom walls. Fun activities and events were conducted to educate the students. After lunch, we distributed the goodies we had bought for them.For boarding students, we presented a check to the school administration to purchase a 1-year subscription plan for Sun Direct DTH services.`,
         image: "images/Eventpics/e10.jpg",
       },
       {
@@ -130,7 +130,7 @@
           "Panchayat Union Primary School, Manalmedu village,Thiruveniyanallur Block,Villupuram District",
         Time: "11.00am - 4.00pm",
         Members: "15 Volunteers",
-        Description: `During this event we met a teacher who was absolutely inspirational and her 25 students for whom she travels from a long distance despite her poor health condition. Desks and seating benches were donated to the school. The students were elated to participate in the events we conducted and were happy to interact with us.  Later in the day chocolates and water bottles were distributed to the children. A memento was presented to the school’s Headmistress for her dedication and hard work towards the betterment of the school and its students. `,
+        Description: `We provided Tables and Chairs  for the school. Students attended the events we held and enjoyed talking to us.Later,Chocolates and water bottles were distributed to the children.The headmistress of the school was presented with a memento for her dedication and hard work for the betterment of the school and the students.`,
         image: "images/Eventpics/e11.jpg",
       },
       {
@@ -138,7 +138,7 @@
         place: "Bharath Matha Sevai Ilam,Nandhiyambakkam,Thiruvallur District",
         Time: "10.00am - 02.00pm",
         Members: "17 Volunteers",
-        Description: `The agenda for this event was to meet the kids of Bharath Mala Sevai Illam and spend some quality time with them. This was a special event because it fell on the day of Gandhi Jayanthi which is also the 8th Trust Achievement Day. The kids were elated to see us and interacted with us enthusiastically. A session was conducted to emphasise the difference between good touch and bad touch. We ended the day by distributing stationery items and gifts to the children.`,
+        Description: `The agenda of the event is to meet the children of Bharata Mata Seva Illam and spend some quality time with them. This is a special event on Gandhi Jayanti and also our 8th Foundation Achievement Day.The kids enjoyed watching us and got excited with us. A session was held to emphasize the difference between good touch and bad touch. We ended the day by giving the children stationery items and gifts.`,
         image: "images/Eventpics/e12.jpg",
       },
       {
@@ -147,7 +147,7 @@
           "Government Tribal Higher Secondary School, Top Sengattupati, Thuriayur taluk, Tiruchirappalli District",
         Time: "2 Days",
         Members: "16 Volunteers",
-        Description: `This is one of those events that will always stay on our minds, the destination was hard to reach but the experience was enriching. We conducted a series of activities for students of standard 10 to broaden their horizon of knowledge and thinking. For standard 11 & 12 a career guidance session was planned and executed in an effective manner. A projector was donated to the school so that the classes were taken in a more interactive manner. Prizes were distributed to students for the activities conducted throughout the day. Overall it was a great learning experience both for the students and volunteers.`,
+        Description: `This is one of the events that always lingers in our minds, the goal was hard to achieve, but the experience was rich. We conducted a series of activities to expand the horizons of knowledge and thinking of 10th  students.For standard 11 & 12 a career guidance session was planned and executed in an effective manner. A projector was donated to the school so that the classes were taken in a Visualised manner. Prizes were distributed to students for the activities conducted throughout the day. Overall it was a great learning experience for both the students and volunteers.`,
         image: "images/Eventpics/e13.jpg",
       },
       {
@@ -155,7 +155,7 @@
         place: "Anna square Beach to Gandhi Beach,Merina,Chennai",
         Time: "11.00pm - 11.45pm",
         Members: "16 Volunteers",
-        Description: `We did not want the people who are homeless to suffer during the cold winter nights. So, 50 blankets were donated to the homeless people in the Anna Square beach locality. We were delighted to see the smile on their faces.`,
+        Description: `50 blankets were distributed to homeless people in the Anna Square beach locality. We were glad to see the smile on their faces.`,
         image: "images/Eventpics/e14.jpg",
       },
       {
@@ -164,7 +164,7 @@
           "Government Tribal Residential Middle School , Manalodi & Government Tribal Residential Higher Secondary School , Pechiparai , Kaniyakumari District",
         Time: "3 Days",
         Members: "17 Volunteers",
-        Description: `Two schools were visited as a part of this event. First we visited Government Tribal Residential Middle School, Manalodai. A few fun activities and a puppet show was conducted to educate the children. Students showcase their talent in music and dance after the activities were done. A 50 litre RO purifier was donated to ensure a safe drinking water source to the children. Next, we visited another school in Pechiparai, Government Tribal Residential Higher Secondary School and conducted a series of fun activities and motivational and career guidance sessions were conducted for the students. A 50 litre RO purifier was donated to this school as well.`,
+        Description: `We visited two schools as part of the event. First we went to Government Tribal Residential Middle School,Manalodai. Some games, activities and puppet shows were held to educate the children. After the performances the students displayed their talents in music and dance. We provided a 50 liter water purifier to ensure a safe source of drinking water for children.Next, we went to another school in pechiparai, Government Tribal Residential High School. motivation and career guidance sessions for students were held.Here also we provide a 50 liter water purifier.`,
         image: "images/Eventpics/e15.jpg",
       },
       {
@@ -173,7 +173,7 @@
           "Panchayat Union Primary School, Manalmedu village & Panchayat Union Primary School, Pathiri Village , Vllupuram District",
         Time: "04.00am - 10.00pm",
         Members: "3 Volunteers",
-        Description: `Evaluation visit to two schools which we have serviced in the past years. Desks and sitting benches were donated to Panchayat Union Primary School, Manalmedu. The students remembered us and were happy to see us again. Next, we visited Panchayat Union Primary School in Pathiri village to which we had donated uniforms in the past. We were satisfied with the progress of both the schools.`,
+        Description: `We came to review two schools we have served in the past years.Desks and sitting benches were donated to Panchayat Union Primary School, Manalmedu.Next, we visited Panchayat Union Primary School in Pathiri village to which we had donated uniforms in the past. We were satisfied with the progress of both the schools.`,
         image: "images/Eventpics/e16.jpg",
       },
       {
@@ -181,7 +181,7 @@
         place: "7 Variour Orphanages & Old Age Homes",
         Time: "09.00am - 02.00pm",
         Members: "47 Volunteers",
-        Description: `We celebrated our ‘Trust Achievement Day’ marking the 9th year of our existence and Gandhi Jayanthi in a unique way. The volunteers of our trust split into 9 groups and visited 9 different orphanages & old age homes all around the city and celebrated the auspicious day with them. The seed of our trust was sown 9 years ago, we have grown leaps and bounds and continue to grow with the trust and support of our patrons and volunteers. Support us and together we shall create a better future for our fellow citizens. `,
+        Description: `We uniquely celebrated our ‘Hope Achievement Day’ to mark our 9th year and Gandhi Jayanti. Volunteers from our foundation split into 9 groups and visited 9 different orphanages and nursing homes to celebrate Day with them.The seed of our faith was sown 9 years ago, we have grown in leaps and bounds and continue to grow with the trust and support of our patrons and volunteers. Support us and together we will create a better future for our fellow citizens.`,
         image: "images/Eventpics/e17.jpg",
       },
       {
@@ -190,7 +190,7 @@
           "Government Model Higher Secondary School , Thuneri , Agalar Post , The Nilgiris Distict",
         Time: "2 Days",
         Members: "17 Volunteers",
-        Description: `17 Volunteers from Hope Trust visited the Government Model Higher Secondary School located in The Nilgiris district. All the volunteers were excited about the event and so were the students. The day started with an inaugural ceremony and our trust president’s opening note about the ‘Greatness of Teacher's. Various activities were conducted to broaden the minds of the students in a fun manner. A career guidance session was conducted by our trust president Mr. Sathish Kumar(President-Hope Trust) followed by motivational sessions by our volunteers. Rs 25000/- was donated to the school to satisfy their infrastructural needs.`,
+        Description: `Trustees visited the Government Model High School in the Nilgiris District.The day began with the opening ceremony and the inaugural note on the ‘Greatness of Teachers’ by our trust President. Various programs were conducted to broaden the minds of the students.A career guidance session was conducted by our trust president Mr. Sathish Kumar, followed by motivational sessions by our volunteers. Rs 25000/- was donated to the school for their infrastructural needs.`,
         image: "images/Eventpics/e18.jpg",
       },
       {
@@ -208,7 +208,7 @@
           "Panchayat Union Middle School, Bakkiya Nagar , Kattabettu ,Kotagiri, The Nilgiris District",
         Time: "2 Days",
         Members: "12 Volunteers",
-        Description: `We were warmly greeted by the teachers and students upon our arrival at the Panchayat Union Primary School, Kotagiri. We began the day with a short knowledge development session and conducted a few sports competitions for the students. Later in the day we called upon students  to showcase their talent in diverse fields such as music, dance and street play. A puppet show was conducted to create awareness about First Aid and Children Assistance Helpline (Helpline number : 1098). Rs 25000/- was donated to the school for building a toilet and the entrance gate.`,
+        Description: `We were warmly greeted by the teachers and students upon our arrival at the Panchayat Union Primary School, Kotagiri. We began the day with a short knowledge development session and conducted a few sports competitions for the students. Later in the day we called upon students to showcase their talent in diverse fields such as music, dance and street play. A puppet show was conducted to create awareness about First Aid and Children Assistance Helpline (Helpline number : 1098). Rs 25000/- was donated to the school for building a toilet and the entrance gate.`,
         image: "images/Eventpics/e20.jpg",
       },
       {
@@ -216,7 +216,7 @@
         place: "Perambur, Chennai",
         Time: "12.00pm - 1.30pm",
         Members: "08 Volunteers",
-        Description: `We regularly visit remote tribal villages in various parts of Tamil Nadu, empowering the schools and educating the students and villagers. The pandemic has put an obstacle in our regular proceedings, but we did not let the obstacle come in between our core values; helping people in need. So, we shifted our attention towards the people in need in our city and on this Independence day, we distributed 100 food parcels and water bottles to the people in need, all the while following proper safety guidelines.`,
+        Description: `We regularly visit remote tribal villages in various parts of Tamil Nadu, empower schools and educate students and villagers.The pandemic has put an obstacle in our regular proceedings, but we did not let the obstacle come in between our core values; helping people in need.So, we turned our attention to the people in need in our city and on this Independence Day, we distributed 100 food parcels and bottles of water to the people in need, while at the same time following proper safety guidelines.`,
         image: "images/Eventpics/e21.jpg",
       },
       {
@@ -225,7 +225,7 @@
           "Panchayat Union Primary School,Jamboothu Hills,Vazhapadi Zone,Salem District",
         Time: "01.00pm - 06.30pm",
         Members: "09 Volunteers",
-        Description: `On Marking 10 years of service(Trust Achievement day) , We at hope trust are paying a visit to Panchayat union Primary school in Salem district. To increase the strength of the tribal school we are provided them with different things like Moon Table,Chairs,Staff Table,sanitation kits , Stationery Kits and Torch Lights for Tribal Families which will be very much useful for them. Special thanks to Aram Sei youth foundation and the headmaster of the school. We will continue to serve the tribal community in the future and we have been travelled with all necessary COVID 19 precautions.`,
+        Description: `Trustees visit Panchayat Union Primary School in Salem District on the occasion of 10 years of service (Hope Achievement Day). To increase the strength of the Tribal school they were provided with various items such as moon shaped desk, chairs, teacher desk, sanitary ware, stationery, torch lamps which would be very useful for the Tribal families.Special thanks to the Aram Sei Youth Foundation and the headmaster of the school. We will continue to serve the tribal community in the future.`,
         image: "images/Eventpics/e22.jpg",
       },
       {
@@ -233,7 +233,7 @@
         place: "Gudiyam village - Thiruvallur",
         Time: "01.00pm - 06.30pm",
         Members: "15 Volunteers",
-        Description: `Following this we went to Gudiyam village where we first started our service. We have started our 5th year chapter! It is a beautiful village located on the Tamil Nadu-Andhra border. We traveled through about 3km of rough roads and reached the settlement. 5 years but, glad the people who live there welcomed us unforgettably !! Provided. In the settlement where about 35-40 families live. They need We donated groceries and on behalf of another charity work is underway to show there a free evening course road building. Thinking that we should have a role in laying the groundwork for it, they had to pour us gravel and start the work.`,
+        Description: `We went to Gudiyam village where we first started the service. We have started our 5th year chapter! A beautiful village located on the Tamil Nadu-Andhra border. We traveled about 3 km on rough roads and reached Gudiyam village.The village, which is home to about 35-40 families, has been providing free road work and groceries on behalf of the charity.`,
         image: "images/Eventpics/e23.jpg",
       },
       {
@@ -242,10 +242,7 @@
           "Panachayat Union Middle School,Bakkiya Nagar & Government Model Higher Secondary School,Thuneri",
         Time: "01.00pm - 06.30pm",
         Members: "10 Volunteers",
-        Description: `As the first part of the event, we accepted the invitation to attend the "Gateway Opening Ceremony" held at the Bakkiyanagar Panchayat School in the heart of the
-        Kotagiri Province in the Nilgiris District, which is surrounded by the rains of the Western Ghats.In the second part, we went to Government Model High School,
-        Thuneri.The headmaster invited us to come this (all) year as well. This event was also performed in the best possible manner with full human observance of the
-        individual human interval.`,
+        Description: `As the first part of the event, we extended an invitation to attend the "Gateway Opening Ceremony" held at the Bakkiyanagar Panchayat School in the heart of the Kotagiri Province, Nilgiris District, surrounded by the rains of the Western Ghats.In the second part, we went to the Government Model High School in Thuneri.`,
         image: "images/Eventpics/e24.jpg",
       },
       {
@@ -253,10 +250,7 @@
         place: "Puravelai and Kothaiyar Tribal Villages , Kanyakumari District",
         Time: "01.00pm - 06.30pm",
         Members: "08 Volunteers",
-        Description: `From Hope Trust we have been providing all possible assistance and guidance to rural and hill tribe students and people. Especially our projects "Reached an
-        unattainable tribal community". Following this, it is necessary to reach out to 110 families from Kanyakumari district, Puravelai hill village and Kothaiyar village
-        in such dire situations. Our team planned and raised the necessary funds for the event.Following this we (14/08/2021) went to Puravilai village and met the people. We
-        gave each family a 'kit' containing various groceries worth about Rs.300 / - and gave them some comfort and reassurance.`,
+        Description: `We have been providing all possible assistance and guidance to rural and hill students and people from the Hope Trust. In particular our projects “reached the unattainable tribal community”. Following this, it is necessary to reach 110 families from Kanyakumari district, outlying hill village, Kodaiyar village in such dire situation.Following this (14/08/2021) we went to Puravilai village and met the people. We gave each family a 'kit' containing various groceries worth Rs. 300 / - to give them comfort and confidence.`,
         image: "images/Eventpics/e25.jpg",
       },
       {
@@ -265,11 +259,7 @@
           "Government Tribal Residential Higher Secondary School, Perumparai , Dindigul District",
         Time: "01.00pm - 06.30pm",
         Members: "07 Volunteers",
-        Description: `It was decided to provide the school with 6 pairs of bench desks and a set of speakers & a microphone (Bluetooth Speaker with wireless Mic) in order to facilitate
-        seating while the students were at the school. Accordingly, Event-26 was well planned and well organized as an event to provide bench, desk, loudspeaker set and
-        writing equipment to the students.It was decided to provide the school with 6 pairs of bench desks and a set of speakers & a microphone (Bluetooth Speaker with
-        wireless Mic) in order to facilitate seating while the students were at the school. Accordingly, Event-26 was well planned and well organized as an event to provide
-        bench, desk, loudspeaker set and writing equipment to the students.`,
+        Description: `It was decided to provide the school with 6 pairs of bench desks and speakers and a microphone (Bluetooth speaker with wireless mic) for comfortable sitting while students are at school.Accordingly, the event-26 was well-planned and well-organized event to provide bench, desk, loudspeaker and writing equipment to the students.`,
         image: "images/Eventpics/e26.jpg",
       },
       {
@@ -277,9 +267,7 @@
         place: "All Over Tamilnadu",
         Time: "01.00pm - 06.30pm",
         Members: "45 Volunteers",
-        Description: `As the members of the Trust study and work in various cities and towns, they take this as a challenge and stay where they are That is, more than 40 members split into
-        small groups and went to more than 20 Orphanages near their location, volunteering as much as they could to help and feed the roadside people. At a total cost of 14
-        thousand rupees, they completed the event by covering an area of about 150 km in 18 hours.It is gratifying to once again express unity in isolation.`,
+        Description: `As the Foundation members study and work in various cities and towns, they take this as a challenge and stay where they are, that is, more than 40 members split into small groups and move to more than 20 orphanages near their location. They provided all possible assistance and food to the roadside people.At a total cost of 14 thousand rupees, they covered a distance of about 150 km in 18 hours and completed the event.It is gratifying to once again express unity in isolation.`,
         image: "images/Eventpics/e27.jpg",
       },
       {
@@ -288,10 +276,7 @@
           "Government Tribal Residential Higher Secondary School, Hasanur, Erode District",
         Time: "01.00pm - 06.30pm",
         Members: "09 Volunteers",
-        Description: `Great pleasure to meet the students after the corona extraordinary situation !! That the drinking water used by school children before was unsafe.It was brought to our
-        attention through the headmaster, assistant headmaster and fellow teachers of the school. For this, we have provided a Water Purifier for the benefit of the students
-        of that school. We hope you enjoy the extension. We also heard that the water storage tank was not clean. So two Syntax Tanks with a capacity of 1000 Liters were
-        donated on behalf of our Trust.`,
+        Description: `So glad to meet the students after the Corona extraordinary situation !! It was brought to our attention by the school principal, assistant principal and fellow teachers that the drinking water previously used by school children is unsafe. For this we have provided a water purification machine for the use of the students of that school.We hope students will benefit from this extension. We also heard that the water storage tank was not clean. So on behalf of our Hope Trust, two Syntax tanks with a capacity of 1000 liters were donated.`,
         image: "images/Eventpics/e28.jpg",
       },
       {
@@ -300,12 +285,7 @@
           "Government Tribal Residential Higher Secondary School, Manniyarapalayam, Kallakurchi District",
         Time: "01.00pm - 06.30pm",
         Members: "10 Volunteers",
-        Description: `We started the event as planned. The school teachers and students gave a warm welcome. Earlier it was brought to our notice through the headmaster of the school that
-        the drinking water used by the school students is unsafe. For this, we have provided a Water Purifier for the benefit of the students of that school. We hope you enjoy
-        the extension.Also, students staying in hostels face great inconvenience as electricity is provided only for 2 hours per day. We provided an Electric Generator to deal
-        with it to some extent.Career Guidance, Psychological, motivational classes for 9, 10, +1 and +2 students were conducted by our trust volunteers at this event which
-        was conducted with Corona awareness in keeping with the social gap. There was also a conversation about biology.
-        `,
+        Description: `We started the event as planned. The school teachers and students gave an enthusiastic welcome. Earlier it was brought to the notice of the school headmaster that the drinking water used by the school students was unsafe.For this we have provided a water purification machine for the use of the students of that school. We hope that the students will benefit from this extension.Also, students staying in hostels are facing great inconvenience as electricity is provided only for 2 hours daily. We provided an electric generator to deal with it to some extent.Career guidance, psychology and motivational classes for 9th, 10th, 11th and 12th students were conducted by our Hope Trust volunteers at the event, which was held with Corona awareness in mind of the social distancing. Conversation about biology also took place.`,
         image: "images/Eventpics/e29.jpg",
       },
     ];
@@ -334,7 +314,6 @@
                 </h2>
                 <div class="meta-post clearfix">
                     <ul>
-                    <!--<li class="time">${event.Time}</li>-->
                         <li class="address">
                             <a href="javascript:;">${event.Members}</a>
                         </li>
