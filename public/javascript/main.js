@@ -72,7 +72,7 @@
         image: "images/Eventpics/e4.jpg",
       },
       {
-        eventDate: "28 July 2017 - 29 July 2017",
+        eventDate: "28 July 2017",
         place: "IIAP, Kavalur, Thiruvanamalai District",
         Time: "2 Days",
         Members: "19 Volunteers",
@@ -116,7 +116,7 @@
         image: "images/Eventpics/e9.jpg",
       },
       {
-        eventDate: "21 June 2018 - 24 June 2018",
+        eventDate: "22 June 2018",
         place:
           "Community Seva School, Thalvenniyur, Kalvarayan Hills, Kallakurichi District",
         Time: "2 Days",
@@ -142,7 +142,7 @@
         image: "images/Eventpics/e12.jpg",
       },
       {
-        eventDate: "06 December 2018 – 09 December 2018",
+        eventDate: "07 December 2018",
         place:
           "Government Tribal Higher Secondary School, Top Sengattupati, Thuriayur taluk, Tiruchirappalli District",
         Time: "2 Days",
@@ -159,7 +159,7 @@
         image: "images/Eventpics/e14.jpg",
       },
       {
-        eventDate: "15 August 2019 - 20 August 2019",
+        eventDate: "16 August 2019, 17 August 2019",
         place:
           "Government Tribal Residential Middle School , Manalodi & Government Tribal Residential Higher Secondary School , Pechiparai , Kaniyakumari District",
         Time: "3 Days",
@@ -185,7 +185,7 @@
         image: "images/Eventpics/e17.jpg",
       },
       {
-        eventDate: "27 December 2019 - 30 December 2019",
+        eventDate: "28 December 2019",
         place:
           "Government Model Higher Secondary School , Thuneri , Agalar Post , The Nilgiris Distict",
         Time: "2 Days",
@@ -203,7 +203,7 @@
         image: "images/Eventpics/e19.jpg",
       },
       {
-        eventDate: "27 February 2020 - 01 March 2020 ",
+        eventDate: "29 February 2020 ",
         place:
           "Panchayat Union Middle School, Bakkiya Nagar , Kattabettu ,Kotagiri, The Nilgiris District",
         Time: "2 Days",
@@ -287,6 +287,40 @@
         Members: "10 Volunteers",
         Description: `We started the event as planned. The school teachers and students gave an enthusiastic welcome. Earlier it was brought to the notice of the school headmaster that the drinking water used by the school students was unsafe.For this we have provided a water purification machine for the use of the students of that school. We hope that the students will benefit from this extension.Also, students staying in hostels are facing great inconvenience as electricity is provided only for 2 hours daily. We provided an electric generator to deal with it to some extent.Career guidance, psychology and motivational classes for 9th, 10th, 11th and 12th students were conducted by our Hope Trust volunteers at the event, which was held with Corona awareness in mind of the social distancing. Conversation about biology also took place.`,
         image: "images/Eventpics/e29.jpg",
+      },
+      {
+        eventDate: "26 February 2022",
+        place:
+          "Government Tribal Residential Higher Secondary School, Nammiyampattu,Javadhu Hills, Tiruvannamalai District",
+        Time: "01.00pm - 06.30pm",
+        Members: "09 Volunteers",
+        Description: `Previously the basic needs of the school were brought to our attention by the headmaster and fellow teachers. For this purpose we provided Stationeries, Bucket / Mug, Water Barriels, Mat, Plates / Tumbler, Bedsheets, Berow and many more items to the benefit of the students of that school. We hope you enjoy the extension.
+
+        Career Guidance, Psychological, motivational classes for 9, 10, +1 and +2 students were conducted by our trust volunteers at this event which was conducted with Corona awareness in keeping with the social gap.
+        
+        Thus, with the cooperation of the school principal, postgraduate English teacher and fellow teachers, the event was staged as planned.
+        
+        On my behalf and on behalf of our Trust, I would like to thank all the loving souls who have supported us and helped our Trust cross such a huge milestone, and the Aram Sei Youth Foundation, which has made a significant contribution to the needs of this school.`,
+        image: "images/Eventpics/e30.jpg",
+      },
+      {
+        eventDate: "05 March 2022",
+        place:
+          "Government Model Higher Secondary School,Thuneri,The Nilgiris district",
+        Time: "01.00pm - 06.30pm",
+        Members: "06 Volunteers",
+        Description: `Many Government school teachers who know the workings of the HOPE Trust approach us with the good intention of setting up and benefiting our training classes for their school students as well. However, work is underway to move to various schools in the near future via video via lockdown. It is gratifying to see so many events that are currently stagnant going on in succession.
+        Following this..we went to Government Model High School, Thuneri, Nilgiris District. Following the call of the headmaster and teachers Trust volunteers also conducted life guidance classes for humans in grades 9, 10, 11 and 12 there.`,
+        image: "images/Eventpics/e31.jpg",
+      },
+      {
+        eventDate: "07 March 2022",
+        place:
+          "Government Tribal Residential Higher Secondary School, Kunjapanai, The Nilgiris District",
+        Time: "01.00pm - 06.30pm",
+        Members: "06 Volunteers",
+        Description: `Earlier it was brought to our notice by the principal of the school that there was no way to go to the toilet used by the students in the school which was in a very bad condition..it was impassable. So our volunteers were involved in the fundraising process, with the promise of setting up a walkway to the closet through our Trust.Following this, flooring works were carried out and the new toilet path was made available for the use of the students and 25 new chairs were provided for the use of the students.`,
+        image: "images/Eventpics/e32.jpg",
       },
     ];
 
