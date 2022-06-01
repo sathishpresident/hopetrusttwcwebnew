@@ -294,13 +294,9 @@
           "Government Tribal Residential Higher Secondary School, Nammiyampattu,Javadhu Hills, Tiruvannamalai District",
         Time: "01.00pm - 06.30pm",
         Members: "09 Volunteers",
-        Description: `Previously the basic needs of the school were brought to our attention by the headmaster and fellow teachers. For this purpose we provided Stationeries, Bucket / Mug, Water Barriels, Mat, Plates / Tumbler, Bedsheets, Berow and many more items to the benefit of the students of that school. We hope you enjoy the extension.
+        Description: `Previously, the basic needs of the school were brought to our attention by the headmaster and fellow teachers. For this purpose, we provide stationery, buckets/mugs, water, mats, plates/tumblers, bedsheets, berow, and many more items for the benefit of the students of that school. We hope you enjoy the extension.
 
-        Career Guidance, Psychological, motivational classes for 9, 10, +1 and +2 students were conducted by our trust volunteers at this event which was conducted with Corona awareness in keeping with the social gap.
-        
-        Thus, with the cooperation of the school principal, postgraduate English teacher and fellow teachers, the event was staged as planned.
-        
-        On my behalf and on behalf of our Trust, I would like to thank all the loving souls who have supported us and helped our Trust cross such a huge milestone, and the Aram Sei Youth Foundation, which has made a significant contribution to the needs of this school.`,
+        Our trust volunteers conducted career guidance, psychological, and motivational classes for 9, 10, +1, and +2 students at this event, which was conducted with Corona awareness in keeping with the social distancing. Thus, with the cooperation of the school principal, postgraduate English teacher, and fellow teachers, the event was staged as planned. On my behalf and on behalf of our trust, I would like to thank all the loving souls who have supported us and helped our trust cross such a huge milestone, as well as the Aram Sei Youth Foundation, which has made a significant contribution to the needs of this school.`,
         image: "images/Eventpics/e30.jpg",
       },
       {
@@ -309,8 +305,7 @@
           "Government Model Higher Secondary School,Thuneri,The Nilgiris district",
         Time: "01.00pm - 06.30pm",
         Members: "06 Volunteers",
-        Description: `Many Government school teachers who know the workings of the HOPE Trust approach us with the good intention of setting up and benefiting our training classes for their school students as well. However, work is underway to move to various schools in the near future via video via lockdown. It is gratifying to see so many events that are currently stagnant going on in succession.
-        Following this..we went to Government Model High School, Thuneri, Nilgiris District. Following the call of the headmaster and teachers Trust volunteers also conducted life guidance classes for humans in grades 9, 10, 11 and 12 there.`,
+        Description: `Many government school teachers who know the workings of the HOPE Trust approach us with the good intention of setting up and benefiting from our training classes for their students as well. However, work is underway to move to various schools in the near future via video sessions. It is gratifying to see so many events that are currently stagnant and going on in succession. Following this, following the call of the headmaster and teachers' trust volunteers, they also conducted life guidance classes for students in grades 9, 10, 11, and 12 there.`,
         image: "images/Eventpics/e31.jpg",
       },
       {
@@ -319,8 +314,53 @@
           "Government Tribal Residential Higher Secondary School, Kunjapanai, The Nilgiris District",
         Time: "01.00pm - 06.30pm",
         Members: "06 Volunteers",
-        Description: `Earlier it was brought to our notice by the principal of the school that there was no way to go to the toilet used by the students in the school which was in a very bad condition..it was impassable. So our volunteers were involved in the fundraising process, with the promise of setting up a walkway to the closet through our Trust.Following this, flooring works were carried out and the new toilet path was made available for the use of the students and 25 new chairs were provided for the use of the students.`,
+        Description: `Earlier, it was brought to our notice by the headmaster of the school that there was no way to get to the toilet that was to be used by the students. It was in very bad condition. It was impassable. So our volunteers were involved in the fundraising process, with the promise of setting up a walkway to the closet through our trust. Following this, flooring works were carried out, a new toilet route was made available for the use of the students, and 25 new chairs were provided for the students.`,
         image: "images/Eventpics/e32.jpg",
+      },
+      {
+        eventDate: "25 March 2022",
+        place:
+          "Government Tribal Residential Higher Secondary School, Velligoundanur,Salem District",
+        Time: "01.00pm - 06.30pm",
+        Members: "14 Volunteers",
+        Description: `The students and teachers greeted us with their happy faces. After a short conversation there, the head teacher said they needed a berow for maintaining students' records, so we provided a berow. and also provided 20 plastic chairs along with an online class mic/stand for the needs of the students!! At this event, psychological, motivational, and personality development classes were conducted by the students of our trust for the students at this event, which was held with Corona awareness in observance of the social gap.`,
+        image: "images/Eventpics/e33.jpg",
+      },
+      {
+        eventDate: "26 March 2022",
+        place:
+          "Government Tribal Residential Higher Secondary School, Arunoothumalai,Salem District",
+        Time: "01.00pm - 06.30pm",
+        Members: "14 Volunteers",
+        Description: `We got ready for the Arunoothumalai event without any rest. There we met and talked with the people of the village, who warmly welcomed us. The Street Play and Puppetry Show were specially staged on behalf of our Trust to make them realise the need for education for women in today's world. Following this The next day (26.03.22), we started our session in school. Like all schools, it was well received here. We have made various contributions in an effort to make the best possible environment for students to study, such as beautiful landscaping, a quiet environment, and adequate basic facilities. As for the needs of this school, A laptop and a projector were provided to enhance learning ability. Electrical work was carried out throughout the school; repairs were made and renovated. We also provided 20 plastic chairs for students to use.On my behalf and on behalf of our trust, I would like to thank Zhagaram for their great support.`,
+        image: "images/Eventpics/e34.jpg",
+      },
+      {
+        eventDate: "27 March 2022",
+        place:
+          "Government Ekalavya Model Residential Higher Secondary School, Sengarai,Namakkal District",
+        Time: "01.00pm - 06.30pm",
+        Members: "04 Volunteers",
+        Description: `Despite the physical and mental exhaustion, all the tiredness disappeared in the enthusiastic welcome given by the teachers and students at the school. The teachers there also worked with us in companionship. The head teacher of the school was delighted with their care and love. Throughout the day, counseling, career guidance, psychological, and motivational classes were conducted by our trust volunteers to improve the teaching ability of the students. Thus, the event ended well.`,
+        image: "images/Eventpics/e35.jpg",
+      },
+      {
+        eventDate: "08 April 2022",
+        place:
+          "Government Tribal  Residential Girls Higher Secondary School, Mullukurchi,Namakkal District",
+        Time: "01.00pm - 06.30pm",
+        Members: "11 Volunteers",
+        Description: `Earlier, we heard from the headmistress that the school was getting into a lot of trouble during power outages. As a solution to this, we bought a UPS inverter for the school through our trust. Another problem is drinking water. It causes a variety of diseases due to the use of unhygienic drinking water. Water purifiers are mandatory in all educational institutions to control this. But drinking water is in question in many schools here. We learned that there is such a problem in this school as well. We provided an RO water purifier for that. I hope students will benefit from this.`,
+        image: "images/Eventpics/e36.jpg",
+      },
+      {
+        eventDate: "09 April 2022",
+        place:
+          "Government Tribal  Residential Higher Secondary School, Valavanthinadu,Namakkal District",
+        Time: "01.00pm - 06.30pm",
+        Members: "12 Volunteers",
+        Description: `Earlier, the school's headmistress had said that the school did not have computer facilities. So a computer for school use was donated to the school by our Hope Trust volunteers to raise funds. We also provided the Xerox machine with a printer for their use. The event went well as planned with the cooperation of the school principal and fellow teachers.On behalf of myself and our trust, I would like to thank all those who have been cooperating and encouraging our continuous flow of opportunities for Tribal students, awareness of the above, and for students living on the fringes of Tamil Nadu and in the hills.`,
+        image: "images/Eventpics/e37.jpg",
       },
     ];
 
