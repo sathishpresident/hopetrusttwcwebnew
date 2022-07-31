@@ -362,6 +362,21 @@
         Description: `Earlier, the school's headmistress had said that the school did not have computer facilities. So a computer for school use was donated to the school by our Hope Trust volunteers to raise funds. We also provided the Xerox machine with a printer for their use. The event went well as planned with the cooperation of the school principal and fellow teachers.On behalf of myself and our trust, I would like to thank all those who have been cooperating and encouraging our continuous flow of opportunities for Tribal students, awareness of the above, and for students living on the fringes of Tamil Nadu and in the hills.`,
         image: "images/Eventpics/e37.jpg",
       },
+      {
+        eventDate: "23 July 2022",
+        place:
+          "Government Tribal  Residential Higher Secondary School, Bargur,Erode District",
+        Time: "01.00pm - 06.30pm",
+        Members: "07 Volunteers",
+        Description: `Last academic year, after a long gap, we went back to the schools where many changes were observed in the schools and among the students. We have passed the most difficult period and transitions after a long hiatus after school reopened. We have started our visit for the next academic year.
+
+        During this school calendar year, we are eager to visit various schools and meet students to provide education beyond the classroom. According to the plan for this, we met the students of the government tribal residential school located in the beautiful town of Bargur in Anthiyur Taluk of Erode district!
+        
+        The students and the teachers stood facing the outside and gave a welcome. After a little conversation there.. the head master said last time that they needed a book rack to stack the books. So we provided 10 book racks for stacking a lot of books. We provided one projector for their digital learning.
+        
+        Subsequently, we visit many tribal schools and meet the students and discuss with them the guidance and plans for their future. These are carried out by our trained volunteers. In the current environment, our support and warmth for students is crucial. Mental health is very important. The solution is to have a conversation with them. Hope Trust has been doing this since ancient times.`,
+        image: "images/Eventpics/e38.jpg",
+      },
     ];
 
     var events = document.getElementsByClassName("events-story")[0];
