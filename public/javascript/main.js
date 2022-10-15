@@ -276,7 +276,7 @@
           "Government Tribal Residential Higher Secondary School, Hasanur, Erode District",
         Time: "01.00pm - 06.30pm",
         Members: "09 Volunteers",
-        Description: `So glad to meet the students after the Corona extraordinary situation !! It was brought to our attention by the school principal, assistant principal and fellow teachers that the drinking water previously used by school children is unsafe. For this we have provided a water purification machine for the use of the students of that school.We hope students will benefit from this extension. We also heard that the water storage tank was not clean. So on behalf of our Hope Trust, two Syntax tanks with a capacity of 1000 liters were donated.`,
+        Description: `So glad to meet the students after the Corona extraordinary situation !! It was brought to our attention by the school principal, assistant principal and fellow teachers that the drinking water previously used by school children is unsafe. For this we have provided a water purification machine for the use of the students of that school.We hope students will benefit from this extension. We also heard that the water storage tank was not clean. So on behalf of our Hope Trust, two Sintex tanks with a capacity of 1000 liters were donated.`,
         image: "images/Eventpics/e28.jpg",
       },
       {
@@ -376,6 +376,45 @@
         
         Subsequently, we visit many tribal schools and meet the students and discuss with them the guidance and plans for their future. These are carried out by our trained volunteers. In the current environment, our support and warmth for students is crucial. Mental health is very important. The solution is to have a conversation with them. Hope Trust has been doing this since ancient times.`,
         image: "images/Eventpics/e38.jpg",
+      },
+      {
+        eventDate: "09 September 2022",
+        place:
+          "Government Tribal Residential Girls Higher Secondary School, Mullukurchi,Namakkal District",
+        Time: "01.00pm - 06.30pm",
+        Members: "07 Volunteers",
+        Description: `We are constantly working to provide awareness opportunities for further studies of tribal students and the minimum understanding they need.The second time we visited, the tiredness of the journey disappeared in the enthusiastic welcome given by the teachers and students. The teachers also worked with us with camaraderie. The headmistress of the school was delighted with her care and love. Our Career Development, Psychological, and Motivational classes were conducted by our Trust volunteers, and all the students who participated in the sports competition were given medals and trophies on behalf of Hope Trust! Thus, the event was successfully completed.`,
+        image: "images/Eventpics/e40.jpg",
+      },
+      {
+        eventDate: "10 September 2022",
+        place:
+          "Government Tribal Residential Higher Secondary School, Sengarai,Namakkal District",
+        Time: "01.00pm - 06.30pm",
+        Members: "11 Volunteers",
+        Description: `We continue to meet the tribal students who have returned to school after the summer holidays and provide them with the necessary assistance, guidance for life, and guidance for further studies. Following this, the previous schools were invited again. We accepted it and prepared to go back to those schools. According to this, we met the students of Government Tribal School, Arunoothumalai, and Ekalavya Model School, Sengarai. 
+        The students recognised us and greeted us enthusiastically, as we had already visited. The teachers were also very welcoming and supportive. A test related to psychological addiction and emotions was conducted for the students, and counselling was given to them based on their score. All this was done by the trained members of our trust and thus the event of these two schools was completed.`,
+        image: "images/Eventpics/e41.jpg",
+      },
+      {
+        eventDate: "11 September 2022",
+        place:
+          "Arunoothumalai,Salem District/Government Ekalavya Model Residential Higher Secondary School, Sengarai,Namakkal District",
+        Time: "01.00pm - 06.30pm",
+        Members: "11 Volunteers",
+        Description: `We continue to meet the tribal students who have returned to school after the summer holidays and provide them with the necessary assistance, guidance for life, and guidance for further studies. Following this, the previous schools were invited again. We accepted it and prepared to go back to those schools. According to this, we met the students of Government Tribal School, Arunoothumalai, and Ekalavya Model School, Sengarai. 
+        The students recognised us and greeted us enthusiastically, as we had already visited. The teachers were also very welcoming and supportive. A test related to psychological addiction and emotions was conducted for the students, and counselling was given to them based on their score. All this was done by the trained members of our trust and thus the event of these two schools was completed.`,
+        image: "images/Eventpics/e41.jpg",
+      },
+      {
+        eventDate: "12 September 2022",
+        place:
+          "Government Tribal Residential Boys  Higher Secondary School, Mullukurchi,Namakkal District",
+        Time: "01.00pm - 06.30pm",
+        Members: "11 Volunteers",
+        Description: `we met the students of GTR Boys School in Mullukurichi, Namakkal District.The students and teachers welcomed us very well.. After a short conversation there, the head master told us that they do not have a tank to store water and that there is a need for a water purifier. Following this, arrangements were made and we provided them. As usual, we executed our training and guidance programme for the students. 
+        In the present environment, our support and warmth towards the students' mental health is also very important. The solution is to have a conversation with them. Hope Trust has been doing this for a long time, and we would like to express our heartfelt gratitude to everyone who has provided full cooperation, support, and encouragement!! `,
+        image: "images/Eventpics/e43.jpg",
       },
     ];
 
