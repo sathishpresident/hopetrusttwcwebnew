@@ -387,19 +387,9 @@
         image: "images/Eventpics/e40.jpg",
       },
       {
-        eventDate: "10 September 2022",
+        eventDate: "10 September 2022, 11 September 2022",
         place:
-          "Government Tribal Residential Higher Secondary School, Sengarai,Namakkal District",
-        Time: "01.00pm - 06.30pm",
-        Members: "11 Volunteers",
-        Description: `We continue to meet the tribal students who have returned to school after the summer holidays and provide them with the necessary assistance, guidance for life, and guidance for further studies. Following this, the previous schools were invited again. We accepted it and prepared to go back to those schools. According to this, we met the students of Government Tribal School, Arunoothumalai, and Ekalavya Model School, Sengarai. 
-        The students recognised us and greeted us enthusiastically, as we had already visited. The teachers were also very welcoming and supportive. A test related to psychological addiction and emotions was conducted for the students, and counselling was given to them based on their score. All this was done by the trained members of our trust and thus the event of these two schools was completed.`,
-        image: "images/Eventpics/e41.jpg",
-      },
-      {
-        eventDate: "11 September 2022",
-        place:
-          "Arunoothumalai,Salem District/Government Ekalavya Model Residential Higher Secondary School, Sengarai,Namakkal District",
+          "Government Tribal Residential Higher Secondary School, Arunoothumalai,Salem District & Government Ekalavya Model Residential Higher Secondary School, Sengarai,Namakkal District",
         Time: "01.00pm - 06.30pm",
         Members: "11 Volunteers",
         Description: `We continue to meet the tribal students who have returned to school after the summer holidays and provide them with the necessary assistance, guidance for life, and guidance for further studies. Following this, the previous schools were invited again. We accepted it and prepared to go back to those schools. According to this, we met the students of Government Tribal School, Arunoothumalai, and Ekalavya Model School, Sengarai. 
