@@ -406,6 +406,78 @@
         In the present environment, our support and warmth towards the students' mental health is also very important. The solution is to have a conversation with them. Hope Trust has been doing this for a long time, and we would like to express our heartfelt gratitude to everyone who has provided full cooperation, support, and encouragement!! `,
         image: "images/Eventpics/e43.jpg",
       },
+      {
+        eventDate: "02 October 2022",
+        place:
+          "Irukkam Island,Andhra Pradhesh",
+        Time: "01.00pm - 06.30pm",
+        Members: "62 Volunteers",
+        Description: `This year we celebrated our Trust Achievement day along with the students and people of Irukkam Island, located along the border of Andhra Pradesh. The reason for going here is that when the Hope Trust started, we came here about 5 years ago and provided necessary help to the students. Based on that, we arranged to go back and meet them.Since it is an island, preparations were made earlier. In the morning, we started from Central Station with a group of 65 people. Friends of Hope trust members also participated this time. Non-Hope Trust volunteers are also given an opportunity. Once there, we reached Irukkam Island by boat ride. A calm, beautiful, undisturbed island. We were given a warm welcome when we arrived.It was great to meet people again. Then we divided the students into groups and conducted various sports competitions for them. At the end, all the winners and participants were given prizes. Then lunch was cooked and served to all who came on behalf of the hope trust. After that, the Culturals Program, organised by our volunteers, started. To promote gender equality, dance, song, and drama were also performed. People and children participated enthusiastically and expressed their happiness.The aim of the event is to create awareness of the sport. The day ended well, with the satisfaction of having done it well. Best wishes and appreciation to all Hope Trust and non-Hope Trust members who have travelled on our behalf, regardless of age, men, women, and adults.`,
+        image: "images/Eventpics/e44.jpg",
+      },
+      {
+        eventDate: "05 & 06 November 2022",
+        place:
+          `Government Tribal Residential Higher Secondary School, Kariyakoilvalavu Salem District & Maniyarpalayam Kallakurichi District.
+          Community Seva High School, Thalvenniyur, Salem District.`,
+        Members: "08 Volunteers",
+        Description: `We are regularly meeting the tribal students from various districts and providing them with the necessary assistance, guidance for life and guidance for further studies. It is great to hear that many students and schools are benefiting from this. In the meantime, our next trip was to meet the students of Tribal School in Kariyakoilvalavu, Salem District ! On reaching the campus, the students gave it an enthusiastic welcome. The teachers also gave a warm welcome, and the physical education director and fellow teachers were supportive. After some conversation, the headmaster said that they don't have a Xerox machine and that there is a lot of need for one. Following this, arrangements were made, and we presented them. As a result, this school's event was completed.
+
+        Next, we met the students of the government tribal camp located in the town of Maniyarpalayam! There too, the students gave an enthusiastic welcome. The fatigue of the journey disappeared in their welcome. The principal and fellow teachers brought to our attention what the basic needs of the school were For this, we provided stationery items such as pens, pencils, notebooks, and many other items for the benefit of the school students. We hope it will be of great use.
+        
+        The following day, I went to Seva Life School in Thalvenniyur. We went on a very difficult road trip where we met students and Asians and had discussions with them. After that, we divided the students into groups and conducted various sports competitions for them. At the end, all the winners and participants were given prizes.
+        
+        The aim of the event is to create awareness about the sport. The day ended well, with the satisfaction of having done it well.
+        In the present environment, we offer our support and warmth to the students. Mental health is also very important. The solution is to have a conversation with them.`,
+        image: "images/Eventpics/e45_46_47.jpg",
+      },
+      {
+        eventDate: "19 November 2022",
+        place:
+          "Government Tribal Residential  Higher Secondary School,  Top Sengattupatti,Trichy District",
+        Members: "08 Volunteers",
+        Description: `The second time, we visited the Government Tribal School at Top Sengattupatti. Before this, we visited this school in 2017. The tiredness of the journey disappeared in the enthusiastic welcome given by the teachers and students. The care and love of the headmaster and fellow teachers of the school were a joy. Career development, psychological, and motivational classes were conducted by our Trust volunteers.
+        Thus, the event was successfully completed.`,
+        image: "images/Eventpics/e48.jpg",
+      },
+      {
+        eventDate: "03 December 2022",
+        place:
+          "Government Model Higher Secondary School,Thuneri,The Nilgiris district.",
+        Members: "08 Volunteers",
+        Description: `Many government school teachers who know about the work of HOPE Trust approach me with the good intention of having their students benefit from our training courses as well. Following this, we went to a government model high school in Thuneri, Nilgiri district. For the last three years, we have been giving some help to that school and encouraging people through some classes on further studies and personality development. This year (and every year), we have been invited to attend by the headmaster and the teachers of the 9th, 10th, 11th, and 12th grades. Volunteers of the Trust conducted life guidance classes for students.`,
+        image: "images/Eventpics/e49.jpg",
+      },
+      {
+        eventDate: "07 January 2023",
+        place:
+          "Government Tribal  Residential Higher Secondary School, Komugi Dam,Kallakurichi District",
+        Members: "08 Volunteers",
+        Description: `Upon reaching the Komugi Dam School, the welcome and hospitality of the students and teachers made me very happy.Earlier, the headmaster mentioned that the school faced a lot of difficulties during power cuts. As a solution to this, we bought a UPS inverter for the school through our trust. I hope students will benefit from this. Our trust volunteers conducted counsellor guidance, psychological, and motivational classes for the students at this awareness event. Then, as usual, all the students who visited the school were given writing equipment by the trust.`,
+        image: "images/Eventpics/e50.jpg",
+      },
+      {
+        eventDate: "27 & 28 January 2023",
+        place:
+          `Republic day commutation,Puravelai Tribal Village &
+          Government Tribal Residential High School,Manalodai, Kanniyakumari district.`,
+        Members: "08 Volunteers",
+        Description: `A team of our volunteers left Chennai to organize the 51st and 52nd events in Puravilai and Manalodai villages in Kanyakumari district. As planned, we reached Kulithurai from Chennai, and from there we reached Puravelai village by a good route. We started the Republic Day celebrations with joy and enthusiasm from the people there.
+        Sports competitions were held for the students, dance training was given to them, and they were made to dance in the festival. Through various arts, including dance, drama, and speech, a group of volunteers performed the performance as a feast for the eyes and thought-provoking for the audience.
+        The next day, we left Puravilai and reached the Government Palagudiyar High School in Manalodai village. In order to improve the academic performance of the students throughout the day, students from 1st to 9th grade were divided into 3 classes, i.e., students from 1st to 3rd grade were divided into the 1st class, and 4th to 6th grade was another class. "Moral value games" were conducted by our Trust volunteers, and prizes were given to all the students who participated in the game competition on behalf of Hope Trust!`,
+        image: "images/Eventpics/e51_52.jpg",
+      },
+      {
+        eventDate: "18 & 19 February 2023",
+        place:
+          `Government Tribal Residential High School,Thalamalai, Erode district & 
+          Government Tribal Residential Higher secondary school, Nammiyampattu, Thiruvanamalai District.`,
+        Members: "08 Volunteers",
+        Description: `We went to the Government Tribal High School in Thalamalai, Erode District. We came to know about this school through the guidance and encouragement of the Director of Tribal Welfare. We heard a lot of good information about this school, so we were very interested in going there. On reaching the school, the teachers and students gave us a warm welcome.
+        In this school, we went with the training courses "Fun with Numbers" and "English as a Second Language". It made a great impression and aroused interest among the students. Such a new initiative will bring English education to the students.
+        After this, we went to the Nambiyampatu Government Tribal Welfare Higher Secondary School of Tiruvannamalai district, which we had already visited. There, we met the students and teachers and discussed career guidance, personal development, and many other topics.`,
+        image: "images/Eventpics/e53_54.jpg",
+      },
     ];
 
     var events = document.getElementsByClassName("events-story")[0];
