@@ -408,8 +408,7 @@
       },
       {
         eventDate: "02 October 2022",
-        place:
-          "Irukkam Island,Andhra Pradhesh",
+        place: "Irukkam Island,Andhra Pradhesh",
         Time: "01.00pm - 06.30pm",
         Members: "62 Volunteers",
         Description: `This year we celebrated our Trust Achievement day along with the students and people of Irukkam Island, located along the border of Andhra Pradesh. The reason for going here is that when the Hope Trust started, we came here about 5 years ago and provided necessary help to the students. Based on that, we arranged to go back and meet them.Since it is an island, preparations were made earlier. In the morning, we started from Central Station with a group of 65 people. Friends of Hope trust members also participated this time. Non-Hope Trust volunteers are also given an opportunity. Once there, we reached Irukkam Island by boat ride. A calm, beautiful, undisturbed island. We were given a warm welcome when we arrived.It was great to meet people again. Then we divided the students into groups and conducted various sports competitions for them. At the end, all the winners and participants were given prizes. Then lunch was cooked and served to all who came on behalf of the hope trust. After that, the Culturals Program, organised by our volunteers, started. To promote gender equality, dance, song, and drama were also performed. People and children participated enthusiastically and expressed their happiness.The aim of the event is to create awareness of the sport. The day ended well, with the satisfaction of having done it well. Best wishes and appreciation to all Hope Trust and non-Hope Trust members who have travelled on our behalf, regardless of age, men, women, and adults.`,
@@ -417,8 +416,7 @@
       },
       {
         eventDate: "05 & 06 November 2022",
-        place:
-          `Government Tribal Residential Higher Secondary School, Kariyakoilvalavu Salem District & Maniyarpalayam Kallakurichi District.
+        place: `Government Tribal Residential Higher Secondary School, Kariyakoilvalavu Salem District & Maniyarpalayam Kallakurichi District.
           Community Seva High School, Thalvenniyur, Salem District.`,
         Members: "08 Volunteers",
         Description: `We are regularly meeting the tribal students from various districts and providing them with the necessary assistance, guidance for life and guidance for further studies. It is great to hear that many students and schools are benefiting from this. In the meantime, our next trip was to meet the students of Tribal School in Kariyakoilvalavu, Salem District ! On reaching the campus, the students gave it an enthusiastic welcome. The teachers also gave a warm welcome, and the physical education director and fellow teachers were supportive. After some conversation, the headmaster said that they don't have a Xerox machine and that there is a lot of need for one. Following this, arrangements were made, and we presented them. As a result, this school's event was completed.
@@ -458,8 +456,7 @@
       },
       {
         eventDate: "27 & 28 January 2023",
-        place:
-          `Republic day commutation,Puravelai Tribal Village &
+        place: `Republic day commutation,Puravelai Tribal Village &
           Government Tribal Residential High School,Manalodai, Kanniyakumari district.`,
         Members: "08 Volunteers",
         Description: `A team of our volunteers left Chennai to organize the 51st and 52nd events in Puravilai and Manalodai villages in Kanyakumari district. As planned, we reached Kulithurai from Chennai, and from there we reached Puravelai village by a good route. We started the Republic Day celebrations with joy and enthusiasm from the people there.
@@ -469,14 +466,29 @@
       },
       {
         eventDate: "18 & 19 February 2023",
-        place:
-          `Government Tribal Residential High School,Thalamalai, Erode district & 
+        place: `Government Tribal Residential High School,Thalamalai, Erode district & 
           Government Tribal Residential Higher secondary school, Nammiyampattu, Thiruvanamalai District.`,
         Members: "08 Volunteers",
         Description: `We went to the Government Tribal High School in Thalamalai, Erode District. We came to know about this school through the guidance and encouragement of the Director of Tribal Welfare. We heard a lot of good information about this school, so we were very interested in going there. On reaching the school, the teachers and students gave us a warm welcome.
         In this school, we went with the training courses "Fun with Numbers" and "English as a Second Language". It made a great impression and aroused interest among the students. Such a new initiative will bring English education to the students.
         After this, we went to the Nambiyampatu Government Tribal Welfare Higher Secondary School of Tiruvannamalai district, which we had already visited. There, we met the students and teachers and discussed career guidance, personal development, and many other topics.`,
         image: "images/Eventpics/e53_54.jpg",
+      },
+      {
+        eventDate: "17 June 2023",
+        place: `Ekalavya Model Residential School, Kumizhi, Chengalpettu district`,
+        Members: "13 Volunteers",
+        Description: `The inaugural event of this academic year was Event 55. We travelled to Kumizhi, where the Ekalaiva Model Residential School is located, in the Chengalpettu district. Following the headmaster's invitation, our Trust volunteers conducted sessions on life guidance, teaching techniques, and career development to sixth through twelfth graders. They also led psychological and motivational sessions.`,
+        image: "images/Eventpics/e55.jpg",
+      },
+      {
+        eventDate: "14 & 17 July 2023",
+        place: `Government Tribal Residential High School,Thalamalai, Erode district & 
+          Government Tribal Residential Higher secondary school, Nammiyampattu, Thiruvanamalai District.`,
+        Members: "11 Volunteers",
+        Description: `We traveled to Government Tribal Residential High School in Kargudi Hill Village, near Mudumalai Tiger Sanctuary, Nilgiris District. At school, We were welcomed with open arms by the teachers and students. We hope that the laptop, CPU, and UPS we gave them will be useful to them. In this event, Hope Trust's sessions were conducted by trust members for the students from classes 6 to +2. The school principal and teachers worked really well together to make sure the event was successful and beneficial for the pupils.
+        Later, we went to the Government Tribal Residential High School in Kunjapanai, which we had previously visited. Despite being fairly familiar with us, the teachers and students eagerly greeted us! Our volunteers also led the Hope Trust sessions for the students there. The event was as good as last time!`,
+        image: "images/Eventpics/e56_57.jpg",
       },
     ];
 

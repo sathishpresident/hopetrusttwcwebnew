@@ -40,7 +40,7 @@
       {
         name: "Sandeep A",
         designation: "Associate  Secretary",
-        image: "images/member/men.jpg",
+        image: "images/member/sandeep.jpg",
         facebook: "",
         instagram: "",
       },
@@ -109,8 +109,7 @@
       },
       {
         name: "Arun Kumar K",
-        designation:
-          "Manager - Content Creation",
+        designation: "Manager - Content Creation",
         image: "images/member/arun_kumar.jpg",
         facebook: "",
         instagram: "",
