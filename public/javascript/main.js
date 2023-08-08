@@ -483,8 +483,7 @@
       },
       {
         eventDate: "14 & 17 July 2023",
-        place: `Government Tribal Residential High School,Thalamalai, Erode district & 
-          Government Tribal Residential Higher secondary school, Nammiyampattu, Thiruvanamalai District.`,
+        place: `Government Tribal Residential Higher Secondary School, Kargudi & Kunjapanai, The Nilgiris District`,
         Members: "11 Volunteers",
         Description: `We traveled to Government Tribal Residential High School in Kargudi Hill Village, near Mudumalai Tiger Sanctuary, Nilgiris District. At school, We were welcomed with open arms by the teachers and students. We hope that the laptop, CPU, and UPS we gave them will be useful to them. In this event, Hope Trust's sessions were conducted by trust members for the students from classes 6 to +2. The school principal and teachers worked really well together to make sure the event was successful and beneficial for the pupils.
         Later, we went to the Government Tribal Residential High School in Kunjapanai, which we had previously visited. Despite being fairly familiar with us, the teachers and students eagerly greeted us! Our volunteers also led the Hope Trust sessions for the students there. The event was as good as last time!`,
