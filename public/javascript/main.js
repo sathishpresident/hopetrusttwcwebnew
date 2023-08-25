@@ -489,6 +489,13 @@
         Later, we went to the Government Tribal Residential High School in Kunjapanai, which we had previously visited. Despite being fairly familiar with us, the teachers and students eagerly greeted us! Our volunteers also led the Hope Trust sessions for the students there. The event was as good as last time!`,
         image: "images/Eventpics/e56_57.jpg",
       },
+      {
+        eventDate: "15 August 2023",
+        place: `Chennai`,
+        Members: "14 Volunteers",
+        Description: `On this Independence Day, we decided to organize the next event of our Hope trust to provide a meal to homeless people with the intention of helping them in some way. In align with that vision, our volunteers distributed 100+ food packets in the surrounding areas of Chennai. Thank you for all your contributions`,
+        image: "images/Eventpics/e58.jpg",
+      },
     ];
 
     var events = document.getElementsByClassName("events-story")[0];
