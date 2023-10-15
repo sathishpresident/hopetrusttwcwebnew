@@ -496,6 +496,34 @@
         Description: `On this Independence Day, we decided to organize the next event of our Hope trust to provide a meal to homeless people with the intention of helping them in some way. In align with that vision, our volunteers distributed 100+ food packets in the surrounding areas of Chennai. Thank you for all your contributions`,
         image: "images/Eventpics/e58.jpg",
       },
+      {
+        eventDate: "19 August 2023 & 21 August 2023",
+        place: `Government Tribal Residential Higher Secondary School, Hasanur & Bargur, Erode District`,
+        Members: "08 Volunteers",
+        Description: `On our trip to the Government Tribal Residential Higher Secondary School in Hasanur Hill Village under the Sathyamangalam Hills of Erode District and the Government Tribal Residential Higher Secondary School located in Bargur in the same Erode District, we had an amazing experience meeting future minds. Our Trust volunteers guided the students with both academic and life skills sessions.`,
+        image: "images/Eventpics/e59_60.jpg",
+      },
+      {
+        eventDate: "29 August 2023 ",
+        place: `Government Tribal Residential Higher Secondary School, Perumparai`,
+        Members: "06 Volunteers",
+        Description: `In this event, we had an immense pleasure meeting the students of the Government Tribal Residential Higher Secondary School in Perumparai, Erode district. Hope Trust sessions along with career guidance were conducted by our Trust volunteers for the students of 9th, 10th, +1, and +2.`,
+        image: "images/Eventpics/e61.jpg",
+      },
+      {
+        eventDate: "02 September 2023",
+        place: `Government Tribal Residential Higher Secondary School, Namiyampattu`,
+        Members: "15 Volunteers",
+        Description: `At the Government Tribal Residential Higher Secondary School located in Namiyampattu, Thiruvannamalai district, we were warmly welcomed by the students and staff. Career guidance, psychological, and motivational classes were conducted by our Trust volunteers for the students from 9th through 12th grade. A discussion on biology was also carried out.`,
+        image: "images/Eventpics/e62.jpg",
+      },
+      {
+        eventDate: "08 September 2023",
+        place: `Government Tribal Residential Higher Secondary School, Chinnaillupur`,
+        Members: "08 Volunteers",
+        Description: `This time, on our trip, we met the students of the Government Tribal Residential Higher Secondary School in Chinnaillupur, Tiruchirappalli (Trichy) district. Motivational classes and academic-related sessions were conducted by our Trust volunteers for the students of 9th, 10th, +1, and +2. As requested by the principal and staff members, we provided the school a monitor, printer, bee-row, and speaker for usage.`,
+        image: "images/Eventpics/e63.jpg",
+      },
     ];
 
     var events = document.getElementsByClassName("events-story")[0];
