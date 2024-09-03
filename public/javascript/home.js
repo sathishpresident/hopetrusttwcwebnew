@@ -247,6 +247,13 @@
         facebook: "",
         instagram: "",
       },
+      {
+        name: "Naveen V.A",
+        designation: "Manager - Documentation",
+        image: "images/member/madhusudhan.jpg",
+        facebook: "",
+        instagram: "",
+      },
     ];
 
     var carousel = $("#best-members-list");
