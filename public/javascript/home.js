@@ -135,6 +135,13 @@
         image: "images/member/siva_prashanth.jpg",
         facebook: "",
         instagram: "",
+      },
+      {
+        name: "Naveen V A",
+        designation: "Manager - Documentation",
+        image: "images/member/siva_prashanth.jpg",
+        facebook: "",
+        instagram: "",
       }
     ];
 
