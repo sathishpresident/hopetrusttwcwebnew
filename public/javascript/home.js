@@ -166,7 +166,7 @@
                             </h6>
                             <span class="position">${member.designation}</span>
 
-                            <!-- <div class="cs-post-footer">
+                            <div class="cs-post-footer">
                                 <div class="cs-footer-share">
                                     <a href="${member.facebook}" target="_blank">
                                         <i class="fa fa-facebook"></i>
@@ -175,7 +175,7 @@
                                         <i class="fa fa-instagram"></i>
                                     </a>
                                 </div>
-                            </div> -->
+                            </div> 
                         </div>
                     </div>
                 </div>
