@@ -46,53 +46,75 @@
       },
       {
         name: "Harish K R",
-        designation: "Manager - Trust",
+        designation: "Senior Manager - Trust",
         image: "images/member/harish.jpg",
         facebook: "",
         instagram: "",
       },
       {
-        name: "Nishanth M",
-        designation: "Manager - Needy Hunters",
-        image: "images/member/nishanth.jpg",
-        facebook: "",
-        instagram: "",
-      },
-      {
-        name: "Manigandan S",
-        designation: "Manager - Event Management",
-        image: "images/member/manigandan.jpg",
-        facebook: "",
-        instagram: "",
-      },
-      {
         name: "Govindarajulu S",
-        designation: "Manager - Event Management",
+        designation: "Manager - Trust",
         image: "images/member/govind.jpg",
         facebook: "",
         instagram: "",
       },
       {
-        name: "Richard Franklin J",
-        designation: "Manager - Fund Raising",
-        image: "images/member/richard_franklin.jpg",
+        name: "Manigandan S",
+        designation: "Organizer - NH/EM/IS-TS",
+        image: "images/member/manigandan.jpg",
         facebook: "",
         instagram: "",
       },
       {
         name: "Goutham S",
-        designation: "Manager - Fund Raising",
+        designation: "Organizer - FR/ADMIN/DOCUMENTATION",
         image: "images/member/gowtham.jpg",
         facebook: "",
         instagram: "",
       },
       {
+        name: "Chaitanya Karthik S",
+        designation:"Organizer - FR/ADMIN/DOCUMENTATION";
+        //  "Manager - Internal Strengthening : Career Emulators",
+        image: "images/member/chathinya_karthi.jpg",
+        facebook: "",
+        instagram: "",
+      },
+      {
+        name: "Sridhar K",
+        designation: "Manager - Needy Hunters",
+        image: "images/member/sridhar.jpg",
+        facebook: "",
+        instagram: "",
+      },
+      {
+        name: "Nishanth M",
+        designation: "Manager - Event Management",
+        image: "images/member/nishanth.jpg",
+        facebook: "",
+        instagram: "",
+      },
+      {
+        name: "Sundhareshwaran A",
+        designation: "Manager - Fund Raising",
+        image: "images/member/arun_kumar.jpg",
+        facebook: "",
+        instagram: "",
+      },
+      // {
+      //   name: "Richard Franklin J",
+      //   designation: "Manager - Fund Raising",
+      //   image: "images/member/richard_franklin.jpg",
+      //   facebook: "",
+      //   instagram: "",
+      // },
+      /*{
         name: "Franklin Yesudas A",
         designation: "Manager - Internal Strengthening : Core",
         image: "images/member/frankline_yesudas.jpg",
         facebook: "",
         instagram: "",
-      },
+      },*/
       {
         name: "Sivaprashanth P",
         designation: "Manager - Internal Strengthening : Tech Savvy",
@@ -100,20 +122,13 @@
         facebook: "",
         instagram: "",
       },
-      {
-        name: "Chaitanya Karthik S",
-        designation: "Manager - Internal Strengthening : Career Emulators",
-        image: "images/member/chathinya_karthi.jpg",
-        facebook: "",
-        instagram: "",
-      },
-      {
-        name: "Arun Kumar K",
+     /*{
+     /   name: "Arun Kumar K",
         designation: "Manager - Content Creation",
         image: "images/member/arun_kumar.jpg",
         facebook: "",
         instagram: "",
-      },
+      },*/
       {
         name: "Venkataramanan R",
         designation: "Manager - Volunteer Coordinator",
@@ -130,12 +145,19 @@
       },
       {
         name: "Vishali M",
-        designation: "Manager - Administration offline",
+        designation: "Manager - Internal Strengthening : Core",
         image: "images/member/vishali.jpg",
         facebook: "",
         instagram: "",
       },
       {
+        name: "Mohana Ganesh K",
+        designation: "Manager - Internal Strengthening : Career Emulators",
+        image: "images/member/siva_prashanth.jpg",
+        facebook: "",
+        instagram: "",
+      },
+      /*{
         name: "Sridhar K",
         designation: "Leader - Needy Hunters",
         image: "images/member/sridhar.jpg",
@@ -246,7 +268,7 @@
         image: "images/member/madhusudhan.jpg",
         facebook: "",
         instagram: "",
-      },
+      },*/
     ];
 
     var carousel = $("#best-members-list");
