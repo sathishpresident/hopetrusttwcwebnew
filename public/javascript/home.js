@@ -74,7 +74,7 @@
       },
       {
         name: "Chaitanya Karthik S",
-        designation:"Organizer - FR/ADMIN/DOCUMENTATION";
+        designation:"Organizer - FR/ADMIN/DOCUMENTATION",
         //  "Manager - Internal Strengthening : Career Emulators",
         image: "images/member/chathinya_karthi.jpg",
         facebook: "",
@@ -101,20 +101,6 @@
         facebook: "",
         instagram: "",
       },
-      // {
-      //   name: "Richard Franklin J",
-      //   designation: "Manager - Fund Raising",
-      //   image: "images/member/richard_franklin.jpg",
-      //   facebook: "",
-      //   instagram: "",
-      // },
-      /*{
-        name: "Franklin Yesudas A",
-        designation: "Manager - Internal Strengthening : Core",
-        image: "images/member/frankline_yesudas.jpg",
-        facebook: "",
-        instagram: "",
-      },*/
       {
         name: "Sivaprashanth P",
         designation: "Manager - Internal Strengthening : Tech Savvy",
@@ -122,13 +108,6 @@
         facebook: "",
         instagram: "",
       },
-     /*{
-     /   name: "Arun Kumar K",
-        designation: "Manager - Content Creation",
-        image: "images/member/arun_kumar.jpg",
-        facebook: "",
-        instagram: "",
-      },*/
       {
         name: "Venkataramanan R",
         designation: "Manager - Volunteer Coordinator",
@@ -156,119 +135,7 @@
         image: "images/member/siva_prashanth.jpg",
         facebook: "",
         instagram: "",
-      },
-      /*{
-        name: "Sridhar K",
-        designation: "Leader - Needy Hunters",
-        image: "images/member/sridhar.jpg",
-        facebook: "",
-        instagram: "",
-      },
-      {
-        name: "Sizana M",
-        designation: "Leader - Event Management",
-        image: "images/member/sizana.jpg",
-        facebook: "",
-        instagram: "",
-      },
-      {
-        name: "Jency J",
-        designation: "Leader - Event Management",
-        image: "images/member/jency.jpg",
-        facebook: "",
-        instagram: "",
-      },
-      {
-        name: "Subhashini E",
-        designation: "Leader - Fund Raising",
-        image: "images/member/subhashini.jpg",
-        facebook: "",
-        instagram: "",
-      },
-      {
-        name: "Mythili  P",
-        designation: "Leader - Fund Raising",
-        image: "images/member/mythile.jpg",
-        facebook: "",
-        instagram: "",
-      },
-      {
-        name: "Bharath S",
-        designation: "Leader - Administration",
-        image: "images/member/bharath_kumar_s.jpg",
-        facebook: "",
-        instagram: "",
-      },
-      {
-        name: "Soundarya S",
-        designation: "Leader - Administration Offline",
-        image: "images/member/soundarya.jpg",
-        facebook: "",
-        instagram: "",
-      },
-      {
-        name: "Pavithra R",
-        designation: "Leader - Internal Strengthening : Core",
-        image: "images/member/pavithra.jpg",
-        facebook: "",
-        instagram: "",
-      },
-      {
-        name: "Nachammai RM",
-        designation: "Leader - Internal Strengthening : Core",
-        image: "images/member/nachammai.jpg",
-        facebook: "",
-        instagram: "",
-      },
-      {
-        name: "Sudharsan D",
-        designation: "Leader - Internal Strengthening : Tech Savvy",
-        image: "images/member/sudharsun.jpg",
-        facebook: "",
-        instagram: "",
-      },
-      {
-        name: "Vignesh S",
-        designation: "Leader - Internal Strengthening : Tech Savvy",
-        image: "images/member/vignesh.jpg",
-        facebook: "",
-        instagram: "",
-      },
-      {
-        name: "Bharath Kumar S",
-        designation: "Leader - Internal Strengthening : Career Emulators",
-        image: "images/member/bharath_kumar_s_manager.jpg",
-        facebook: "",
-        instagram: "",
-      },
-      {
-        name: "Jagadeesh Y M",
-        designation: "Organizer - FR,ADM",
-        image: "images/member/jagadeesh.jpg",
-        facebook: "",
-        instagram: "",
-      },
-      {
-        name: "Ravi Chandhar P B",
-        designation: "Organizer - NH,EM",
-        image: "images/member/ravi_chandhar.jpg",
-        facebook: "",
-        instagram: "",
-      },
-      {
-        name: "Evangelin Ruby N",
-        designation: "Organizer - CE/TS/Core",
-        image: "images/member/evangline.jpg",
-        facebook: "",
-        instagram: "",
-      },
-      {
-        name: "Madhusudhan T",
-        designation: "Organizer - FR1,FR2 - Offline",
-        image: "images/member/madhusudhan.jpg",
-        facebook: "",
-        instagram: "",
-      },*/
+      }
     ];
 
     var carousel = $("#best-members-list");
