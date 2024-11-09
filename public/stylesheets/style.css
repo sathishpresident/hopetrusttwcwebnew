@@ -450,7 +450,8 @@ ul, ol {
 }
 
 img {
-	max-width: 100%;
+	/* max-width: 100%; */
+	width: 280px;
 	height: auto;		
 }
 
