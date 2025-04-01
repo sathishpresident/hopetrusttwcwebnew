@@ -146,14 +146,14 @@
       {
         name: "Sathish Kumar S",
         designation: "Founder/President",
-        image: "images/member/Founder.jpg",
+        image: "images/member/blank_profile.jpg",
         facebook: "",
         instagram: "",
       },
       {
         name: "Khuthbudin T",
         designation: "Vice President",
-        image: "images/member/Vicepresident.jpg",
+        image: "images/member/blank_profile.jpg",
         facebook: "",
         instagram: "",
       },
@@ -167,7 +167,7 @@
       {
         name: "Yuvashree S ",
         designation: "Joint Secretary",
-        image: "images/member/Jointsecretary.jpg",
+        image: "images/member/blank_profile.jpg",
         facebook: "",
         instagram: "",
       },
@@ -195,7 +195,7 @@
       {
         name: "Goutham S",
         designation: "Organizer - FR/ADMIN/DOCUMENTATION",
-        image: "images/member/gowtham.jpg",
+        image: "images/member/blank_profile.jpg",
         facebook: "",
         instagram: "",
       },
@@ -209,14 +209,14 @@
       {
         name: "Manigandan S",
         designation: "Organizer - Needy Hunters/Event Management/IS TS ",
-        image: "images/member/manigandan.jpg",
+        image: "images/member/blank_profile.jpg",
         facebook: "",
         instagram: "",
       },
       {
           name: "Sridhar K",
           designation: "Manager - Needy Hunters",
-          image: "images/member/sridhar.jpg",
+          image: "images/member/blank_profile.jpg",
           facebook: "",
           instagram: "",
         },
@@ -230,7 +230,7 @@
         {
           name: "Arun Kumar",
           designation: "Manager - Fund Raising",
-          image: "images/member/arun_kumar.jpg",
+          image: "images/member/blank_profile.jpg",
           facebook: "",
           instagram: "",
         },
@@ -244,7 +244,7 @@
         {
           name: "Venkataramanan R",
           designation: "Manager - Volunteer Coordinator",
-          image: "images/member/venkataramanan.jpg",
+          image: "images/member/blank_profile.jpg",
           facebook: "",
           instagram: "",
         },
@@ -265,7 +265,7 @@
         {
           name: "Naveen V A",
           designation: "Manager - Documentation",
-          image: "images/member/Naveen.jpg",
+          image: "images/member/blank_profile.jpg",
           facebook: "",
           instagram: "",
         },
@@ -279,21 +279,21 @@
       {
         name: "Mythili P",
         designation: "Sr Leader Tech Savvy",
-        image: "images/member/mythile.jpg",
+        image: "images/member/blank_profile.jpg",
         facebook: "",
         instagram: "",
       },
       {
         name: "Sizana M",
         designation: "Sr Leader - Event Management",
-        image: "images/member/sizana.png",
+        image: "images/member/blank_profile.jpg",
         facebook: "",
         instagram: "",
       },
       {
         name: "Jency J",
         designation: "Sr Leader - Event Management",
-        image: "images/member/Jency.jpg",
+        image: "images/member/blank_profile.jpg",
         facebook: "",
         instagram: "",
       },
@@ -321,21 +321,21 @@
       {
         name: "Sukesh Sai Ram C",
         designation: "Leader - Documentation",
-        image: "images/member/Sukesh_sai_ram.png",
+        image: "images/member/blank_profile.jpg",
         facebook: "",
         instagram: "",
       },
       {
         name: "Aravindan N",
         designation: "Leader - Administration",
-        image: "images/member/Aravindan.jpg",
+        image: "images/member/blank_profile.jpg",
         facebook: "",
         instagram: "",
       },
       {
         name: "Bharath Kumar S",
         designation: "Leader - Fund Raising",
-        image: "images/member/Bharath_kumar.jpg",
+        image: "images/member/blank_profile.jpg",
         facebook: "",
         instagram: "",
       },
@@ -356,11 +356,12 @@
       {
         name: "Navaneet Shiva A",
         designation: "Leader - Internal Strengthening : Tech Savvy",
-        image: "images/member/Navaneet_shiva.jpg",
+        image: "images/member/blank_profile.jpg",
         facebook: "",
         instagram: "",
       },
-      {
+      
+      /*{
         name: "Dhanush B",
         designation: "Volunteer",
         image: "images/member/dhanush.jpg",
@@ -471,7 +472,7 @@
         image: "images/member/Nisha.jpg",
         facebook: "",
         instagram: "",
-      }
+      }*/
     ];
 
     var carousel = $("#best-members-list");
