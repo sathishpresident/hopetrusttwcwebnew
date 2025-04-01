@@ -180,7 +180,7 @@
 .icon-social-tumblr,
 .icon-social-twitter,
 .icon-social-facebook,
-/*.icon-social-instagram,*/
+.icon-social-instagram,
 .icon-social-linkedin,
 .icon-social-pinterest,
 .icon-social-github,
@@ -719,9 +719,9 @@
 .icon-social-facebook:before {
   content: "\e00b";
 }
-/*.icon-social-instagram:before {
+.icon-social-instagram:before {
   content: "\e609";
-}*/
+}
 .icon-social-linkedin:before {
   content: "\e60a";
 }
