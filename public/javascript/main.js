@@ -677,7 +677,7 @@
         place: `Government Tribal Residential Boys Higher Secondary School, Mullukuruchi`,
         Members: "7 Volunteers",
         Description: `We met the students. We offered a range of services, including Career Guidance, Psychological counselling, and Motivational workshops, to students in grades 6-12, along with distributing essential stationery.`,
-        image: "images/Eventpics/e95.jpg",
+        image: "images/e95.jpg",
       },
       {
         eventDate: "26 OCtober 2024",
