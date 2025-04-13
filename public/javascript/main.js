@@ -579,7 +579,7 @@
         place: `Government Tribal Residential Higher Secondary School, Pattarikadu.`,
         Members: "05 Volunteers",
         Description: `We met the students  Our Trust volunteers provided Career Guidance, Psychological support, and Motivational classes to students in grades 6 through 12. We also distributed stationery.`,
-        image: "images/Eventpics/e81.JPG",
+        image: "images/Eventpics/e81.jpg",
       },
       {
         eventDate: "22 June 2024",
@@ -670,7 +670,7 @@
         place: `Government Tribal Residential Girls Higher Secondary School, Mullukuruchi`,
         Members: "7 Volunteers",
         Description: `We interacted with the students. Our Trust volunteers provided Career Guidance, Psychological support, and Motivational classes to students in grades 6 through 12. We also distributed stationery.`,
-        image: "images/Eventpics/e94.png",
+        image: "images/Eventpics/e94.jpg",
       },
       {
         eventDate: "25 October 2024",
