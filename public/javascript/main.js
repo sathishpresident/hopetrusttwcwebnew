@@ -579,7 +579,7 @@
         place: `Government Tribal Residential Higher Secondary School, Pattarikadu.`,
         Members: "05 Volunteers",
         Description: `We met the students  Our Trust volunteers provided Career Guidance, Psychological support, and Motivational classes to students in grades 6 through 12. We also distributed stationery.`,
-        image: "images/Eventpics/e81.JPG",
+        image: "images/Eventpics/e81.jpg",
       },
       {
         eventDate: "22 June 2024",
@@ -609,7 +609,7 @@
         Description: `We met the students  , we offered a range of services, including Career Guidance, Psychological counselling, and Motivational workshops, to students in grades 6-12, along with distributing essential stationery.`,
         image: "images/Eventpics/e85.jpg",
       },
-      {
+      /*{
         eventDate: "21 July 2024",
         place: `Government Tribal Residential Higher Secondary School, Komugi Dam`,
         Members: "07 Volunteers",
@@ -643,7 +643,7 @@
         Members: "03 Volunteers",
         Description: `We met the students  . Our Trust volunteers delivered Career Guidance, Psychological, and Motivational classes and distributed stationery to students in grades 6-12.`,
         image: "images/Eventpics/e90.jpg",
-      },
+      },*/
       {
         eventDate: "17 August 2024",
         place: `Government Tribal Residential Higher Secondary School, Pathukani`,
@@ -651,7 +651,7 @@
         Description: `We had a session with the students  . Our Trust volunteers empowered students in grades 6-12 with Career Guidance, Psychological tools, and Motivational inspiration, and equipped them with essential stationery.`,
         image: "images/Eventpics/e91.jpg",
       },
-      {
+      /*{
         eventDate: "30 August 2024",
         place: `Government Tribal Residential Higher Secondary School, Karumandurai`,
         Members: "15 Volunteers",
@@ -664,7 +664,7 @@
         Members: "14 Volunteers",
         Description: `We had a session with the students  . Our Trust volunteers delivered Career Guidance, Psychological, and Motivational classes and distributed stationery to students in grades 6-12.`,
         image: "images/Eventpics/e93.jpg",
-      },
+      },*/
       {
         eventDate: "25 October 2024",
         place: `Government Tribal Residential Girls Higher Secondary School, Mullukuruchi`,
@@ -672,12 +672,12 @@
         Description: `We interacted with the students. Our Trust volunteers provided Career Guidance, Psychological support, and Motivational classes to students in grades 6 through 12. We also distributed stationery.`,
         image: "images/Eventpics/e94.jpg",
       },
-      {
+      /*{
         eventDate: "25 October 2024",
         place: `Government Tribal Residential Boys Higher Secondary School, Mullukuruchi`,
         Members: "7 Volunteers",
         Description: `We met the students. We offered a range of services, including Career Guidance, Psychological counselling, and Motivational workshops, to students in grades 6-12, along with distributing essential stationery.`,
-        image: "images/e95.jpg",
+        image: "images/Eventpics/e95.jpg",
       },
       {
         eventDate: "26 OCtober 2024",
@@ -692,7 +692,7 @@
         Members: "11 Volunteers",
         Description: `We interacted with the students  . Students from grades 6 to 12 benefited from Career Guidance, Psychological, and Motivational sessions led by our Trust volunteers, and received stationery supplies.`,
         image: "images/Eventpics/e97.jpg",
-      },
+      },*/
       {
         eventDate: "08 November 2024",
         place: `Government Tribal Residential Higher Secondary School, Anaikatti`,
@@ -707,7 +707,7 @@
         Description: `We visited this school campus . Our Trust volunteers empowered students in grades 6-12 with Career Guidance, Psychological tools, and Motivational inspiration, and equipped them with essential stationery.`,
         image: "images/Eventpics/e99.jpg",
       },
-      {
+      /*{
         eventDate: "15 November 2024",
         place: `Government Tribal Residential Higher Secondary School, Velligoundanur`,
         Members: "12 Volunteers",
@@ -727,14 +727,14 @@
         Members: "11 Volunteers",
         Description: `We interacted with the students . We invested in the future of students in grades 6-12 by providing them with Career Guidance, Psychological support, Motivational training, and necessary stationery.`,
         image: "images/Eventpics/e102.jpg",
-      },
-      {
+      },*/
+      /*{
         eventDate: "29 November 2024",
         place: `Government Tribal Residential High School, Kargudi`,
         Members: "08 Volunteers",
         Description: `We met the students  . Our Trust volunteers empowered students in grades 6-12 with Career Guidance, Psychological tools, and Motivational inspiration, and equipped them with essential stationery.`,
         image: "images/Eventpics/e103.jpg",
-      },
+      },*/
       {
         eventDate: "29 November 2024",
         place: `Government Tribal Residential Higher Secondary School, Bokkapuram`,
@@ -742,13 +742,13 @@
         Description: `We interacted with the students . Our Trust volunteers delivered Career Guidance, Psychological, and Motivational classes and distributed stationery to students in grades 6-12.`,
         image: "images/Eventpics/e104.jpg",
       },
-      {
+      /*{
         eventDate: "30 November 2024",
         place: `Eklavya Model Residential Higher Secondary School, Mpalada`,
         Members: "11 Volunteers",
         Description: `We interacted with the students  . Trust volunteers engaged with students in grades 6-12, conducting Career Guidance, Psychological, and Motivational classes, and providing stationery.`,
         image: "images/Eventpics/e105.jpg",
-      },
+      },*/
       {
         eventDate: "02 December 2024",
         place: `Government Tribal Residential Higher Secondary School, Top Sengattupatti.`,
