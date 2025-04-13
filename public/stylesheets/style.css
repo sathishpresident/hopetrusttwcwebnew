@@ -1139,9 +1139,11 @@ input[type="color"],
 
 .post-wrap .post .content-post {
 	overflow: hidden;
-	padding: 40px 35px 30px 35px;
+	padding: 45px 35px 30px 35px;
 	margin-bottom: 45px;
 	background-color: #f7f7f7;
+	
+	
 }
 
 .post-wrap .post .content-post .title-education p {
@@ -2476,7 +2478,7 @@ footer.padding-top120px {
 	color:#000;
 }
 .events-post img{
-	height:290px!important;
+	height:350px!important;
     width: 90%;
 }
 .switcher-container{display:none}

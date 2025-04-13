@@ -692,6 +692,7 @@
     float: left;
     margin-left: 25px;
     width: 48%;
+    
 }
 
 .flat-events .entry:hover img {
@@ -705,7 +706,7 @@
 
 .flat-events .entry .content-post {
     padding: 0 90px 0 0;
-    margin-top: 15px;
+    margin-top: 0 px;
     overflow: hidden;
 }
 
@@ -749,6 +750,7 @@
 
 .flat-events .entry .content-post .entry-post p {
     margin-bottom: 25px;
+    transition: all 0.3s ease;
 }
 
 .flat-events .entry.entry-style1 .content-post {
@@ -762,10 +764,12 @@
 
 .flat-events .entry .content-post .entry-post .more a {
     color: #222;
+
 }
 
 .flat-events .entry .content-post .entry-post .more a:hover {
     color: #ffd71a;
+    text-decoration: underline;
 }
 
 .flat-our-events .about-button {
