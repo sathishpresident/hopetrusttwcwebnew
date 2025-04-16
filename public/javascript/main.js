@@ -672,14 +672,14 @@
         Description: `We interacted with the students. Our Trust volunteers provided Career Guidance, Psychological support, and Motivational classes to students in grades 6 through 12. We also distributed stationery.`,
         image: "images/Eventpics/e94.jpg",
       },
-      /*{
+      {
         eventDate: "25 October 2024",
         place: `Government Tribal Residential Boys Higher Secondary School, Mullukuruchi`,
         Members: "7 Volunteers",
         Description: `We met the students. We offered a range of services, including Career Guidance, Psychological counselling, and Motivational workshops, to students in grades 6-12, along with distributing essential stationery.`,
         image: "images/Eventpics/e95.jpg",
       },
-      {
+      /*{
         eventDate: "26 OCtober 2024",
         place: `Government Tribal Residential Higher Secondary School, Sengarai`,
         Members: "12 Volunteers",
