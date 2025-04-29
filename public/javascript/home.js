@@ -273,7 +273,7 @@
         {
           name: "Vishali M",
           designation: "Incharge - NH & EM",
-          image: "images/member/vishali.jpeg",
+          image: "images/member/Vishali.jpeg",
           facebook: "",
           instagram: "",
         },
