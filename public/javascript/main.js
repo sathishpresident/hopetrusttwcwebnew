@@ -526,6 +526,76 @@
         image: "images/Eventpics/e63.jpg",
       },
       {
+        eventDate: "02 October 2023",
+        place: `Kuppathupalayam village in Thiruvallur district`,
+        Members: "08 Volunteers",
+        Description: `We distributed 40 Tarpaulin sheets to families in Kuppathupalayam village in Thiruvallur district, to cover their shelter to protect from adverse conditions like rain and cyclones.`,
+        image: "images/Eventpics/e64.jpg",
+      },
+      {
+        eventDate: "27 October 2023",
+        place: `Government Tribal Residential Higher Secondary School, Mullukuruchi, Namakkal distric`,
+        Members: "10 Volunteers",
+        Description: `We visited Government Tribal Residential Higher Secondary School, Mullukuruchi located in Namakkal district, our training classes were conducted for students of grades 6-12 in this school. Also, after having a brief conversation there regarding mental health students felt warmth and support.`,
+        image: "images/Eventpics/e65.jpg",
+      },
+      {
+        eventDate: "28 October 2023",
+        place: `Government Tribal Residential Higher Secondary School, Arunuthumalai`,
+        Members: "11 Volunteers",
+        Description: `We met the students of Government Tribal Residential Higher Secondary School, Arunuthumalai. Since we had already visited the schools, the students recognized us and welcomed us enthusiastically. The teachers were also very welcoming and supportive. There, a counselling test related to Concentration Level and Mental Stability was conducted for the students and advice was given to the students based on the score. All this was done by the trained members of our Trust.`,
+        image: "images/Eventpics/e66.jpg",
+      },
+      {
+        eventDate: "29 October 2023",
+        place: `Eklavya Model Residential Higher Secondary School, Sengarai`,
+        Members: "11 Volunteers",
+        Description: `We met the students of Eklavya Model Residential Higher Secondary School, Sengarai. as we had already visited the schools, the students recognized us and welcomed us enthusiastically. The teachers were also very welcoming and supportive. There, a counselling test related to Concentration Level and Mental Stability was conducted for the students and advice was given to the students based on the score. All this was done by the trained members of our Trust.`,
+        image: "images/Eventpics/e67.jpg",
+      },
+      {
+        eventDate: "30 October 2023",
+        place: `Government Tribal Residential Higher Secondary School, Vallavanthinadu`,
+        Members: "11 Volunteers",
+        Description: `We visited Government Tribal Residential Higher Secondary School, Vallavanthinadu , our training classes were conducted for students of grades 6-12 in this school. Also, after having a brief conversation there regarding mental health students felt warmth and support.`,
+        image: "images/Eventpics/e68.jpg",
+      },
+      {
+        eventDate: "11 November 2023",
+        place: `Eklavya Model Residential Higher Secondary School, Yercaud, Salem District`,
+        Members: "10 Volunteers",
+        Description: `We met the students of Eklavya Model Residential Higher Secondary School, Yercaud, Salem District, were Career Guidance, Psychological, Motivational classes were conducted by our Trust volunteers for students of grades 6 to 12`,
+        image: "images/Eventpics/e69.jpg",
+      },
+      {
+        eventDate: "05 November 2023",
+        place: `Eklavya Model Residential Higher Secondary School, located in the Vellimalai, Kallakurichi District`,
+        Members: "10 Volunteers",
+        Description: `We met the students of Eklavya Model Residential Higher Secondary School, located in the ellimalai, Kallakurichi District, were Career Guidance, Psychological, Motivational classes were conducted by our Trust volunteers for students of grades 6 to 12. A conversation on life was also held.`,
+        image: "images/Eventpics/e70.jpg",
+      },
+      {
+        eventDate: "01 December 2023",
+        place: `Government Model Higher Secondary School, Thuneri`,
+        Members: "06 Volunteers",
+        Description: `We visited Government Model Higher Secondary School, Thuneri, our training classes were Career Guidance, Psychological, Motivational classes were conducted by our Trust volunteers for students of grades 6 to 12 and Hope Trust's educational classes were also conducted.`,
+        image: "images/Eventpics/e71.jpg",
+      },
+      {
+        eventDate: "02 December 2023",
+        place: `Government Tribal Residential High Secondary School, Bokkapuram`,
+        Members: "06 Volunteers",
+        Description: `We interacted with the students of Government Tribal Residential High Secondary School, Bokkapuram, our training classes were Career Guidance, Psychological, Motivational classes were conducted by our Trust volunteers for students of grades 6 to 12 and Hope Trust's educational classes were also conducted.`,
+        image: "images/Eventpics/e72.jpg",
+      },
+      {
+        eventDate: "03 December 2023",
+        place: `Eklavya Model Residential Higher Secondary School, Mpalada, Niligiris District`,
+        Members: "06 Volunteers",
+        Description: `We visited Eklavya Model Residential Higher Secondary School, Mpalada, Niligiris District, our training classes were Career Guidance, Psychological, Motivational classes were conducted by our Trust volunteers for students of grades 6 to 12 and Hope Trust's educational classes were also conducted.`,
+        image: "images/Eventpics/e73.jpg",
+      },
+      {
         eventDate: "06 January 2024",
         place: `Government Tribal Residential Higher Secondary  School, Kottaputhur, Kallakurichi `,
         Members: "13 Volunteers",
@@ -609,7 +679,7 @@
         Description: `We met the students  , we offered a range of services, including Career Guidance, Psychological counselling, and Motivational workshops, to students in grades 6-12, along with distributing essential stationery.`,
         image: "images/Eventpics/e85.jpg",
       },
-      /*{
+      {
         eventDate: "21 July 2024",
         place: `Government Tribal Residential Higher Secondary School, Komugi Dam`,
         Members: "07 Volunteers",
@@ -643,7 +713,7 @@
         Members: "03 Volunteers",
         Description: `We met the students  . Our Trust volunteers delivered Career Guidance, Psychological, and Motivational classes and distributed stationery to students in grades 6-12.`,
         image: "images/Eventpics/e90.jpg",
-      },*/
+      },
       {
         eventDate: "17 August 2024",
         place: `Government Tribal Residential Higher Secondary School, Pathukani`,
@@ -651,7 +721,7 @@
         Description: `We had a session with the students  . Our Trust volunteers empowered students in grades 6-12 with Career Guidance, Psychological tools, and Motivational inspiration, and equipped them with essential stationery.`,
         image: "images/Eventpics/e91.jpg",
       },
-      /*{
+      {
         eventDate: "30 August 2024",
         place: `Government Tribal Residential Higher Secondary School, Karumandurai`,
         Members: "15 Volunteers",
@@ -664,7 +734,7 @@
         Members: "14 Volunteers",
         Description: `We had a session with the students  . Our Trust volunteers delivered Career Guidance, Psychological, and Motivational classes and distributed stationery to students in grades 6-12.`,
         image: "images/Eventpics/e93.jpg",
-      },*/
+      },
       {
         eventDate: "25 October 2024",
         place: `Government Tribal Residential Girls Higher Secondary School, Mullukuruchi`,
@@ -686,13 +756,13 @@
         Description: `We interacted with the students . Our volunteers dedicated their time to delivering Career Guidance, Psychological, and Motivational programs for students in grades 6-12, and further supported them by distributing stationery.`,
         image: "images/Eventpics/e96.jpg",
       },
-      /*{
+      {
         eventDate: "28 October 2024",
         place: `Government Tribal Residential Higher Secondary School, Vallavanthinadu`,
         Members: "11 Volunteers",
         Description: `We interacted with the students  . Students from grades 6 to 12 benefited from Career Guidance, Psychological, and Motivational sessions led by our Trust volunteers, and received stationery supplies.`,
         image: "images/Eventpics/e97.jpg",
-      },*/
+      },
       {
         eventDate: "08 November 2024",
         place: `Government Tribal Residential Higher Secondary School, Anaikatti`,
@@ -707,7 +777,7 @@
         Description: `We visited this school campus . Our Trust volunteers empowered students in grades 6-12 with Career Guidance, Psychological tools, and Motivational inspiration, and equipped them with essential stationery.`,
         image: "images/Eventpics/e99.jpg",
       },
-      /*{
+      {
         eventDate: "15 November 2024",
         place: `Government Tribal Residential Higher Secondary School, Velligoundanur`,
         Members: "12 Volunteers",
@@ -727,14 +797,14 @@
         Members: "11 Volunteers",
         Description: `We interacted with the students . We invested in the future of students in grades 6-12 by providing them with Career Guidance, Psychological support, Motivational training, and necessary stationery.`,
         image: "images/Eventpics/e102.jpg",
-      },*/
-      /*{
+      },
+      {
         eventDate: "29 November 2024",
         place: `Government Tribal Residential High School, Kargudi`,
         Members: "08 Volunteers",
         Description: `We met the students  . Our Trust volunteers empowered students in grades 6-12 with Career Guidance, Psychological tools, and Motivational inspiration, and equipped them with essential stationery.`,
         image: "images/Eventpics/e103.jpg",
-      },*/
+      },
       {
         eventDate: "29 November 2024",
         place: `Government Tribal Residential Higher Secondary School, Bokkapuram`,
@@ -742,13 +812,13 @@
         Description: `We interacted with the students . Our Trust volunteers delivered Career Guidance, Psychological, and Motivational classes and distributed stationery to students in grades 6-12.`,
         image: "images/Eventpics/e104.jpg",
       },
-      /*{
+      {
         eventDate: "30 November 2024",
         place: `Eklavya Model Residential Higher Secondary School, Mpalada`,
         Members: "11 Volunteers",
         Description: `We interacted with the students  . Trust volunteers engaged with students in grades 6-12, conducting Career Guidance, Psychological, and Motivational classes, and providing stationery.`,
         image: "images/Eventpics/e105.jpg",
-      },*/
+      },
       {
         eventDate: "02 December 2024",
         place: `Government Tribal Residential Higher Secondary School, Top Sengattupatti.`,

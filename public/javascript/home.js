@@ -175,7 +175,7 @@
       {
         name: "Harish K R",
         designation: "Senior Manager - Trust",
-        image: "images/member/harish.jpg",
+        image: "images/member/blank_profile.jpg",
         facebook: "",
         instagram: "",
       },
@@ -200,6 +200,13 @@
         facebook: "",
         instagram: "",
       },
+      {
+        name: "Sundhareshwaran A",
+        designation: "Advisor 2",
+        image: "images/member/blank_profile.jpg",
+        facebook: "",
+        instagram: "",
+     },
       /*{
         name: "Manigandan S",
         designation: "Organizer - Needy Hunters/Event Management/IS TS ",
@@ -340,13 +347,7 @@
         facebook: "",
         instagram: "",
       },*/
-     {
-         name: "Sundhareshwaran A",
-         designation: "Advisor 2",
-         image: "images/member/blank_profile.jpg",
-         facebook: "",
-         instagram: "",
-      },
+     
       /*{
         name: "Bharath Kumar S",
         designation: "Leader - Fund Raising",
@@ -531,7 +532,7 @@
                             </h6>
                             <span class="position">${member.designation}</span>
 
-                            <div class="cs-post-footer">
+                            <!-- <div class="cs-post-footer">
                                 <div class="cs-footer-share">
                                     <a href="${member.facebook}" target="_blank">
                                         <i class="fa fa-facebook"></i>
@@ -540,7 +541,7 @@
                                         <i class="fa fa-instagram"></i>
                                     </a>
                                 </div>
-                            </div> 
+                            </div> -->
                         </div>
                     </div>
                 </div>

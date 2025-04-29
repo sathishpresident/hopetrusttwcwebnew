@@ -647,6 +647,7 @@ input[type="color"],
 
 .header .header-wrap .logo {	
 	height: 45px;
+	width: 150px;
 	-webkit-transition: all 0.3s ease-in-out;
 	   -moz-transition: all 0.3s ease-in-out;
 		-ms-transition: all 0.3s ease-in-out;
@@ -654,6 +655,14 @@ input[type="color"],
 			transition: all 0.3s ease-in-out;	
 	float: left;
 	margin: 33px 300px 0 0;	
+	display: flex;
+	align-items: center;
+}
+.header .header-wrap .logo img{
+	height: 100px;
+	width: 150px; 
+	display: block;
+
 }
 
 .header .header-wrap .nav-wrap {

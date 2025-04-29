@@ -4,7 +4,12 @@
 	.header .header-wrap .logo {
 		margin: 35px 70px 0 30px;
 	}
+    .header .header-wrap .logo img{
+		height: 60px; /* Limit the logo height */
+		width: auto;
+		display: block;
 
+	}
 	.header.upscrolled .header-wrap .logo {
 		margin: 35px 155px 0 30px;
 	}
