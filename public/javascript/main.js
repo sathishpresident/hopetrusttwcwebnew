@@ -817,7 +817,7 @@
         place: `Eklavya Model Residential Higher Secondary School, Mpalada`,
         Members: "11 Volunteers",
         Description: `We interacted with the students  . Trust volunteers engaged with students in grades 6-12, conducting Career Guidance, Psychological, and Motivational classes, and providing stationery.`,
-        image: "images/Eventpics/e105.jpg",
+        image: "images/Eventpics/e105.JPG",
       },
       {
         eventDate: "02 December 2024",
