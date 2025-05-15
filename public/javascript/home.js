@@ -278,6 +278,69 @@
         instagram: "",
       },
       {
+        name: "Sridhar K",
+        designation: "INcharge - NH & EM",
+        image: "images/member/blank_profile.jpg",
+        facebook: "",
+        instagram: "",
+      },
+      /*{
+        name: "Nishanth M",
+        designation: "Manager - Event Management",
+        image: "images/member/Nishanth.jpeg",
+        facebook: "",
+        instagram: "",
+      },*/
+      /*{
+        name: "Arun Kumar",
+        designation: "Manager - Fund Raising",
+        image: "images/member/blank_profile.jpg",
+        facebook: "",
+        instagram: "",
+      },*/
+      {
+        name: "Sivaprashanth P",
+        designation: "Incharge - IS TS",
+        image: "images/member/siva_prashanth.jpeg",
+        facebook: "",
+        instagram: "",
+      },
+      {
+        name: "Venkataramanan R",
+        designation: "Incharge - Admin VC",
+        image: "images/member/blank_profile.jpg",
+        facebook: "",
+        instagram: "",
+      },
+      {
+        name: "Rajesh R",
+        designation: "Incharge - Admin",
+        image: "images/member/rajesh.jpg",
+        facebook: "",
+        instagram: "",
+      },
+      /*{
+        name: "Mohana Ganesh K",
+        designation: "Manager - Internal Strengthening : Career Emulators",
+        image: "images/member/mohanaganesh.jpeg",
+        facebook: "",
+        instagram: "",
+      },*/
+      {
+        name: "Naveen V A",
+        designation: "Incharge - NH & EM",
+        image: "images/member/blank_profile.jpg",
+        facebook: "",
+        instagram: "",
+      },
+      {
+        name: "Vishali M",
+        designation: "Incharge - NH & EM",
+        image: "images/member/blank_profile.jpg",
+        facebook: "",
+        instagram: "",
+      },
+      {
         name: "Mythili P",
         designation: "Incharge - IS TS",
         image: "images/member/blank_profile.jpg",
