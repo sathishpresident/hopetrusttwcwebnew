@@ -4,7 +4,12 @@
 	.header .header-wrap .logo {
 		margin: 35px 70px 0 30px;
 	}
+    .header .header-wrap .logo img{
+		height: 60px; /* Limit the logo height */
+		width: auto;
+		display: block;
 
+	}
 	.header.upscrolled .header-wrap .logo {
 		margin: 35px 155px 0 30px;
 	}
@@ -316,6 +321,13 @@
 	.flat-portfolio.v2 .item {
 		width: 50%;
 	}
+	.quotes {
+		font-size: 15px;
+		padding: 8px;
+	}
+	.quotes .author {
+		font-size: 13px;
+	}
 }
 
 /* Tablet Landscape
@@ -466,7 +478,19 @@
 	footer.padding-top120px {
 		padding: 35px 0 25px!important;
 	}
-}
+	.quotes {
+		
+		font-size: 14px;
+		padding: 6px;
+		max-width: 90%;          
+	}
+	.quotes .author {
+		text-align: center;      
+		font-size: 12px;
+		white-space: nowrap;    
+	}
+	
+  }
 
 /* Mobile Landscape Size */
 @media only screen and (min-width: 480px) and (max-width: 767px) {
@@ -748,6 +772,14 @@
 		font-weight: 500!important;
 		line-height: 24px!important;
 		font-size: 13px!important;
+	}
+	.quotes {
+		font-size: 14px;
+		padding: 6px;
+	}
+	.quotes .author {
+		font-size: 12px;
+		text-align: center; 
 	}
 }
 

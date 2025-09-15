@@ -87,7 +87,7 @@ html[xmlns] .slides {display: block;}
 .flexslider .flex-control-nav li {
     margin: 0 2px;
     display: inline-block;
-    zoom: 1;
+    zoom: 0;
    /* *display: inline;*/
 }
 

@@ -175,7 +175,7 @@
       {
         name: "Harish K R",
         designation: "Senior Manager - Trust",
-        image: "images/member/harish.jpg",
+        image: "images/member/blank_profile.jpg",
         facebook: "",
         instagram: "",
       },
@@ -200,6 +200,13 @@
         facebook: "",
         instagram: "",
       },
+      {
+        name: "Sundhareshwaran A",
+        designation: "Advisor 2",
+        image: "images/member/blank_profile.jpg",
+        facebook: "",
+        instagram: "",
+     },
       /*{
         name: "Manigandan S",
         designation: "Organizer - Needy Hunters/Event Management/IS TS ",
@@ -207,69 +214,132 @@
         facebook: "",
         instagram: "",
       },*/
+     {
+        name: "Sridhar K",
+        designation: "INcharge - NH & EM",
+        image: "images/member/blank_profile.jpg",
+        facebook: "",
+        instagram: "",
+      },
+      /*{
+        name: "Nishanth M",
+        designation: "Manager - Event Management",
+        image: "images/member/Nishanth.jpeg",
+        facebook: "",
+        instagram: "",
+      },*/
+      /*{
+        name: "Arun Kumar",
+        designation: "Manager - Fund Raising",
+        image: "images/member/blank_profile.jpg",
+        facebook: "",
+        instagram: "",
+      },*/
       {
-          name: "Sridhar K",
-          designation: "INcharge - NH & EM",
-          image: "images/member/blank_profile.jpg",
-          facebook: "",
-          instagram: "",
-        },
-        /*{
-          name: "Nishanth M",
-          designation: "Manager - Event Management",
-          image: "images/member/Nishanth.jpeg",
-          facebook: "",
-          instagram: "",
-        },*/
-        /*{
-          name: "Arun Kumar",
-          designation: "Manager - Fund Raising",
-          image: "images/member/blank_profile.jpg",
-          facebook: "",
-          instagram: "",
-        },*/
-        {
-          name: "Sivaprashanth P",
-          designation: "Incharge - IS TS",
-          image: "images/member/siva_prashanth.jpeg",
-          facebook: "",
-          instagram: "",
-        },
-        {
-          name: "Venkataramanan R",
-          designation: "Incharge - Admin VC",
-          image: "images/member/blank_profile.jpg",
-          facebook: "",
-          instagram: "",
-        },
-        {
-          name: "Rajesh R",
-          designation: "Incharge - Admin",
-          image: "images/member/rajesh.jpg",
-          facebook: "",
-          instagram: "",
-        },
-        /*{
-          name: "Mohana Ganesh K",
-          designation: "Manager - Internal Strengthening : Career Emulators",
-          image: "images/member/mohanaganesh.jpeg",
-          facebook: "",
-          instagram: "",
-        },*/
-        {
-          name: "Naveen V A",
-          designation: "Incharge - NH & EM",
-          image: "images/member/blank_profile.jpg",
-          facebook: "",
-          instagram: "",
-        },
-        {
-          name: "Vishali M",
-          designation: "Incharge - NH & EM",
-          image: "images/member/vishali.jpeg",
-          facebook: "",
-          instagram: "",
-        },
+        name: "Sivaprashanth P",
+        designation: "Incharge - IS TS",
+        image: "images/member/siva_prashanth.jpeg",
+        facebook: "",
+        instagram: "",
+      },
+      {
+        name: "Venkataramanan R",
+        designation: "Incharge - Admin VC",
+        image: "images/member/blank_profile.jpg",
+        facebook: "",
+        instagram: "",
+      },
+      {
+        name: "Rajesh R",
+        designation: "Incharge - Admin",
+        image: "images/member/rajesh.jpg",
+        facebook: "",
+        instagram: "",
+      },
+      /*{
+        name: "Mohana Ganesh K",
+        designation: "Manager - Internal Strengthening : Career Emulators",
+        image: "images/member/mohanaganesh.jpeg",
+        facebook: "",
+        instagram: "",
+      },*/
+      {
+        name: "Naveen V A",
+        designation: "Incharge - NH & EM",
+        image: "images/member/blank_profile.jpg",
+        facebook: "",
+        instagram: "",
+      },
+      {
+        name: "Vishali M",
+        designation: "Incharge - NH & EM",
+        image: "images/member/blank_profile.jpg",
+        facebook: "",
+        instagram: "",
+      },
+      {
+        name: "Sridhar K",
+        designation: "INcharge - NH & EM",
+        image: "images/member/blank_profile.jpg",
+        facebook: "",
+        instagram: "",
+      },
+      /*{
+        name: "Nishanth M",
+        designation: "Manager - Event Management",
+        image: "images/member/Nishanth.jpeg",
+        facebook: "",
+        instagram: "",
+      },*/
+      /*{
+        name: "Arun Kumar",
+        designation: "Manager - Fund Raising",
+        image: "images/member/blank_profile.jpg",
+        facebook: "",
+        instagram: "",
+      },*/
+      {
+        name: "Sivaprashanth P",
+        designation: "Incharge - IS TS",
+        image: "images/member/siva_prashanth.jpeg",
+        facebook: "",
+        instagram: "",
+      },
+      {
+        name: "Venkataramanan R",
+        designation: "Incharge - Admin VC",
+        image: "images/member/blank_profile.jpg",
+        facebook: "",
+        instagram: "",
+      },
+      {
+        name: "Rajesh R",
+        designation: "Incharge - Admin",
+        image: "images/member/rajesh.jpg",
+        facebook: "",
+        instagram: "",
+      },
+      /*{
+        name: "Mohana Ganesh K",
+        designation: "Manager - Internal Strengthening : Career Emulators",
+        image: "images/member/mohanaganesh.jpeg",
+        facebook: "",
+        instagram: "",
+      },*/
+      {
+        name: "Naveen V A",
+        designation: "Incharge - NH & EM",
+        image: "images/member/blank_profile.jpg",
+        facebook: "",
+        instagram: "",
+      },
+      {
+        name: "Vishali M",
+        designation: "Incharge - NH & EM",
+        image: "images/member/blank_profile.jpg",
+        facebook: "",
+        instagram: "",
+      },
       {
         name: "Mythili P",
         designation: "Incharge - IS TS",
@@ -340,13 +410,7 @@
         facebook: "",
         instagram: "",
       },*/
-     {
-         name: "Sundhareshwaran A",
-         designation: "Advisor 2",
-         image: "images/member/blank_profile.jpg",
-         facebook: "",
-         instagram: "",
-      },
+     
       /*{
         name: "Bharath Kumar S",
         designation: "Leader - Fund Raising",
@@ -531,7 +595,7 @@
                             </h6>
                             <span class="position">${member.designation}</span>
 
-                            <div class="cs-post-footer">
+                            <!-- <div class="cs-post-footer">
                                 <div class="cs-footer-share">
                                     <a href="${member.facebook}" target="_blank">
                                         <i class="fa fa-facebook"></i>
@@ -540,7 +604,7 @@
                                         <i class="fa fa-instagram"></i>
                                     </a>
                                 </div>
-                            </div> 
+                            </div> -->
                         </div>
                     </div>
                 </div>
