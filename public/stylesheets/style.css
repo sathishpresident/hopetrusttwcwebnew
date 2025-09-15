@@ -647,6 +647,7 @@ input[type="color"],
 
 .header .header-wrap .logo {	
 	height: 45px;
+	width: 150px;
 	-webkit-transition: all 0.3s ease-in-out;
 	   -moz-transition: all 0.3s ease-in-out;
 		-ms-transition: all 0.3s ease-in-out;
@@ -654,6 +655,14 @@ input[type="color"],
 			transition: all 0.3s ease-in-out;	
 	float: left;
 	margin: 33px 300px 0 0;	
+	display: flex;
+	align-items: center;
+}
+.header .header-wrap .logo img{
+	height: 100px;
+	width: 150px; 
+	display: block;
+
 }
 
 .header .header-wrap .nav-wrap {
@@ -2537,3 +2546,96 @@ transition:all 0s;
 .content-post .more{
 	display:none;
 }
+
+/*------stgp event slide-----*/
+.flat-row .row .event-section {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap: 40px;
+	padding: 40px 20px;
+	flex-wrap: wrap;
+	background: #fff;
+	margin-top: -25px;
+}
+
+.flat-row .row .event-section .left-slideshow-box,
+.flat-row .row .event-section .right-slideshow-box {
+  width: 200px;
+  height: 400px;
+  overflow: hidden;
+  position: relative;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  flex: 1 1 300px;
+}
+
+/* Slide image */
+.flat-row .row .event-section .slide {
+  display: none;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 10px;
+  transition: opacity 0.5s ease-in-out;
+  opacity: 0;
+}
+
+.flat-row .row .event-section .slide.active {
+	display: block;
+	opacity: 1;
+}
+
+.flat-row .row .event-section .event-story{
+	text-align: justify;
+	color: #000;
+}
+
+.flat-row .row .event-title{
+	font-size: 19px;
+    line-height: 36px;
+    color: #c7b250;
+    text-transform: uppercase;
+    font-weight: 700;
+	margin-left: 27px;
+}
+
+/*-- magazine  -- */
+.pdf-container {
+	height: 100vh;  
+	width: 100vw;    
+	overflow: hidden;
+  }
+
+  .pdf-container iframe {
+	border: none;
+	width: 100%;
+	height: 100%;
+  }
+
+  .quotes {
+	text-align: center;
+	color: #181616;
+	font-size: 16px;
+	font-style: italic;
+	font-weight: bold;
+	max-width: 800px;
+	margin: 0 auto;  
+	padding: 10px;
+  }
+  
+  .quotes p {
+	margin: 0 0 10px;
+  }
+  
+  .quotes .author {
+	text-align: right;   
+	font-size: 14px;
+	font-style: normal;
+	font-weight: 600;
+	margin-top: 10px;
+	white-space: nowrap; 
+  }
