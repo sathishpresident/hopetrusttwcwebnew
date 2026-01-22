@@ -446,7 +446,7 @@
         Description: `Many government school teachers who know about the work of HOPE Trust approach me with the good intention of having their students benefit from our training courses as well. Following this, we went to a government model high school in Thuneri, Nilgiri district. For the last three years, we have been giving some help to that school and encouraging people through some classes on further studies and personality development. This year (and every year), we have been invited to attend by the headmaster and the teachers of the 9th, 10th, 11th, and 12th grades. Volunteers of the Trust conducted life guidance classes for students.`,
         image: "images/Eventpics/e49.jpg",
       },*/
-      {
+      /*{
         eventDate: "07 January 2023",
         place:
           "Government Tribal  Residential Higher Secondary School, Komugi Dam,Kallakurichi District",
@@ -460,9 +460,6 @@
           Government Tribal Residential High School,Manalodai, Kanniyakumari district.`,
         Members: "08 Volunteers",
         Description:'We began the Republic Day celebrations with great joy and enthusiasm from the local community. Students participated in sports competitions and dance performances, with prior training. Volunteers presented vibrant performances through dance, drama, and speech, offering both entertainment and reflection',
-        /*Description: `A team of our volunteers left Chennai to organize the 51st and 52nd events in Puravilai and Manalodai villages in Kanyakumari district. As planned, we reached Kulithurai from Chennai, and from there we reached Puravelai village by a good route. We started the Republic Day celebrations with joy and enthusiasm from the people there.
-        Sports competitions were held for the students, dance training was given to them, and they were made to dance in the festival. Through various arts, including dance, drama, and speech, a group of volunteers performed the performance as a feast for the eyes and thought-provoking for the audience.
-        The next day, we left Puravilai and reached the Government Palagudiyar High School in Manalodai village. In order to improve the academic performance of the students throughout the day, students from 1st to 9th grade were divided into 3 classes, i.e., students from 1st to 3rd grade were divided into the 1st class, and 4th to 6th grade was another class. "Moral value games" were conducted by our Trust volunteers, and prizes were given to all the students who participated in the game competition on behalf of Hope Trust!`,*/
         image: "images/Eventpics/e51_52.jpg",
       },
       {
@@ -471,9 +468,6 @@
           Government Tribal Residential Higher secondary school, Nammiyampattu, Thiruvanamalai District.`,
         Members: "08 Volunteers",
         Description:'At this school, we conducted training courses on "Fun with Numbers" and "English as a Second Language," which made a great impression and sparked interest among the students. We also engaged them in discussions on career guidance, personal development, and fun events.',
-        /*Description: `We went to the Government Tribal High School in Thalamalai, Erode District. We came to know about this school through the guidance and encouragement of the Director of Tribal Welfare. We heard a lot of good information about this school, so we were very interested in going there. On reaching the school, the teachers and students gave us a warm welcome.
-        In this school, we went with the training courses "Fun with Numbers" and "English as a Second Language". It made a great impression and aroused interest among the students. Such a new initiative will bring English education to the students.
-        After this, we went to the Nambiyampatu Government Tribal Welfare Higher Secondary School of Tiruvannamalai district, which we had already visited. There, we met the students and teachers and discussed career guidance, personal development, and many other topics.`,*/
         image: "images/Eventpics/e53_54.jpg",
       },
       {
@@ -531,7 +525,7 @@
         Members: "08 Volunteers",
         Description: `We distributed 40 tarpaulin sheets to families in Kuppathupalayam village, located in Thiruvallur district. This initiative aimed to help them reinforce their shelters and stay protected from heavy rains and frequent cyclones, offering some relief and security during harsh weather conditions.`,
         image: "images/Eventpics/e64.jpg",
-      },
+      },*/
       {
         eventDate: "27 October 2023",
         place: `Government Tribal Residential Higher Secondary School, Mullukuruchi, Namakkal distric`,
@@ -539,7 +533,7 @@
         Description: `We visited Government Tribal Residential Higher Secondary School, Mullukuruchi, Namakkal district, where our volunteers conducted training classes for students of grades 6-12. Additionally, we engaged in a conversation on mental health, which made the students feel supported and cared for.`,
         image: "images/Eventpics/e65.jpg",
       },
-      {
+      /*{
         eventDate: "28 October 2023",
         place: `Government Tribal Residential Higher Secondary School, Arunuthumalai`,
         Members: "11 Volunteers",
@@ -559,7 +553,7 @@
         Members: "11 Volunteers",
         Description: `This time, we visited the Government Tribal Residential Higher Secondary School in Vallavanthinadu, where our volunteers conducted training sessions for students from grades 6 to 12. In addition to academic support, we also held a meaningful discussion on mental health, creating a safe space for students to share, reflect, and feel supported. The session aimed to promote emotional well-being and let the students know they are not alone in their journey`,
         image: "images/Eventpics/e68.jpg",
-      },
+      },*/
       {
         eventDate: "04 November 2023",
         place: `Eklavya Model Residential Higher Secondary School, Yercaud, Salem District`,
@@ -567,7 +561,7 @@
         Description: `We had the opportunity to meet the students of Eklavya Model Residential Higher Secondary School in Yercaud, located in Salem district. Our team conducted career guidance sessions along with psychological and motivational classes for students from grades 6 to 12, aiming to inspire them, boost their confidence, and help them explore future possibilities with clarity and purpose.`,
         image: "images/Eventpics/e69.jpg",
       },
-      {
+      /*{
         eventDate: "05 November 2023",
         place: `Eklavya Model Residential Higher Secondary School, located in the Vellimalai, Kallakurichi District`,
         Members: "10 Volunteers",
@@ -587,7 +581,7 @@
         Members: "06 Volunteers",
         Description: `We had the opportunity to interact with the students of Government Tribal Residential Higher Secondary School in Bokkapuram. Our dedicated volunteers conducted career guidance, psychological, and motivational sessions for students from grades 6 to 12. These sessions were further enriched by educational programs from Hope Trust, making it a holistic and engaging experience for the students.`,
         image: "images/Eventpics/e72.jpg",
-      },
+      },*/
       {
         eventDate: "03 December 2023",
         place: `Eklavya Model Residential Higher Secondary School, Mpalada, Niligiris District`,
@@ -602,7 +596,7 @@
         Description: `We interacted with the students of Government Tribal Residential Higher Secondary School, Kottaputhur, located in the Kalvarayan Hills of Kallakurichi District. We donated an RO purifier to the school, ensuring clean drinking water for the students. Additionally, our volunteers conducted training classes for students of grades 6 to 12.`,
         image: "images/Eventpics/e74.jpg",
       },
-      {
+      /*{
         eventDate: "07 January 2024",
         place: `Seva High School, Thalvenniyur,Kallakurichi`,
         Members: "13 Volunteers",
@@ -643,7 +637,7 @@
         Members: "08 Volunteers",
         Description: `In this event, we met students of Eklavya Model Residential Higher Secondary School, Keelur, Tirupathur District. In this school, career guidance, psychological and motivational classes were conducted by our trust volunteers for the students of grades 6-8, 9, 10, +1 and +2. Additionally, some stationery items were distributed to the school children to support their education.`,
         image: "images/Eventpics/e80.jpg",
-      },
+      },*/
       {
         eventDate: "21 June 2024",
         place: `Government Tribal Residential Higher Secondary School, Pattarikadu.`,
@@ -651,7 +645,7 @@
         Description: `In this event, we went to meet students of Government Tribal Residential Higher Secondary School, Pattarikadu. Our trust volunteers held some career guidance, psychological support and motivational classes to students in grades 6 to 12. Additionally, multiple stationery items were distributed to the students for their educational needs.`,
         image: "images/Eventpics/e81.JPG",
       },
-      {
+      /*{
         eventDate: "22 June 2024",
         place: `Eklavya Model Residential Higher Secondary School, Kumizhi, Chengalpattu district`,
         Members: "04 Volunteers",
@@ -664,7 +658,7 @@
         Members: "08 Volunteers",
         Description: `We interacted with the students of Government Tribal Residential Higher Secondary School, Hasanur. We provided educational and material support to students in grades 6-12 through career guidance, psychological, counselling and motivational classes and with stationery distribution to encourage and support their academic progress.`,
         image: "images/Eventpics/e83.JPG",
-      },
+      },*/
       {
         eventDate: "01 July 2024",
         place: ` Government Tribal Residential Higher Secondary School, Bargur.`,
@@ -672,7 +666,7 @@
         Description: `We had a session with the students of Government Tribal Residential Higher Secondary School, Bargur. We invested in the future of students in grades 6-12 by providing them with career guidance, psychological and motivational training and with multiple necessary stationery to help them achieve their academic goals and personal growth.`,
         image: "images/Eventpics/e84.JPG",
       },
-      {
+      /*{
         eventDate: "20 July 2024",
         place: `Government Tribal Residential Higher Secondary School, Maniyarpaliyam`,
         Members: "07 Volunteers",
@@ -685,7 +679,7 @@
         Members: "07 Volunteers",
         Description: `We had a session with the students of the Government Tribal Residential Higher Secondary School, Komugi Dam, where our trust volunteers provided with career guidance, psychological support and motivational classes to students in grades 6-12. We also distributed stationery to support the student's academic efforts.`,
         image: "images/Eventpics/e86.JPG",
-      },
+      },*/
       {
         eventDate: "10 August 2024",
         place: `Government Tribal Residential Higher Secondary School, Nampiyampattu`,
@@ -693,7 +687,7 @@
         Description: `In this event, we had a session with the lovely students of the Government Tribal Residential Higher Secondary School Nampiyampattu, where students from grades 6 to 12 benefited from career Guidance, counselling, psychological and motivational sessions led by our trust volunteers. To enhance our support for the children’s education, we distributed stationery supplies.`,
         image: "images/Eventpics/e87.JPG",
       },
-      {
+      /*{
         eventDate: "15 August 2024",
         place: `Chennai`,
         Members: "04 Volunteers",
@@ -825,14 +819,326 @@
         Members: "07 Volunteers",
         Description: `We connected with the students of Government Tribal Residential Higher Secondary School in Top Sengattupatti, where our dedicated volunteers delivered career guidance, psychological support and motivational programs. After that, we distributed various essential stationery to students of grades 6 to 12, delivering with smiles and inspiration.`,
         image: "images/Eventpics/e106.jpg",
-      },
+      },*/
       {
         eventDate: "02 December 2024",
         place: `Government Tribal Residential Higher Secondary School, Chinnailupur`,
         Members: "07 Volunteers",
         Description: `We met the talented students of the Government Tribal Residential Higher Secondary School in Chinnailupur, where our dedicated volunteers provided with various career guidance, psychological counseling and motivational workshops for students in grades 6-12. We also distributed essential stationery to the school children to further motivate their learning journey`,
         image: "images/Eventpics/e107.jpg",
+      },
+      {
+        eventDate: "21 June 2025",
+        place: `EMRS - Kumizhi, Chengalpattu.`,
+        Members: "06 Volunteers",
+        Description: `The Trust proudly resumed its Career Guidance Program for tribal students after a long gap.The program inspired students to participate actively and engage with confidence.It highlighted the positive transformation in the learning environment and student mindset.Teachers’ dedication and students’ discipline stood out as clear signs of progress.Through interactive sessions and motivational talks, the initiative reaffirmed our mission to empower tribal youth.`,
+        image: "images/Eventpics/e108.png",
+      },
+      {
+        eventDate: "28 June 2025",
+        place: `Government Tribal Residential Higher Secondary School, Kottaputhur, Kallakurichi District.`,
+        Members: "08 Volunteers",
+        Description: `Our initiative once again reached tribal students, igniting enthusiasm and guiding them toward brighter futures.Students welcomed the sessions with bright smiles and eager minds, showing enthusiasm and determination.Volunteers delivered engaging guidance on careers, life skills, and motivation with passion and dedication.Active participation reflected the students’ growing confidence, discipline, and curiosity.Together, we continue to build pathways of opportunity and nurture dreams for brighter futures.`,
+        image: "images/Eventpics/e109.png",
+      },
+      {
+        eventDate: "28 June 2025",
+        place: `EMRS - Vellimalai, Kallakurichi.`,
+        Members: "08 Volunteers",
+        Description: `The Trust’s second visit brought a renewed spark, with students showing greater confidence and growth since our last program.Sessions introduced practical insights on life skills, career options after 10th and 12th, and preparation for government and entrance exams.Interactive discussions kept students engaged, while fun activities added joy and strengthened teamwork.The improved participation highlighted their evolving discipline, curiosity, and determination to succeed.This visit reinforced our vision of guiding tribal youth toward opportunities that shape brighter futures..`,
+        image: "images/Eventpics/e110.png",
+      },
+      {
+        eventDate: "11 July 2025",
+        place: `Government Tribal Residential Higher Secondary School, Innadu, Kallakurichi District.`,
+        Members: "11 Volunteers",
+        Description: `The program delivered impactful sessions on career guidance, psychological resilience, and motivational growth.Volunteers inspired students with practical insights into academic pathways, examinations, and future opportunities.Engaging activities fostered participation, confidence, and a spirit of collaboration among the learners.The initiative left the hills resonating with knowledge, enthusiasm, and renewed aspirations for brighter futures.`,
+        image: "images/Eventpics/e111.png",
+      },
+      {
+        eventDate: "12 July 2025",
+        place: `Government Tribal Residential Higher Secondary School, Maniyarpalayam, Kallakurichi District.`,
+        Members: "10 Volunteers",
+        Description: `At Higher Secondary School, Maniyarpalayam, our program created a meaningful platform for student engagement.Sessions on life skills, career awareness, and motivational guidance empowered learners to envision brighter futures.Volunteers inspired confidence and resilience, encouraging students to pursue academic and personal excellence.Interactive activities created enthusiasm, collaboration, and a spirit of continuous growth.Our journey across the hills moves forward — nurturing every child, shaping every dream, building every tomorrow.`,
+        image: "images/Eventpics/e112.png",
+      },
+      {
+        eventDate: "25 July 2025",
+        place: `Government Tribal Residential Higher Secondary School, Naripalli, Dharmapuri District.`,
+        Members: "06 Volunteers",
+        Description: `We engaged with students in the Dharmapuri District, offering career guidance, psychological support, and motivational sessions for grades 6–12.Our volunteers worked to uplift their spirits and inspire confidence in their future.To help them stay focused on their education, we also distributed essential stationery supplies, reinforcing hope and purpose in young hearts.`,
+        image: "images/Eventpics/e113.png",
+      },
+      {
+        eventDate: "26 July 2025",
+        place: `Government Tribal Residential Higher Secondary School, Nammiyampattu, Thiruvanamalai District.`,
+        Members: "08 Volunteers",
+        Description: `It was a day filled with powerful student interactions, life skills guidance, and heartfelt motivation, leaving a lasting impact on young minds.This marked the first implementation of Ennai Arindhal 1.0, a program designed specifically for 11th and 12th grade students.The initiative helps them explore their fields of interest and provides guidance to choose the right path for their future, empowering them to stay focused on achieving their dreams.`,
+        image: "images/Eventpics/e114.png",
+      },
+      {
+        eventDate: "02 Augst 2025",
+        place: `EMRS - Keelur , Thirupathur.`,
+        Members: "08 Volunteers",
+        Description: `Through inspiring sessions on career guidance, psychological strength, and motivation, our volunteers sparked hope and purpose in young hearts.The events were designed to upskill students with discipline, helping them overcome exam fear, evolve in academics, and develop essential skills such as time management and pre‑planning.Students actively engaged with the volunteers, asking thoughtful questions that made the sessions even more meaningful and impactful.`,
+        image: "images/Eventpics/e115.png",
+      },
+      {
+        eventDate: "09 Augst 2025",
+        place: `EMRS - Abinavam,Salem.`,
+        Members: "10 Volunteers",
+        Description: `Our volunteers entered the school wholeheartedly, determined to uplift the spirits of young learners living away from their families.We conducted interactive and engaging sessions, including games, to boost their morale and create a joyful, supportive environment.At the end of the program, we distributed stationery items as a token of love.We returned with hearts full of happiness, knowing we had become a small but meaningful step toward the students’ bright future.`,
+        image: "images/Eventpics/e116.png",
+      },
+      {
+        eventDate: "15 Augst 2025",
+        place: `Sai Baba Gurukalam.`,
+        Members: "03 Volunteers",
+        Description: `In the spirit of our 79th Independence Day, we came together to spread love and hope by providing essential provisions to the children at the Gurukulam.This act of service, carried out with heartfelt voluntary support, stands as a tribute to the values of freedom, unity, and compassion. Let us continue to make a difference — one small step at a time, towards a brighter future.`,
+        image: "images/Eventpics/e117.png",
+      },
+      {
+        eventDate: "22 Augst 2025",
+        place: `Government Tribal Residential Higher Secondary School, Barugur , Erode District.`,
+        Members: "08 Volunteers",
+        Description: `A day filled with meaningful student interactions, life skills guidance, and heartfelt motivation left a lasting impact. The sessions inspired confidence, encouraged discipline, and helped students overcome exam fear while learning essential skills such as time management and pre‑planning. Their active participation, thoughtful questions, and eagerness to grow made the experience even more impactful, marking a step forward in shaping their bright future.`,
+        image: "images/Eventpics/e118.png",
+      },
+      {
+        eventDate: "23 Augst 2025",
+        place: `Government Tribal Residential Higher Secondary School, Hasanur, Erode District.`,
+        Members: "09 Volunteers",
+        Description: `It was a day packed with energizing student interactions, practical life hacks, and motivational vibes that truly left a mark. The sessions focused on building confidence, smart study habits, and time management skills, while also showing students how to stay calm under exam pressure and plan ahead effectively. Their active participation and curious questions turned the experience into a collaborative journey, making it not just about guidance but about growth, self‑discovery, and future readiness.`,
+        image: "images/Eventpics/e119.png",
+      },
+      {
+        eventDate: "30 Augst 2025",
+        place: `Government Tribal Residential Higher Secondary School, Chitheri, Dharmapuri District.`,
+        Members: "08 Volunteers",
+        Description: `Each school visit is unique, with programs tailored to the needs of the students. From career guidance and motivational sessions to life skills training on discipline, exam readiness, and time management, our initiatives are designed to inspire confidence and growth. Interactive activities and games create a joyful environment, while we also provide essential stationery and provisions, ensuring students stay supported in their educational journey.`,
+        image: "images/Eventpics/e120.png",
+      },
+      {
+        eventDate: "06 September 2025",
+        place: `EMRS -  Yercaud , Salem`,
+        Members: "11 Volunteers",
+        Description: `Yercaud school will always remain close to our hearts as we conducted the Ennai Arindhal program and discovered the true capabilities of the students’ mindset. We focused on shaping their potential as much as possible, while our volunteers wholeheartedly enjoyed guiding them. Together, we worked to brighten their future, leaving behind memories of growth, hope, and inspiration.`,
+        image: "images/Eventpics/e121.png",
+      },
+      {
+        eventDate: "02 October 2025",
+        place: `Irukkam Island.`,
+        Members: "47 Volunteers",
+        Description: `In remembrance of Gandhi Jayanthi (October 2), we spent a joyful day with the children of Irukkam Island, creating moments of happiness and motivation. These young learners, who travel daily from the island for their studies, were treated to a one‑day event designed to make their day truly special. The celebration was filled with fun games, lively puppetry, dance, drama, and group singing, leaving behind cherished memories of laughter, learning, and togetherness.`,
+        image: "images/Eventpics/e122.jpg",
+      },
+      {
+        eventDate: "10 October 2025",
+        place: `Government Tribal Residential Boys Higher Secondary School, Mullukurichi,Nammakkal District.`,
+        Members: "08 Volunteers",
+        Description: `The boys from the school were full of energy and brought great enthusiasm to every activity.They remained well‑behaved and disciplined, showing respect throughout the sessions.Their cooperative nature made it easy to engage them in meaningful discussions.They actively participated, sharing ideas and asking thoughtful questions.Overall, their spirit and involvement added immense value to the program.`,
+        image: "images/Eventpics/e123.jpg",
+      },
+      {
+        eventDate: "10 October 2025",
+        place: `Government Tribal Residential Higher Secondary School, Sengarai ,Nammakkal District.`,
+        Members: "08 Volunteers",
+        Description: `Our volunteers led sessions that encouraged students to dream bigger and aim higher.They focused on building resilience and mental strength to face challenges with confidence.Through interactive guidance, students discovered new ways to plan their future paths.The atmosphere was filled with positivity, encouragement, and meaningful connections.By the end, young hearts carried a renewed sense of hope and determination.`,
+        image: "images/Eventpics/e124.jpg",
+      },
+      {
+        eventDate: "11 October 2025",
+        place: `Government Tribal Residential Girls Higher Secondary School, Mullukurichi,Nammakkal District.`,
+        Members: "08 Volunteers",
+        Description: `The girls brought a spark of energy and positivity that lit up the entire program.Their grace and discipline created an atmosphere of respect and encouragement.With a team‑oriented mindset, they engaged wholeheartedly in every activity.They voiced their thoughts with confidence, asking curious and meaningful questions.Their presence turned the day into a truly uplifting and memorable experience.`,
+        image: "images/Eventpics/e125.jpg",
+      },
+      {
+        eventDate: "11 October 2025",
+        place: `EMRS - Sengarai , Namakkal.`,
+        Members: "08 Volunteers",
+        Description: `At the scenic Kolli Hills in Namakkal District, we marked our 126th milestone event.The day was filled with meaningful interactions and inspiring activities for the students.Volunteers shared insights on future planning and building inner resilience.Students engaged with enthusiasm, discovering new ways to stay motivated and focused.The experience left behind a spirit of hope, growth, and determination.`,
+        image: "images/Eventpics/e126.jpg",
+      },
+      {
+        eventDate: "13 October 2025",
+        place: `Government Tribal Residential Higher Secondary School, Valavanthinadu, Nammakal District.`,
+        Members: "08 Volunteers",
+        Description: `The program was designed to provide students with structured guidance and meaningful engagement.Sessions focused on career pathways, strengthening psychological resilience, and fostering personal development.Volunteers facilitated interactive discussions that encouraged confidence, curiosity, and active participation among learners.The event concluded with a positive impact, reinforcing the importance of motivation and future readiness`,
+        image: "images/Eventpics/e127.jpg",
+      },
+      {
+        eventDate: "17 October 2025",
+        place: `Government Tribal Residential Higher Secondary School, Vachathi,Dharmapuri District.`,
+        Members: "05 Volunteers",
+        Description: `The program emphasized guidance on future opportunities and helped students understand the value of planning ahead.Discussions on emotional strength encouraged them to face challenges with confidence and clarity.Activities promoting self‑drive and determination inspired learners to take ownership of their goals.Students responded with enthusiasm, showing eagerness to apply these lessons in their daily lives.Overall, the sessions created a strong foundation for growth, resilience, and purposeful ambition`,
+        image: "images/Eventpics/e128.jpg",
+      },{
+        eventDate: "24 October 2025",
+        place: `Government Tribal Residential Higher Secondary School, Velligoundanur, Salem District.`,
+        Members: "09 Volunteers",
+        Description: `The program was conducted in a calm and inspiring environment, fostering meaningful engagement with the students.Sessions emphasized career awareness, emotional resilience, and personal development, encouraging learners to think beyond academics.Volunteers guided discussions that promoted confidence, curiosity, and self‑motivation among participants.Students responded with enthusiasm, actively sharing ideas and embracing new perspectives.The overall experience left a lasting impact, reinforcing values of growth, determination, and future readiness.`,
+        image: "images/Eventpics/e129.jpg",
+      },{
+        eventDate: "25 October 2025",
+        place: `Government Tribal Residential Higher Secondary School, Arunoothumalai, Salem District.`,
+        Members: "12 Volunteers",
+        Description: `We were invited back, warmly welcomed by both students and teachers with wholehearted support.Our trained Trust members conducted a concentration and mental stability test, followed by personalized guidance.The visit also marked the implementation of Yennai Arindhal 1.0, designed to help students explore their interests.Through this, they gained clarity in choosing the right path for their future.Every interaction is filled with love, encouragement, and the joy of seeing students eager to learn.`,
+        image: "images/Eventpics/e130.jpg",
+      },{
+        eventDate: "31 October 2025",
+        place: `Government Tribal Residential Higher Secondary School, Top Sengattupatti, Trichy District.`,
+        Members: "08 Volunteers",
+        Description: `Our passionate mentors hosted engaging talks on career growth, mental wellness, and self‑drive.They sparked curiosity and boosted confidence among young dreamers navigating modern challenges.With relatable stories and practical insights, they connected deeply with the audience.The sessions fueled ambition, resilience, and a sense of belonging in every participant.Together, they ignited a vision of possibility, purpose, and progress for the future.`,
+        image: "images/Eventpics/e131.jpg",
+      },{
+        eventDate: "31 October 2025",
+        place: `Government Tribal Residential Higher Secondary School, Chinnailupur, Trichy District.`,
+        Members: "07 Volunteers",
+        Description: `Dedicated Volenteers hosted interactive workshops for students from grades 6 to 12.These sessions focused on boosting skills, confidence, and real‑world learning.Students explored fresh ideas that expanded their outlook beyond textbooks.\The vibe was energetic, inspiring curiosity and self‑motivation.Together, it sparked a journey of growth, ambition, and future‑ready mindset.`,
+        image: "images/Eventpics/e132.jpg",
+      },
+      {
+        eventDate: "01 November 2025",
+        place: `Government Tribal Residential Higher Secondary School, Kunjapanai, Nilgiris District`,
+        Members: "08 Volunteers",
+        Description: `Energetic volunteers hosted interactive sessions on future careers, mental health, and self‑development.The workshops blended real talk with practical guidance that felt relevant to student life today.Learners gained new perspectives that opened doors beyond academics and traditional paths.The atmosphere encouraged confidence, resilience, and a growth mindset.Together, it sparked clarity, motivation, and a vision for what’s next.`,
+        image: "images/Eventpics/e133.JPG",
+      },
+      {
+        eventDate: "01 November 2025",
+        place: `Government Tribal Residential Higher Secondary School, Anaikatty, Coimbatore District`,
+        Members: "09 Volunteers",
+        Description: `The day buzzed with energy, curiosity, and bold aspirations.Students engaged in interactive workshops, skill‑building tasks, and inspiring conversations that felt real and impactful.Every laugh carried joy, every idea sparked creativity, and every moment built confidence.The vibe nurtured resilience, ambition, and a future‑ready mindset.We wrapped up by presenting meaningful mementos, leaving students with memories to treasure and motivation to carry forward.`,
+        image: "images/Eventpics/e134.JPG",
+      },
+      {
+        eventDate: "07 November 2025",
+        place: `Government Tribal Residential Higher Secondary School, Pathukanni, Kanyakumari District`,
+        Members: "05 Volunteers",
+        Description: `The journey back to GTRHSS Pathukani was filled with nostalgia and new excitement.Stepping in felt like reuniting with old friends, welcomed by bright smiles and curious minds.Students brought unmatched energy, making every interaction meaningful and inspiring.Our volunteers led powerful sessions on motivation, career choices, and essential life skills.Together, we planted seeds of hope, confidence, and future‑ready dreams once again.`,
+        image: "images/Eventpics/e135.png",
+      },
+      {
+        eventDate: "07 November 2025",
+        place: `Government Tribal Residential Higher Secondary School,Manalodai`,
+        Members: "03 Volunteers",
+        Description: `The career event at GTRHS – Manalodai, Kanyakumari district was a day of inspiration and learning.Kind volunteers guided students with sessions on career pathways, motivation, and essential life skills.Their interactive approach made the discussions engaging and relatable for young minds.Students gained clarity, confidence, and a broader vision for their future goals.The event left a lasting impact, planting seeds of hope and ambition for tomorrow.`,
+        image: "images/Eventpics/e136.JPG",
+      },
+      {
+        eventDate: "07 November 2025",
+        place: `Government Tribal Residential Higher Secondary School, Pechiparai, Kanyakumari District`,
+        Members: "08 Volunteers",
+        Description: `We proudly marked our 137th event at Government Tribal Residential Higher Secondary School, Pechiparai.Students engaged in impactful sessions on career growth, emotional strength, and self‑motivation.Each interaction inspired clarity, confidence, and a vision for brighter futures.The calm hills set the backdrop for a day of learning and empowerment.It was a memorable experience, echoing with hope, purpose, and renewed determination.`,
+        image: "images/Eventpics/e137.png",
+      },
+      {
+        eventDate: "16 November 2025",
+        place: `EMRS - Puilampatti, Thiruvanamalai `,
+        Members: "11 Volunteers",
+        Description: `EMRS Puliampatti, Tiruvannamalai, proudly stood out as one of the best schools this academic year.Our fourth visit felt like reuniting with old friends, welcomed by bright smiles and fresh energy.Students engaged wholeheartedly, making every interaction meaningful and inspiring.Volunteers led impactful sessions on motivation, career guidance, and essential life skills.Together, we planted seeds of hope, confidence, and future‑ready dreams once again.`,
+        image: "images/Eventpics/e138.png",
+      },
+      {
+        eventDate: "21 November 2025",
+        place: `Government Tribal Residential Higher Secondary School,Aatiyanur, Tiruvanamalai District `,
+        Members: "03 Volunteers",
+        Description: `Our dedicated volunteers created an atmosphere of curiosity and growth for the students.Interactive discussions opened doors to new perspectives and practical knowledge.Young learners embraced the experience with enthusiasm and a spirit of discovery.The day was filled with meaningful connections and a drive to achieve more.It ended with a sense of empowerment, leaving students motivated for the journey ahead.`,
+        image: "images/Eventpics/E139.png",
+      },
+      {
+        eventDate: "21 November 2025",
+        place: `Government Tribal Residential Higher Secondary School, Pattraikadu, Tiruvanamalai District`,
+        Members: "05 Volunteers",
+        Description: `The visit brought together curious minds eager to learn and grow.Engaging sessions opened doors to new perspectives and practical knowledge.Students embraced the experience with enthusiasm, making each moment meaningful.Volunteers shared insights that encouraged confidence and future‑ready thinking.The day concluded with inspiration that will guide students on their path ahead.`,
+        image: "images/Eventpics/E140.png",
+      },
+      {
+        eventDate: "22 November 2025",
+        place: `Government Tribal Residential Higher Secondary School, Gomugidam, Kallakurichi District`,
+        Members: "08 Volunteers",
+        Description: `Our 141st event was a celebration of learning, connection, and growth.Students engaged in meaningful interactions that built confidence and broadened perspectives.Sessions on life skills and motivation inspired clarity and resilience for the future.The atmosphere was filled with energy, hope, and a spirit of possibility.We closed the day by gifting small stationery items — a simple token of love and encouragement.`,
+        image: "images/Eventpics/E141.png",
+      },
+      {
+        eventDate: "28 November 2025",
+        place: `Government Model Higher Secondary School, Thuneri,Nilgiris District`,
+        Members: "08 Volunteers",
+        Description: `We created an engaging space where students explored new skills and perspectives.Interactive activities encouraged curiosity, teamwork, and a spirit of discovery.Young learners embraced challenges with enthusiasm, turning each moment into an opportunity to grow.The day was filled with meaningful connections that inspired confidence and creativity.It concluded with a renewed sense of ambition, guiding students toward brighter possibilities.`,
+        image: "images/Eventpics/E142.png",
+      },
+      {
+        eventDate: "28 November 2025 & 29 November 2025",
+        place: `Government Tribal Residential Higher Secondary School, Karakudi, Nilgiris District`,
+        Members: "07 Volunteers",
+        Description: `The day unfolded with vibrant energy and meaningful connections among eager learners.Students explored new perspectives through engaging activities that blended knowledge with creativity.Each moment encouraged confidence, resilience, and a spirit of discovery.Volunteers shared insights that opened doors to future possibilities and personal growth.The experience left behind a wave of inspiration, guiding young minds toward brighter horizons.`,
+        image: "images/Eventpics/E143.png",
+      },
+      {
+        eventDate: "29 November 2025",
+        place: `Government Tribal Residential Higher Secondary School, Bokkapuram`,
+        Members: "03 Volunteers",
+        Description: `Event filled with vibrant energy.Students engaged in interactive activities that encouraged curiosity, creativity, and practical learning.Each moment fostered teamwork, confidence, and a spirit of discovery among young learners.Volunteers shared insights that inspired ambition and broadened perspectives beyond the classroom.The day concluded with renewed enthusiasm, leaving students motivated to embrace future opportunities.`,
+        image: "images/Eventpics/E144.png",
+      },
+      {
+        eventDate: "30 November 2025",
+        place: `EMRS - Mpalada,Nilgiris`,
+        Members: "09 Volunteers",
+        Description: `The event unfolded with vibrant energy and meaningful engagement from the students.Interactive sessions encouraged curiosity, creativity, and a spirit of exploration beyond academics.Volunteers shared insights that opened doors to new perspectives and practical skills.\Each moment fostered confidence, resilience, and a drive to achieve greater goals.The day concluded with inspiration that will continue to guide young minds forward.`,
+        image: "images/Eventpics/E145.png",
+      },
+      {
+        eventDate: "05 December 2025",
+        place: `Government Tribal Residential Higher Secondary School, Perumparai, DindigulDistrict`,
+        Members: "05 Volunteers",
+        Description: `The event was filled with curiosity, creativity, and meaningful engagement from young learners.Students explored new ideas through interactive activities that encouraged growth beyond academics.Each session inspired confidence, teamwork, and a spirit of discovery.Volunteers shared valuable insights that broadened perspectives and nurtured ambition.The day concluded with renewed enthusiasm, leaving students motivated to chase future opportunities.`,
+        image: "images/Eventpics/E146.png",
+      },
+      {
+        eventDate: "06 December 2025",
+        place: `Government Tribal Residential Higher Secondary School, Kariyakoilvalavu, Salem District`,
+        Members: "13 Volunteers",
+        Description: `The day filled with enthusiasm and meaningful engagement.Students participated actively in sessions that encouraged curiosity, creativity, and practical learning.Each moment fostered confidence, resilience, and a spirit of discovery among young learners.Volunteers shared valuable insights that broadened perspectives and nurtured ambition for the future.The day concluded with renewed inspiration, leaving students motivated to embrace new opportunities ahead.`,
+        image: "images/Eventpics/E147.png",
+      },
+      {
+        eventDate: "06 December 2025",
+        place: `Government Tribal Residential High School,Pagudupattu, Salem District`,
+        Members: "04 Volunteers",
+        Description: `Our 1st visit to the school was more curiosity Students actively engaged in interactive discussions that encouraged curiosity and creative thinking.Each activity fostered confidence, resilience, and a spirit of exploration beyond academics.Volunteers shared insights that broadened horizons and nurtured ambition for the future.The day concluded with inspiration that will continue to guide young minds toward new opportunities.`,
+        image: "images/Eventpics/E148.png",
+      },
+      {
+        eventDate: "06 December 2025",
+        place: `Government Tribal Residential High School, Kunnur, Salem District`,
+        Members: "04 Volunteers",
+        Description: `The inaugural program at Government Tribal Residential High School, Kunnur, was filled with enthusiasm and learning.Students participated actively in interactive discussions that sparked curiosity and broadened perspectives.Each activity nurtured resilience, creativity, and a spirit of exploration beyond academics.Volunteers shared valuable insights that inspired ambition and future‑ready thinking.The day concluded with renewed motivation, leaving young minds eager to embrace new opportunities.`,
+        image: "images/Eventpics/E149.png",
+      },
+      {
+        eventDate: "06 December 2025",
+        place: `Government Tribal Residential High School, Thekampattu, Salem District`,
+        Members: "04 Volunteers",
+        Description: `Trust’s first program at this School, Thekkampattu, was truly memorable.The day unfolded with vibrant energy as students embraced new ideas with open minds.Engaging activities encouraged creativity, collaboration, and a spirit of exploration beyond the classroom.Volunteers connected deeply, sparking curiosity and inspiring students to think bigger about their future.The experience left behind a wave of positivity, marking a meaningful step in their journey ahead.`,
+        image: "images/Eventpics/E150.png",
+      },
+      {
+        eventDate: "07 December 2025",
+        place: `Seva High School, Thalvenniyur, Salem District`,
+        Members: "19 Volunteers",
+        Description: `For the 5th time, Hope Trust had the privilege of conducting our program at Seva High School, Thalvenniyur.The day was filled with enthusiasm and meaningful participation from the students.Interactive activities encouraged curiosity, creativity, and a spirit of exploration beyond academics.Volunteers shared valuable perspectives that inspired ambition and broadened horizons for the future.The atmosphere reflected positivity, connection, and a sense of shared growth.The program concluded with renewed energy, leaving young learners motivated to embrace new opportunities.`,
+        image: "images/Eventpics/E151.png",
+      },
+      {
+        eventDate: "08 December 2025",
+        place: `Government Tribal Residential Higher Secondary School, Karumandurai ,Salem District`,
+        Members: "19 Volunteers",
+        Description: `The final program of the year was a celebration of growth, learning, and shared purpose.Students embraced the sessions with enthusiasm, making each moment meaningful and memorable.Volunteers connected deeply, inspiring confidence and nurturing a vision for brighter futures.The atmosphere reflected gratitude, positivity, and the joy of collective achievement.As this phase ends, the journey continues with renewed determination for the year ahead.`,
+        image: "images/Eventpics/E152.jpg",
       }
+      
     ];
 
     var events = document.getElementsByClassName("events-story")[0];
