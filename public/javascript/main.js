@@ -1003,14 +1003,14 @@
         place: `Government Tribal Residential Higher Secondary School, Kunjapanai, Nilgiris District`,
         Members: "08 Volunteers",
         Description: `Energetic volunteers hosted interactive sessions on future careers, mental health, and self‑development.The workshops blended real talk with practical guidance that felt relevant to student life today.Learners gained new perspectives that opened doors beyond academics and traditional paths.The atmosphere encouraged confidence, resilience, and a growth mindset.Together, it sparked clarity, motivation, and a vision for what’s next.`,
-        image: "images/Eventpics/e133.JPG",
+        image: "images/Eventpics/e133.jpg",
       },
       {
         eventDate: "01 November 2025",
         place: `Government Tribal Residential Higher Secondary School, Anaikatty, Coimbatore District`,
         Members: "09 Volunteers",
         Description: `The day buzzed with energy, curiosity, and bold aspirations.Students engaged in interactive workshops, skill‑building tasks, and inspiring conversations that felt real and impactful.Every laugh carried joy, every idea sparked creativity, and every moment built confidence.The vibe nurtured resilience, ambition, and a future‑ready mindset.We wrapped up by presenting meaningful mementos, leaving students with memories to treasure and motivation to carry forward.`,
-        image: "images/Eventpics/e134.JPG",
+        image: "images/Eventpics/e134.jpg",
       },
       {
         eventDate: "07 November 2025",
@@ -1024,7 +1024,7 @@
         place: `Government Tribal Residential Higher Secondary School,Manalodai`,
         Members: "03 Volunteers",
         Description: `The career event at GTRHS – Manalodai, Kanyakumari district was a day of inspiration and learning.Kind volunteers guided students with sessions on career pathways, motivation, and essential life skills.Their interactive approach made the discussions engaging and relatable for young minds.Students gained clarity, confidence, and a broader vision for their future goals.The event left a lasting impact, planting seeds of hope and ambition for tomorrow.`,
-        image: "images/Eventpics/e136.JPG",
+        image: "images/Eventpics/e136.jpg",
       },
       {
         eventDate: "07 November 2025",
